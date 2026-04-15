@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(du -sh projects/*/)",
+      "Bash(du -sh --exclude=node_modules --exclude=dist --exclude=build --exclude=.next projects/*/)"
+    ]
+  }
+}
