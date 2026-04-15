@@ -1,0 +1,104 @@
+profile:
+  name: "Tabish Hassan"
+  title: "React.js Frontend Developer"
+  location: "Rawalpindi, Pakistan"
+  timezone: "UTC+5"
+  portfolio_url: "https://tabish-hassan.netlify.app"
+  github: "https://github.com/tabishhassan5121472"
+  availability: "immediate"
+  work_types: ["full-time", "contract", "freelance"]
+
+scoring:
+  weights:
+    react_stack_match: 0.40
+    frontend_signal: 0.15
+    remote_friendly: 0.15
+    seniority_fit: 0.10
+    recency_days_7: 0.10
+    pay_signal: 0.05
+    accessibility_bonus: 0.05
+  penalties:
+    backend_only: 30
+    on_site: 20
+    citizenship_required: 15
+
+keywords:
+  primary:
+    - react
+    - reactjs
+    - react.js
+    - typescript
+    - tailwind
+    - tailwindcss
+    - next.js
+    - nextjs
+    - redux
+    - material-ui
+    - mui
+  secondary:
+    - frontend
+    - front-end
+    - web developer
+    - javascript
+    - accessibility
+    - a11y
+    - wcag
+    - ada
+
+reject_keywords:
+  - gambling
+  - casino
+  - adult
+  - crypto
+  - blockchain
+  - "senior node"
+  - "nestjs lead"
+  - "backend engineer"
+  - on-site
+  - "us citizen"
+  - "eu citizen"
+  - "right to work"
+
+reject_industries:
+  - gambling
+  - adult entertainment
+  - cryptocurrency trading
+
+rates:
+  min_hourly_usd: 5
+  max_hourly_usd: 50
+  preferred_hourly_usd: 15
+
+sources:
+  boards:
+    remotive: true
+    remoteok: true
+    himalayas: true
+    arbeitnow: true
+    jobicy: true
+    weworkremotely: true
+    hn_hiring: true
+  freelance:
+    upwork: true
+    freelancer: true
+    contra: true
+  direct:
+    reddit_forhire: true
+    hn_freelancer: true
+    github_issues: true
+    devto: true
+  oss:
+    github_trending: false
+    up_for_grabs: false
+
+delivery:
+  reports_dir: "reports"
+  email_enabled: false
+  telegram_enabled: false
+  top_n_digest: 20
+
+llm:
+  provider: "anthropic"
+  rerank_model: "claude-haiku-20240307"
+  cover_letter_model: "claude-sonnet-20241022"
+  enabled: false  # set to true once ANTHROPIC_API_KEY is set
