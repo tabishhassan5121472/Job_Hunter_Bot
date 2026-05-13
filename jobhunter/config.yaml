@@ -70,18 +70,23 @@ rates:
   preferred_hourly_usd: 15
 
 sources:
+  # v2 source mix — see _bmad-output/planning-artifacts/02-market-research.md
   boards:
     remotive: true
-    remoteok: true
-    himalayas: true
+    remoteok: false                 # dropped v2 — API returns 0 React jobs
+    himalayas: false                # dropped v2 — search filter broken
     arbeitnow: true
-    jobicy: true
+    jobicy: false                   # dropped v2 — endpoint broken
     weworkremotely: true
+    weworkremotely_fullstack: true  # NEW v2 — highest React-job volume
     hn_hiring: true
+  ats:                              # NEW v2 — direct ATS feeds
+    greenhouse: true
+    lever: false                    # not yet implemented
   freelance:
-    upwork: true
+    upwork: false                   # dropped v2 — RSS deprecated by Upwork
     freelancer: true
-    contra: true
+    contra: false
   direct:
     reddit_forhire: true
     hn_freelancer: true

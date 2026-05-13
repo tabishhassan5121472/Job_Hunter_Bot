@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/Tabish/Documents/App-Store/Personal Data/Make Something that will find a job for me, or collaboration team to work with them and earn money. /jobhunter/main.py", line 259, in <module>
+  File "/Users/Tabish/Documents/App-Store/Personal Data/Make Something that will find a job for me, or collaboration team to work with them and earn money. /jobhunter/main.py", line 119, in main
+  File "/Users/Tabish/Documents/App-Store/Personal Data/Make Something that will find a job for me, or collaboration team to work with them and earn money. /jobhunter/core/storage.py", line 49, in is_seen
+  File "/Users/Tabish/Documents/App-Store/Personal Data/Make Something that will find a job for me, or collaboration team to work with them and earn money. /jobhunter/core/storage.py", line 14, in _conn
+sqlite3.OperationalError: unable to open database file

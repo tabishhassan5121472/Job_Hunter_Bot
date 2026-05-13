@@ -1,0 +1,8 @@
+#!/bin/sh
+'''exec' "/Users/Tabish/Documents/Personal Data/Make Something that will find a job for me, or collaboration team to work with them and earn money. /jobhunter/venv/bin/python3.14" "$0" "$@"
+' '''
+import sys
+from Cython.Debugger.Cygdb import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())

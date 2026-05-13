@@ -1,0 +1,18 @@
+# Curated list of remote-first companies whose ATS feeds we poll.
+# Add/remove based on what surfaces relevant React/frontend roles for you.
+companies:
+  - {name: vercel,      ats: greenhouse, board_id: vercel,      keywords_must_match: [react, next, frontend]}
+  - {name: stripe,      ats: greenhouse, board_id: stripe,      keywords_must_match: [react, frontend]}
+  - {name: airbnb,      ats: greenhouse, board_id: airbnb,      keywords_must_match: [react, frontend]}
+  - {name: gitlab,      ats: greenhouse, board_id: gitlab,      keywords_must_match: [vue, react, frontend]}
+  - {name: hashicorp,   ats: greenhouse, board_id: hashicorp,   keywords_must_match: [react, frontend]}
+  - {name: cloudflare,  ats: greenhouse, board_id: cloudflare,  keywords_must_match: [react, frontend]}
+  - {name: discord,     ats: greenhouse, board_id: discord,     keywords_must_match: [react, frontend]}
+  - {name: notion,      ats: greenhouse, board_id: notion,      keywords_must_match: [react, frontend]}
+  - {name: sentry,      ats: greenhouse, board_id: sentry,      keywords_must_match: [react, frontend]}
+  - {name: replicate,   ats: greenhouse, board_id: replicate,   keywords_must_match: [react, frontend, next]}
+  - {name: huggingface, ats: greenhouse, board_id: huggingface, keywords_must_match: [react, frontend, next]}
+  - {name: linear,      ats: greenhouse, board_id: linear,      keywords_must_match: [react, frontend]}
+  - {name: posthog,     ats: greenhouse, board_id: posthog,     keywords_must_match: [react, frontend]}
+  - {name: cal,         ats: greenhouse, board_id: cal,         keywords_must_match: [react, next, frontend]}
+  - {name: clerk,       ats: greenhouse, board_id: clerk,       keywords_must_match: [react, next, frontend]}

@@ -7,7 +7,12 @@ from __future__ import annotations
 import argparse
 import os
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+
+# Freshness cap: drop opportunities posted_at older than this. Sources that
+# don't expose posted_at are kept (we can't filter what we don't have).
+MAX_AGE_DAYS = 3
 
 sys.path.insert(0, str(Path(__file__).parent))
 
@@ -21,14 +26,16 @@ from delivery import digest_md
 
 console = Console()
 
-# ── Source registry ────────────────────────────────────────────────────────────
+# ── Source registry (v2 — post-BMAD market research, see _bmad-output/planning-artifacts/02-market-research.md) ──
 BOARD_SOURCES = [
-    ("remotive",       "sources.boards.remotive"),
-    ("remoteok",       "sources.boards.remoteok"),
-    ("himalayas",      "sources.boards.himalayas"),
-    ("arbeitnow",      "sources.boards.arbeitnow"),
-    ("jobicy",         "sources.boards.jobicy"),
-    ("weworkremotely", "sources.boards.weworkremotely"),
+    ("remotive",                "sources.boards.remotive"),
+    ("arbeitnow",               "sources.boards.arbeitnow"),
+    ("weworkremotely",          "sources.boards.weworkremotely"),
+    ("weworkremotely_fullstack","sources.boards.weworkremotely_fullstack"),  # NEW v2 — biggest React feed
+    # Dropped (zero React signal): himalayas, remoteok, jobicy → sources/boards/_deprecated/
+]
+ATS_SOURCES = [
+    ("ats_greenhouse", "sources.ats.greenhouse"),  # NEW v2 — direct from Vercel/Stripe/etc.
 ]
 FREELANCE_SOURCES = [
     ("freelancer", "sources.freelance.freelancer"),
@@ -99,21 +106,34 @@ def main():
     # ── 1. Fetch all sources ───────────────────────────────────────────────────
     raw: list[Opportunity] = []
     raw += run_sources(BOARD_SOURCES,     "Channel A — Remote Boards")
+    raw += run_sources(ATS_SOURCES,       "Channel A — ATS Direct (Greenhouse)")
     raw += run_sources(FREELANCE_SOURCES, "Channel B — Freelance")
     raw += run_sources(DIRECT_SOURCES,    "Channel C/D — Direct & OSS")
     console.print(f"\n[bold]Total raw:[/bold] {len(raw)}")
 
-    # ── 2. Deduplicate + score ─────────────────────────────────────────────────
+    # ── 2. Deduplicate + freshness filter + score ──────────────────────────────
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
+    stale_dropped = 0
     new_opps: list[Opportunity] = []
     for opp in raw:
         if storage.is_seen(opp.url):
             continue
+        if opp.posted_at is not None:
+            posted = opp.posted_at
+            if posted.tzinfo is None:
+                posted = posted.replace(tzinfo=timezone.utc)
+            if posted < cutoff:
+                stale_dropped += 1
+                continue
         opp = scorer.score(opp)
         if opp.score > 0:
             storage.save(opp)
             new_opps.append(opp)
 
-    console.print(f"[bold]New & scored:[/bold] {len(new_opps)}")
+    console.print(
+        f"[bold]New & scored:[/bold] {len(new_opps)} "
+        f"[dim](dropped {stale_dropped} older than {MAX_AGE_DAYS} days)[/dim]"
+    )
 
     if not new_opps:
         console.print("[yellow]No new opportunities found.[/yellow]")
@@ -161,18 +181,46 @@ def main():
         except Exception as e:
             console.print(f"[red]Draft generation failed: {e}[/red]")
 
-    # ── 6. Telegram alerts for urgent Channel-C hits ───────────────────────────
+    # ── 6. Real-time alerts for high-value hits ────────────────────────────────
+    # Trigger: Channel B/C + score >= 65 OR URGENT note. Sent via WhatsApp
+    # (CallMeBot) and/or Telegram, whichever is configured.
     telegram_enabled = bool(os.environ.get("TELEGRAM_BOT_TOKEN"))
-    if telegram_enabled:
-        urgent = [o for o in top if o.channel in ("B", "C") and o.score >= 65 and "URGENT" in o.llm_fit_note]
-        if urgent:
-            try:
-                from delivery.telegram_bot import send_alert
-                for opp in urgent[:3]:
-                    send_alert(opp)
-                    console.print(f"  [green]Telegram alert sent:[/green] {opp.title[:50]}")
-            except Exception as e:
-                console.print(f"  [red]Telegram error: {e}[/red]")
+    whatsapp_enabled = bool(os.environ.get("CALLMEBOT_APIKEY") and os.environ.get("CALLMEBOT_PHONE"))
+    ntfy_enabled = bool(os.environ.get("NTFY_TOPIC"))
+    urgent = [
+        o for o in top
+        if o.channel in ("B", "C") and (o.score >= 65 or "URGENT" in (o.llm_fit_note or ""))
+    ][:3]
+    if urgent and ntfy_enabled:
+        try:
+            from delivery.ntfy import send_alert as ntfy_send
+            for opp in urgent:
+                ok = ntfy_send(opp)
+                if ok:
+                    console.print(f"  [green]ntfy alert sent:[/green] {opp.title[:50]}")
+                else:
+                    console.print(f"  [yellow]ntfy send failed:[/yellow] {opp.title[:50]}")
+        except Exception as e:
+            console.print(f"  [red]ntfy error: {e}[/red]")
+    if urgent and whatsapp_enabled:
+        try:
+            from delivery.whatsapp import send_alert as wa_send
+            for opp in urgent:
+                ok = wa_send(opp)
+                if ok:
+                    console.print(f"  [green]WhatsApp alert sent:[/green] {opp.title[:50]}")
+                else:
+                    console.print(f"  [yellow]WhatsApp send failed:[/yellow] {opp.title[:50]}")
+        except Exception as e:
+            console.print(f"  [red]WhatsApp error: {e}[/red]")
+    if urgent and telegram_enabled:
+        try:
+            from delivery.telegram_bot import send_alert
+            for opp in urgent:
+                send_alert(opp)
+                console.print(f"  [green]Telegram alert sent:[/green] {opp.title[:50]}")
+        except Exception as e:
+            console.print(f"  [red]Telegram error: {e}[/red]")
 
     # ── 7. Print table + save digest ──────────────────────────────────────────
     print_table(top, f"Top {len(top)} Opportunities")
@@ -180,11 +228,26 @@ def main():
     report_path = digest_md.generate(top)
     console.print(f"\n[bold green]Digest:[/bold green] {report_path}")
 
-    # Telegram summary
+    # Per-run summary across configured channels
+    top_score = top[0].score if top else 0
+    if ntfy_enabled:
+        try:
+            from delivery.ntfy import send_digest_summary as ntfy_summary
+            if ntfy_summary(len(new_opps), top_score, str(report_path)):
+                console.print("  [green]ntfy digest summary sent[/green]")
+        except Exception:
+            pass
+    if whatsapp_enabled:
+        try:
+            from delivery.whatsapp import send_digest_summary as wa_summary
+            if wa_summary(len(new_opps), top_score, str(report_path)):
+                console.print("  [green]WhatsApp digest summary sent[/green]")
+        except Exception:
+            pass
     if telegram_enabled:
         try:
             from delivery.telegram_bot import send_digest_summary
-            send_digest_summary(len(new_opps), top[0].score if top else 0, str(report_path))
+            send_digest_summary(len(new_opps), top_score, str(report_path))
         except Exception:
             pass
 

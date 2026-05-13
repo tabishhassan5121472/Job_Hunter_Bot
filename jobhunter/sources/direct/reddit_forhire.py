@@ -28,10 +28,13 @@ def fetch() -> list[Opportunity]:
         for post in posts:
             p = post.get("data", {})
             title = p.get("title", "")
-            flair = (p.get("link_flair_text") or "").lower()
+            flair = (p.get("link_flair_text") or "").strip().lower()
 
-            # Only [Hiring] posts
-            if "[hiring]" not in title.lower() and "hiring" not in flair:
+            # Strict hiring filter: title must say [Hiring] OR flair must equal "hiring"
+            # (avoids surfacing "[For Hire]" posts as opportunities)
+            title_has_hiring = "[hiring]" in title.lower()
+            flair_is_hiring = flair == "hiring"
+            if not (title_has_hiring or flair_is_hiring):
                 continue
 
             permalink = p.get("permalink", "")

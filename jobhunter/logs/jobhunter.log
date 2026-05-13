@@ -1,0 +1,22 @@
+────────────────────────── JobHunter — Full Pipeline ───────────────────────────
+  remotive: 19 raw
+  arbeitnow: 100 raw
+  weworkremotely: 143 raw
+  weworkremotely_fullstack: 134 raw
+Channel A — Remote Boards ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:09
+  ats_greenhouse: 183 raw
+Channel A — ATS Direct (Greenhouse) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:26
+  freelancer: 0 raw
+Channel B — Freelance ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:02
+[fetcher] FAIL https://www.reddit.com/r/forhire/new.json?limit=50&t=week: Client error '403 Blocked' for url 'https://www.reddit.com/r/forhire/new.json?limit=50&t=week'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+[fetcher] FAIL https://www.reddit.com/r/remotejs/new.json?limit=50&t=week: Client error '403 Blocked' for url 'https://www.reddit.com/r/remotejs/new.json?limit=50&t=week'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+[fetcher] FAIL https://www.reddit.com/r/reactjs/new.json?limit=50&t=week: Client error '403 Blocked' for url 'https://www.reddit.com/r/reactjs/new.json?limit=50&t=week'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+  reddit: 0 raw
+  hn_freelance: 8 raw
+  github_oss: 82 raw
+Channel C/D — Direct & OSS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:23
+
+Total raw: 669
