@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# Local env / secrets — never commit
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs from launchd; CI runs don't produce these and we don't want them in the repo
+logs/
+
+# HTTP response cache — regenerated per run, not worth committing
+.cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
