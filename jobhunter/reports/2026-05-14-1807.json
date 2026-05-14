@@ -1,0 +1,161 @@
+{
+  "run_id": "2026-05-14-1807",
+  "generated_at": "2026-05-14T18:07:36.716746Z",
+  "total": 7,
+  "opportunities": [
+    {
+      "id": "2fbbc9f4686c103034e4646500854b8f",
+      "title": "[OSS] lingdojo/kana-dojo: [Good First Issue] \ud83c\udc04 Add new Grammar Point 14 - Beginner-Friendly Open-source Contribution",
+      "company": "lingdojo",
+      "url": "https://github.com/lingdojo/kana-dojo/issues/16874",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 61.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "good first issue",
+        "hacktoberfest",
+        "community",
+        "low hanging fruit",
+        "up-for-grabs",
+        "first-timers-only"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-14T18:00:55+00:00",
+      "description": "## \ud83d\udfe2 Good First Issue: Add Grammar Point #14 \u2014 Beginner-Friendly Open Source Contribution\n\n![Time: <1 minute](https://img.shields.io/badge/Time-<1_minute-brightgreen) ![Difficulty: Beginner](https://img.shields.io/badge/Difficulty-Beginner-blue) ![No Code Required](https://img.shields.io/badge/No_Code-Required-orange)\n\n> \ud83d\udfe2 **No prerequisites needed!** You don't need to clone the repo, install anything, or write code.\n> This entire contribution can be done from your browser in under 60 seconds.\n\n**Labels:** good first issue, help wanted, hacktoberfest  \n**Language:** JSON (no coding required)  ",
+      "llm_fit_note": ""
+    },
+    {
+      "id": "ae9e08af102e5e9a4c8a0f71e8706d24",
+      "title": "[OSS] proompteng/bilig: docs(examples): add Oak WorkPaper route smoke",
+      "company": "proompteng",
+      "url": "https://github.com/proompteng/bilig/issues/380",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 41.0,
+      "stack": [
+        "documentation",
+        "good first issue",
+        "help wanted",
+        "first-timers-only",
+        "area: examples"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-14T18:06:25+00:00",
+      "description": "Add a small Oak route example for serving a WorkPaper calculation from `@bilig/headless` in a Deno TypeScript service.\n\nTask:\n- Add an Oak-focused note or runnable snippet to `examples/serverless-workpaper-api/README.md` or the nearest existing route-adapter doc.\n- Keep it TypeScript-first: use a `.ts` example name and import the shared WorkPaper request handler instead of duplicating workbook setup.\n- Show one route that reads the summary and one route that applies an input edit, matching the existing response shape used by the serverless smoke examples.\n- Add an npm script only if you add a ",
+      "llm_fit_note": ""
+    },
+    {
+      "id": "2029dbc5133bad9e32d04474cd764abd",
+      "title": "[OSS] Iankitsinghak/HerFlow: Add Like Feature to Community Forum Posts",
+      "company": "Iankitsinghak",
+      "url": "https://github.com/Iankitsinghak/HerFlow/issues/3",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 41.0,
+      "stack": [
+        "enhancement",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-14T18:05:48+00:00",
+      "description": "<img width=\"1440\" height=\"692\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/621d9dc7-d0a7-4159-8af3-fb78d459a2ff\" />\n\nThe Community Forum section currently allows users to create posts and comment on them, but there is no way for users to react to posts. Adding a Like feature will improve engagement and allow users to show support or appreciation for community posts.\n\n## Requirements\n- Add a Like button/icon to each forum post card\n- Display total number of likes for every post\n- Users should be able to:\n  - Like a post\n  - Unlike a post\n- Update the UI dynamically without page ",
+      "llm_fit_note": ""
+    },
+    {
+      "id": "ea4ba8e9e5583dfc06472066d3ca8da0",
+      "title": "[OSS] kubestellar/console: [BUG] Host-to-Container Storage Metric Leak",
+      "company": "kubestellar",
+      "url": "https://github.com/kubestellar/console/issues/13678",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 31.0,
+      "stack": [
+        "help wanted",
+        "kind/bug",
+        "ai-fix-requested",
+        "triage/needed"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-14T18:03:49+00:00",
+      "description": "## User Request\n\n**Type:** bug\n**Target:** Console Application\n**Submitted by:** @rabbitc0der\n**Console Request ID:** 0949f27f-9e3a-4e97-a55a-0e54629c5ea1\n\n## Description\n\nWhat happened:\nThe Storage card reports an inflated value of 1007 GB for a containerized local cluster. This value appears to be pulling the total disk capacity of the Windows host machine (C: drive) rather than the storage limits defined within the Docker Desktop environment or the Kubernetes PV/PVC subsystem.\n\nWhat I expected:\nStorage metrics should be scoped to the Kubernetes environment. It should report either the sum o",
+      "llm_fit_note": ""
+    },
+    {
+      "id": "5ffdf260fdc31cdc91ea4f739b0b4bae",
+      "title": "[OSS] kubestellar/console: [BUG] Node Capacity Progress Bar Calculation Error",
+      "company": "kubestellar",
+      "url": "https://github.com/kubestellar/console/issues/13677",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 31.0,
+      "stack": [
+        "help wanted",
+        "kind/bug",
+        "ai-fix-requested",
+        "triage/needed"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-14T18:02:33+00:00",
+      "description": "## User Request\n\n**Type:** bug\n**Target:** Console Application\n**Submitted by:** @rabbitc0der\n**Console Request ID:** cbe970bd-cc12-4ec0-9b59-d8cee9a17446\n\n## Description\n\nWhat happened:\nUpon successfully connecting a single-node kind cluster, the Nodes card in the Stats Overview displays \"1 total nodes\" but shows a 0% filled progress bar. Despite the node being healthy and active, the visual indicator fails to represent 100% resource availability.\n\nWhat I expected:\nThe progress bar component should dynamically calculate the percentage of healthy nodes relative to the total node count ($Percen",
+      "llm_fit_note": ""
+    },
+    {
+      "id": "2e26f48b617c1a0698edc631bedf767f",
+      "title": "[OSS] angeli2013/WEB_DEVELOPMENT: to make deployment",
+      "company": "angeli2013",
+      "url": "https://github.com/angeli2013/WEB_DEVELOPMENT/issues/2",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 31.0,
+      "stack": [
+        "help wanted"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-14T18:00:09+00:00",
+      "description": "deployment of my project",
+      "llm_fit_note": ""
+    },
+    {
+      "id": "3953b3eb64c087b98a40a6e3388f4730",
+      "title": "[OSS] ysfsrtl123/bionluk-radar-extension: Improve Bionluk parser reliability",
+      "company": "ysfsrtl123",
+      "url": "https://github.com/ysfsrtl123/bionluk-radar-extension/issues/4",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 31.0,
+      "stack": [
+        "bug",
+        "documentation",
+        "enhancement",
+        "help wanted"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-14T17:59:23+00:00",
+      "description": "## Ama\u00e7\n\nBionluk Radar \u015fu anda Bionluk'un giri\u015fli freelancer panelindeki al\u0131c\u0131 isteklerini `POST /api/request/list_all/` endpointi \u00fczerinden kontrol ediyor.\n\nBu parser yap\u0131s\u0131n\u0131n daha sa\u011flam, s\u00fcrd\u00fcr\u00fclebilir ve Bionluk API/response de\u011fi\u015fikliklerine kar\u015f\u0131 daha dayan\u0131kl\u0131 hale getirilmesi gerekiyor.\n\nAma\u00e7, al\u0131c\u0131 isteklerini do\u011fru \u015fekilde ayr\u0131\u015ft\u0131rmak, eksik/hatal\u0131 veri durumlar\u0131n\u0131 daha iyi y\u00f6netmek ve ileride Bionluk taraf\u0131nda k\u00fc\u00e7\u00fck de\u011fi\u015fiklikler oldu\u011funda eklentinin tamamen bozulmas\u0131n\u0131 engellemektir.\n\n## Mevcut Durum\n\n- Eklenti Bionluk oturumu \u00fczerinden al\u0131c\u0131 isteklerini kontrol ediyor.\n- `src/bion",
+      "llm_fit_note": ""
+    }
+  ]
+}
