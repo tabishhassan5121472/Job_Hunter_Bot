@@ -187,14 +187,14 @@ def main():
     telegram_enabled = bool(os.environ.get("TELEGRAM_BOT_TOKEN"))
     whatsapp_enabled = bool(os.environ.get("CALLMEBOT_APIKEY") and os.environ.get("CALLMEBOT_PHONE"))
     ntfy_enabled = bool(os.environ.get("NTFY_TOPIC"))
-    urgent = [
-        o for o in top
-        if o.channel in ("B", "C") and (o.score >= 65 or "URGENT" in (o.llm_fit_note or ""))
-    ][:3]
-    if urgent and ntfy_enabled:
+    # Top 5 always go out as individual ntfy push notifications so the user
+    # actually sees concrete jobs (title + company + URL) rather than just a
+    # count. Tapping a notification opens the job URL in the browser.
+    to_alert = top[:5]
+    if to_alert and ntfy_enabled:
         try:
             from delivery.ntfy import send_alert as ntfy_send
-            for opp in urgent:
+            for opp in to_alert:
                 ok = ntfy_send(opp)
                 if ok:
                     console.print(f"  [green]ntfy alert sent:[/green] {opp.title[:50]}")
@@ -202,6 +202,11 @@ def main():
                     console.print(f"  [yellow]ntfy send failed:[/yellow] {opp.title[:50]}")
         except Exception as e:
             console.print(f"  [red]ntfy error: {e}[/red]")
+    # WhatsApp / Telegram remain narrower (top 3, channel B/C, score >= 65)
+    urgent = [
+        o for o in top
+        if o.channel in ("B", "C") and (o.score >= 65 or "URGENT" in (o.llm_fit_note or ""))
+    ][:3]
     if urgent and whatsapp_enabled:
         try:
             from delivery.whatsapp import send_alert as wa_send
@@ -228,26 +233,37 @@ def main():
     report_path = digest_md.generate(top)
     console.print(f"\n[bold green]Digest:[/bold green] {report_path}")
 
+    # When running in GitHub Actions, build a URL the user can tap to view the
+    # report in their browser. The auto-commit step pushes reports/ back to the
+    # repo, so the file is reachable on github.com once the run finishes.
+    gh_server = os.environ.get("GITHUB_SERVER_URL")  # e.g. https://github.com
+    gh_repo = os.environ.get("GITHUB_REPOSITORY")    # e.g. tabishhassan5121472/Job_Hunter_Bot
+    gh_branch = os.environ.get("GITHUB_REF_NAME", "main")
+    if gh_server and gh_repo:
+        report_link = f"{gh_server}/{gh_repo}/blob/{gh_branch}/jobhunter/reports/{Path(report_path).name}"
+    else:
+        report_link = str(report_path)
+
     # Per-run summary across configured channels
     top_score = top[0].score if top else 0
     if ntfy_enabled:
         try:
             from delivery.ntfy import send_digest_summary as ntfy_summary
-            if ntfy_summary(len(new_opps), top_score, str(report_path)):
+            if ntfy_summary(len(new_opps), top_score, report_link):
                 console.print("  [green]ntfy digest summary sent[/green]")
         except Exception:
             pass
     if whatsapp_enabled:
         try:
             from delivery.whatsapp import send_digest_summary as wa_summary
-            if wa_summary(len(new_opps), top_score, str(report_path)):
+            if wa_summary(len(new_opps), top_score, report_link):
                 console.print("  [green]WhatsApp digest summary sent[/green]")
         except Exception:
             pass
     if telegram_enabled:
         try:
             from delivery.telegram_bot import send_digest_summary
-            send_digest_summary(len(new_opps), top_score, str(report_path))
+            send_digest_summary(len(new_opps), top_score, report_link)
         except Exception:
             pass
 
