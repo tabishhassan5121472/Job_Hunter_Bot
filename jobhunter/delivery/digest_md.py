@@ -1,5 +1,7 @@
-"""Markdown digest generator."""
+"""Markdown digest generator. Also emits a JSON sidecar consumed by the
+GitHub Pages React site."""
 from __future__ import annotations
+import json
 from datetime import datetime
 from pathlib import Path
 
@@ -9,10 +11,45 @@ REPORTS_DIR = Path(__file__).parent.parent / "reports"
 REPORTS_DIR.mkdir(exist_ok=True)
 
 
+def _opp_to_dict(o: Opportunity) -> dict:
+    return {
+        "id": o.id,
+        "title": o.title,
+        "company": o.company_or_client or "Unknown",
+        "url": o.url,
+        "source": o.source,
+        "channel": o.channel,
+        "score": round(float(o.score), 1),
+        "stack": list(o.stack or [])[:12],
+        "is_remote": bool(o.is_remote),
+        "seniority": o.seniority,
+        "budget": o.budget,
+        "currency": o.currency,
+        "posted_at": o.posted_at.isoformat() if o.posted_at else None,
+        "description": (o.description or "").strip()[:600],
+        "llm_fit_note": o.llm_fit_note or "",
+    }
+
+
 def generate(opportunities: list[Opportunity], run_id: str | None = None) -> Path:
     today = datetime.now().strftime("%Y-%m-%d")
     run_id = run_id or datetime.now().strftime("%H%M")
     path = REPORTS_DIR / f"{today}-{run_id}.md"
+    json_path = path.with_suffix(".json")
+
+    # Structured JSON sidecar
+    json_path.write_text(
+        json.dumps(
+            {
+                "run_id": f"{today}-{run_id}",
+                "generated_at": datetime.utcnow().isoformat() + "Z",
+                "total": len(opportunities),
+                "opportunities": [_opp_to_dict(o) for o in opportunities],
+            },
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
 
     lines = [
         f"# JobHunter Digest — {today}",
