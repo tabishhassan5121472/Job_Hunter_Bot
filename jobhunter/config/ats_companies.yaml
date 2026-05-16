@@ -16,3 +16,29 @@ companies:
   - {name: posthog,     ats: greenhouse, board_id: posthog,     keywords_must_match: [react, frontend]}
   - {name: cal,         ats: greenhouse, board_id: cal,         keywords_must_match: [react, next, frontend]}
   - {name: clerk,       ats: greenhouse, board_id: clerk,       keywords_must_match: [react, next, frontend]}
+
+  # ── Lever ATS (a few known users — most are empty/migrated, kept for cron coverage) ──
+  - {name: plaid,       ats: lever,      board_id: plaid,       keywords_must_match: [react, frontend]}
+  - {name: kraken,      ats: lever,      board_id: kraken,      keywords_must_match: [react, frontend]}
+  - {name: attentive,   ats: lever,      board_id: attentive,   keywords_must_match: [react, frontend]}
+
+  # ── Ashby ATS — VERIFIED working slugs (case-sensitive), 2000+ jobs total ──
+  # Top AI/startup employers. Slugs verified 2026-05-16.
+  - {name: openai,      ats: ashby,      board_id: openai,      keywords_must_match: [react, frontend, full-stack, fullstack, next]}
+  - {name: mistral,     ats: ashby,      board_id: mistral,     keywords_must_match: [react, frontend, full-stack, fullstack, next]}
+  - {name: deel,        ats: ashby,      board_id: Deel,        keywords_must_match: [react, frontend, next, full-stack, fullstack]}
+  - {name: notion,      ats: ashby,      board_id: Notion,      keywords_must_match: [react, frontend, next]}
+  - {name: vanta,       ats: ashby,      board_id: Vanta,       keywords_must_match: [react, frontend]}
+  - {name: cohere,      ats: ashby,      board_id: cohere,      keywords_must_match: [react, frontend, full-stack, fullstack]}
+  - {name: ramp,        ats: ashby,      board_id: ramp,        keywords_must_match: [react, frontend, next]}
+  - {name: langchain,   ats: ashby,      board_id: langchain,   keywords_must_match: [react, frontend, typescript, next]}
+  - {name: cursor,      ats: ashby,      board_id: cursor,      keywords_must_match: [react, frontend, electron, typescript]}
+  - {name: perplexity,  ats: ashby,      board_id: perplexity,  keywords_must_match: [react, frontend, next, ios, swift]}
+  - {name: ashby,       ats: ashby,      board_id: Ashby,       keywords_must_match: [react, frontend]}
+  - {name: supabase,    ats: ashby,      board_id: supabase,    keywords_must_match: [react, frontend, next, typescript]}
+  - {name: sentry,      ats: ashby,      board_id: Sentry,      keywords_must_match: [react, frontend]}
+  - {name: modal,       ats: ashby,      board_id: Modal,       keywords_must_match: [react, frontend, typescript]}
+  - {name: linear,      ats: ashby,      board_id: Linear,      keywords_must_match: [react, frontend, ios, swift]}
+  - {name: tonal,       ats: ashby,      board_id: Tonal,       keywords_must_match: [react, frontend, ios, swift]}
+  - {name: airbyte,     ats: ashby,      board_id: airbyte,     keywords_must_match: [react, frontend, typescript]}
+  # Workable kept as a source registration but no verified slugs yet — empty by default.

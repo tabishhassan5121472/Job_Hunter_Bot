@@ -61,7 +61,10 @@ BOARD_SOURCES = [
     # Still deprecated: himalayas, jobicy → sources/boards/_deprecated/
 ]
 ATS_SOURCES = [
-    ("ats_greenhouse", "sources.ats.greenhouse"),  # Direct from Vercel/Stripe/etc.
+    ("ats_greenhouse", "sources.ats.greenhouse"),  # Vercel/Stripe/Cloudflare/etc.
+    ("ats_lever",      "sources.ats.lever"),       # Netflix/Plaid/Brex/Mercury/etc.
+    ("ats_ashby",      "sources.ats.ashby"),       # Linear/Descript/Deel/Vanta/etc.
+    ("ats_workable",   "sources.ats.workable"),    # Miro/Pleo/Omio/etc.
 ]
 FREELANCE_SOURCES = [
     ("freelancer", "sources.freelance.freelancer"),
