@@ -164,9 +164,29 @@ def score(opp: Opportunity) -> Opportunity:
     opp.score = bd.total
     opp.score_breakdown = bd
 
-    # CV variant selection: full-time / Channel A roles get the employer-led
-    # CV framing; freelance / direct / OSS channels stay with cv_frontend
-    # which is positioned around independent shipping. The cover-letter
-    # generator picks the matching file at draft time.
-    opp.cv_variant = "cv_employed" if opp.channel == "A" else "cv_frontend"
+    # CV variant selection by job content. The cover-letter generator loads
+    # the matching profile/cv_<variant>.md when drafting.
+    #   cv_ai       — AI / LLM / ML / agentic / generative engineer roles
+    #   cv_fullstack — full-stack, NestJS, Node backend, microservice work
+    #   cv_frontend — pure React / frontend / UI / Web Developer roles (default)
+    AI_KW = (
+        "ai engineer", "ml engineer", "llm engineer", "ai/ml", "agentic",
+        "rag ", "openai", "anthropic", " llm ", "generative ai",
+        "machine learning engineer", "applied ai", "ai application",
+        "prompt engineer", "ai platform", "langchain", "vector",
+    )
+    FS_KW = (
+        "full-stack", "fullstack", "full stack",
+        "nestjs", "node.js", "node js", " node ",
+        "backend engineer", "backend developer",
+        "microservice", "rest api", "graphql api",
+        "software engineer",
+    )
+    blob_low = blob  # already lowercased above
+    if any(k in blob_low for k in AI_KW):
+        opp.cv_variant = "cv_ai"
+    elif any(k in blob_low for k in FS_KW):
+        opp.cv_variant = "cv_fullstack"
+    else:
+        opp.cv_variant = "cv_frontend"
     return opp
