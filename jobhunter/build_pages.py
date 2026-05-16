@@ -41,6 +41,37 @@ def _is_english(opp: dict) -> bool:
         return True
 
 
+# Retroactive bot-noise filter for old reports (newer fetches already drop
+# these upstream in sources/direct/github_issues.py).
+import re as _re
+_NOISE_TITLE_RE = _re.compile(
+    r"\[(repo-status|daily-status|status|report|dependabot|bot|auto)\]",
+    _re.IGNORECASE,
+)
+
+
+def _is_bot_noise(opp: dict) -> bool:
+    title = opp.get("title") or ""
+    if _NOISE_TITLE_RE.search(title):
+        return True
+    return False
+
+
+# Cap how many OSS issues we surface from a single GitHub repo. Catches
+# spam patterns like "Add Etiquette Tip #1..200" from a single project.
+PER_REPO_CAP = 3
+
+
+def _repo_key(opp: dict) -> str:
+    """Extract 'owner/repo' from an [OSS] title; empty for non-OSS."""
+    title = opp.get("title") or ""
+    if not title.startswith("[OSS]"):
+        return ""
+    # Title format: "[OSS] owner/repo: <issue title>"
+    rest = title[len("[OSS]"):].lstrip()
+    return rest.split(":", 1)[0].strip()
+
+
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
 
@@ -75,12 +106,37 @@ def main() -> None:
                 # Drop non-English postings from stale reports
                 if not _is_english(opp):
                     continue
+                # Drop bot-status reports / dependency bumps that were ingested
+                # before the upstream filter was added
+                if _is_bot_noise(opp):
+                    continue
                 opp["_run_id"] = run_id
                 opp["_seen_at"] = ts.isoformat()
                 opps_by_url[url] = opp
 
     opps = list(opps_by_url.values())
-    opps.sort(key=lambda o: o.get("score", 0), reverse=True)
+
+    # Cap entries-per-repo for the OSS channel — kills contribution-farm spam
+    # like "lingdojo/kana-dojo: Add Etiquette Tip #1..200".
+    per_repo: dict[str, int] = {}
+    capped: list[dict] = []
+    sorted_for_cap = sorted(opps, key=lambda o: o.get("score", 0), reverse=True)
+    for opp in sorted_for_cap:
+        repo = _repo_key(opp)
+        if repo:
+            per_repo[repo] = per_repo.get(repo, 0) + 1
+            if per_repo[repo] > PER_REPO_CAP:
+                continue
+        capped.append(opp)
+    opps = capped
+
+    # Final sort: real-job channels (A=Remote boards, B=Freelance, C=Direct)
+    # come before D (OSS), then by score within each tier. So the user sees
+    # actual jobs at the top, OSS at the bottom.
+    CHANNEL_RANK = {"A": 0, "B": 1, "C": 2, "D": 3}
+    opps.sort(
+        key=lambda o: (CHANNEL_RANK.get(o.get("channel", "Z"), 9), -float(o.get("score", 0) or 0))
+    )
 
     payload = json.dumps(
         {
