@@ -143,9 +143,10 @@ def main():
     top = sorted(new_opps, key=lambda o: o.score, reverse=True)[:args.top]
 
     # ── 4. LLM rerank (optional) ───────────────────────────────────────────────
-    has_api_key = bool(os.environ.get("ANTHROPIC_API_KEY"))
+    from core.llm_provider import is_configured as llm_configured, provider_name
+    has_api_key = llm_configured()
     if has_api_key and not args.no_llm:
-        console.print(f"\n[bold cyan]LLM reranking top {len(top)} via Claude Haiku...[/bold cyan]")
+        console.print(f"\n[bold cyan]LLM reranking top {len(top)} via {provider_name()}...[/bold cyan]")
         try:
             from core.llm_rerank import rerank
             top = rerank(top)
@@ -161,10 +162,12 @@ def main():
         except Exception as e:
             console.print(f"[red]LLM rerank failed: {e}[/red]")
     elif not has_api_key:
-        console.print("[dim]Tip: set ANTHROPIC_API_KEY to enable LLM reranking + cover letters[/dim]")
+        console.print("[dim]Tip: set CEREBRAS_API_KEY or ANTHROPIC_API_KEY for rerank + drafts[/dim]")
 
     # ── 5. Generate cover letter drafts ───────────────────────────────────────
-    if args.draft and has_api_key:
+    # Auto-draft for the top 5 whenever a provider is configured — the manual
+    # --draft flag is no longer needed since CI sets the secret automatically.
+    if has_api_key and not args.no_llm:
         console.print(f"\n[bold cyan]Drafting cover letters for top {min(5, len(top))}...[/bold cyan]")
         try:
             from pitch.cover_letter import generate
