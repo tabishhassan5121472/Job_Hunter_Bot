@@ -49,16 +49,19 @@ from delivery import digest_md
 
 console = Console()
 
-# ── Source registry (v2 — post-BMAD market research, see _bmad-output/planning-artifacts/02-market-research.md) ──
+# ── Source registry ──
+# Focus is on real-job channels (A/B/C). OSS (Channel D) was dropped — most
+# matches were beginner GSSoC/student-program busywork, not real income.
 BOARD_SOURCES = [
     ("remotive",                "sources.boards.remotive"),
     ("arbeitnow",               "sources.boards.arbeitnow"),
     ("weworkremotely",          "sources.boards.weworkremotely"),
-    ("weworkremotely_fullstack","sources.boards.weworkremotely_fullstack"),  # NEW v2 — biggest React feed
-    # Dropped (zero React signal): himalayas, remoteok, jobicy → sources/boards/_deprecated/
+    ("weworkremotely_fullstack","sources.boards.weworkremotely_fullstack"),  # biggest React feed
+    ("remoteok",                "sources.boards.remoteok"),                  # restored — broad stack now
+    # Still deprecated: himalayas, jobicy → sources/boards/_deprecated/
 ]
 ATS_SOURCES = [
-    ("ats_greenhouse", "sources.ats.greenhouse"),  # NEW v2 — direct from Vercel/Stripe/etc.
+    ("ats_greenhouse", "sources.ats.greenhouse"),  # Direct from Vercel/Stripe/etc.
 ]
 FREELANCE_SOURCES = [
     ("freelancer", "sources.freelance.freelancer"),
@@ -66,7 +69,9 @@ FREELANCE_SOURCES = [
 DIRECT_SOURCES = [
     ("reddit",       "sources.direct.reddit_forhire"),
     ("hn_freelance", "sources.direct.hn_freelancer"),
-    ("github_oss",   "sources.direct.github_issues"),
+    # github_oss DROPPED — was producing GSSoC student tasks + lingdojo spam,
+    # not real income. Source file kept at sources/direct/github_issues.py
+    # if we ever want to re-enable for portfolio-building runs.
 ]
 
 
