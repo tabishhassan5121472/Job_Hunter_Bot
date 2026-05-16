@@ -1,0 +1,79 @@
+{
+  "run_id": "2026-05-16-0824",
+  "generated_at": "2026-05-16T08:24:41.330784Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "4eb90fc5b921d1d6edc3898bca5d9c7d",
+      "title": "[OSS] lingdojo/kana-dojo: [Good First Issue] \ud83c\udf5a Add new Grammar Point 92 - Beginner-Friendly Open-source Contribution",
+      "company": "lingdojo",
+      "url": "https://github.com/lingdojo/kana-dojo/issues/17063",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 66.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "good first issue",
+        "hacktoberfest",
+        "community",
+        "low hanging fruit",
+        "up-for-grabs",
+        "first-timers-only"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T08:17:26+00:00",
+      "description": "## \ud83d\udfe2 Good First Issue: Add Grammar Point #92 \u2014 Beginner-Friendly Open Source Contribution\n\n![Time: <1 minute](https://img.shields.io/badge/Time-<1_minute-brightgreen) ![Difficulty: Beginner](https://img.shields.io/badge/Difficulty-Beginner-blue) ![No Code Required](https://img.shields.io/badge/No_Code-Required-orange)\n\n> \ud83d\udfe2 **No prerequisites needed!** You don't need to clone the repo, install anything, or write code.\n> This entire contribution can be done from your browser in under 60 seconds.\n\n**Labels:** good first issue, help wanted, hacktoberfest  \n**Language:** JSON (no coding required)  ",
+      "llm_fit_note": "[OK] Beginner-friendly open-source contribution with no code required, aligns with willingness to contribute to OSS for networking. | wins: ios_shipping, a11y_wcag, freelance_delivery"
+    },
+    {
+      "id": "3b8b9ba802026c1040cd57259e61be91",
+      "title": "[OSS] fiscal-digital/fiscal-digital: Revis\u00e3o jur\u00eddica do FiscalLicitacoes (Lei 14.133/2021 Art. 75)",
+      "company": "fiscal-digital",
+      "url": "https://github.com/fiscal-digital/fiscal-digital/issues/42",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 6.0,
+      "stack": [
+        "help wanted",
+        "area:fiscal",
+        "type:legal-review",
+        "complexity:m",
+        "for:lawyer"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T08:15:30+00:00",
+      "description": "## Contexto\n\nO **FiscalLicitacoes** detecta dispensas de licita\u00e7\u00e3o irregulares, fracionamento de contrato e inexigibilidades sem justificativa, com base na **Lei 14.133/2021 Art. 75** (limites de dispensa direta).\n\nLimites atuais aplicados:\n- **R\\$ 100.000** para obras e servi\u00e7os de engenharia (Art. 75, I)\n- **R\\$ 50.000** para outros bens e servi\u00e7os (Art. 75, II)\n\nLimites s\u00e3o corrigidos anualmente pelo Decreto Federal (atualiza\u00e7\u00e3o IPCA). Hoje hardcoded \u2014 vale revis\u00e3o.\n\n## O que precisamos de revis\u00e3o jur\u00eddica\n\n### 1. Atualiza\u00e7\u00e3o monet\u00e1ria dos limites (Art. 75 \u00a71\u00ba)\n- Limites s\u00e3o corrigidos anua",
+      "llm_fit_note": "[REJECT] Role requires legal expertise in Brazilian fiscal law, outside candidate's full-stack and technical skill set."
+    },
+    {
+      "id": "a4566211522cb7a67bce6b2d6ae5db8e",
+      "title": "[OSS] fiscal-digital/fiscal-digital: Revis\u00e3o jur\u00eddica do FiscalNepotismo (STF S\u00famula Vinculante 13)",
+      "company": "fiscal-digital",
+      "url": "https://github.com/fiscal-digital/fiscal-digital/issues/41",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 1.0,
+      "stack": [
+        "help wanted",
+        "area:fiscal",
+        "type:legal-review",
+        "complexity:m",
+        "for:lawyer"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T08:14:57+00:00",
+      "description": "## Contexto\n\nO **FiscalNepotismo** detecta ind\u00edcios de nepotismo em nomea\u00e7\u00f5es de cargos comissionados, comparando sobrenomes incomuns coincidentes. **Threshold de confidence \u2265 0.95** (mais conservador de todos os Fiscais \u2014 risco catastr\u00f3fico de retrata\u00e7\u00e3o se acusar pessoa errada).\n\nBase legal aplicada: **STF S\u00famula Vinculante 13** + CF Art. 37.\n\n## O que precisamos de revis\u00e3o jur\u00eddica\n\n### 1. Adequa\u00e7\u00e3o da SV 13 ao escopo do Fiscal\n- A SV 13 cobre c\u00f4njuges, parentes consangu\u00edneos ou por afinidade at\u00e9 3\u00ba grau de autoridade nomeante. **Sobrenome coincidente \u00e9 proxy fraco**. Quais hip\u00f3teses adicio",
+      "llm_fit_note": "[REJECT] Role requires legal expertise in Brazilian fiscal law, outside candidate's full-stack and mobile development domain."
+    }
+  ]
+}
