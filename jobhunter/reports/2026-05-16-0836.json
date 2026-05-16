@@ -1,0 +1,55 @@
+{
+  "run_id": "2026-05-16-0836",
+  "generated_at": "2026-05-16T08:36:41.806647Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "9dc470687c7f9ba1fe895dad1fffccfb",
+      "title": "[OSS] Vaibhav-kesarwani/100-reactjs-projects: Add /dashboard Route for Better Project & Contribution Management",
+      "company": "Vaibhav-kesarwani",
+      "url": "https://github.com/Vaibhav-kesarwani/100-reactjs-projects/issues/51",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 41.0,
+      "stack": [
+        "help wanted",
+        "good first issue",
+        "level3",
+        "gssoc'26"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T08:25:48+00:00",
+      "description": "## Feature Request\n\n### Problem\nCurrently, the website lacks a centralized **dashboard page** where users/contributors can easily view project-related information, contribution progress, and useful repository insights in one place.\n\nA dedicated `/dashboard` route would improve usability and provide a more organized experience for contributors and users.\n\n### Proposed Solution\nCreate a **`/dashboard` route** that acts as a centralized hub for project and contribution-related information.\n\n### Suggested Features\nThe dashboard can include sections like:\n\n#### UI Suggestions\n- Responsive modern UI",
+      "llm_fit_note": "[OK] Open-source contribution opportunity aligning with React and UI design strengths. | wins: rubios_perf, a11y_wcag, complex_ui"
+    },
+    {
+      "id": "e0202b86886adf8f33b5ce779412a8c2",
+      "title": "[OSS] lingdojo/kana-dojo: [Good First Issue] \ud83c\udfef Add new Anime Quote 52 - Beginner-Friendly Open-source Contribution",
+      "company": "lingdojo",
+      "url": "https://github.com/lingdojo/kana-dojo/issues/17066",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 31.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "good first issue",
+        "hacktoberfest",
+        "community",
+        "low hanging fruit",
+        "up-for-grabs",
+        "first-timers-only"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T08:34:30+00:00",
+      "description": "## \ud83d\udfe2 Good First Issue: Add Anime Quote #52 \u2014 Beginner-Friendly Open Source Contribution\n\n![Time: <1 minute](https://img.shields.io/badge/Time-<1_minute-brightgreen) ![Difficulty: Beginner](https://img.shields.io/badge/Difficulty-Beginner-blue) ![No Code Required](https://img.shields.io/badge/No_Code-Required-orange)\n\n> \ud83d\udfe2 **No prerequisites needed!** You don't need to clone the repo, install anything, or write code.\n> This entire contribution can be done from your browser in under 60 seconds.\n\n**Labels:** good first issue, help wanted, hacktoberfest  \n**Language:** JSON (no coding required)  \n*",
+      "llm_fit_note": "[WEAK] This is a beginner-friendly open-source contribution that doesn't require coding or meaningful technical engagement."
+    }
+  ]
+}
