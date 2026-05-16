@@ -1,184 +1,296 @@
 #!/usr/bin/env python3
-"""
-Build a static HTML site from the markdown reports in reports/.
-Output goes to ./_site/ which the GitHub Actions workflow uploads
-as a Pages artifact and deploys.
+"""Build _site/index.html — a single-page static job browser.
 
-No external markdown library — we render manually to keep deps tiny.
+Aggregates all opportunities from JSON reports of the last 7 days into one
+searchable, filterable React (Preact + htm via CDN) page. No per-run page —
+the user sees actual job titles + companies + scores + links immediately
+without clicking into anything.
+
+Data source: reports/<date>-<time>.json (written by delivery.digest_md).
 """
 from __future__ import annotations
-import html
-import re
+import json
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 REPORTS = HERE / "reports"
 OUT = HERE / "_site"
-
-CSS = """
-:root {
-  color-scheme: dark;
-  --bg:#0f1115; --surface:#181b22; --border:#2a2f3a;
-  --text:#e6e9ef; --dim:#9aa3b2; --accent:#6aa6ff;
-}
-* { box-sizing: border-box; }
-body {
-  margin:0; background:var(--bg); color:var(--text);
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-  line-height:1.55;
-}
-.wrap { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; }
-h1 { font-size: 28px; margin: 0 0 4px; letter-spacing: -0.02em; }
-.sub { color: var(--dim); font-size: 14px; margin-bottom: 28px; }
-h2 { font-size: 18px; margin: 28px 0 8px; }
-h3 { font-size: 16px; margin: 18px 0 6px; }
-a { color: var(--accent); text-decoration: none; }
-a:hover { text-decoration: underline; }
-ul.runs { list-style: none; padding: 0; margin: 0; }
-ul.runs li {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 14px 16px;
-  margin-bottom: 8px;
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-}
-ul.runs .meta { color: var(--dim); font-size: 12.5px; }
-.report-body { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 22px; }
-.report-body pre { background: #0c0d11; padding: 12px; border-radius: 6px; overflow: auto; }
-.back { display: inline-block; margin-bottom: 16px; font-size: 13px; }
-hr { border: 0; border-top: 1px solid var(--border); margin: 24px 0; }
-"""
-
-PAGE = """<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>{title}</title>
-<style>{css}</style>
-</head>
-<body>
-<div class="wrap">{body}</div>
-</body>
-</html>
-"""
-
-
-def render_markdown(md: str) -> str:
-    """Minimal markdown → HTML converter.
-    Handles: # headings, **bold**, *italic*, [text](url), code blocks ```, paragraphs."""
-    lines = md.splitlines()
-    out: list[str] = []
-    in_code = False
-    para: list[str] = []
-
-    def flush_para():
-        if para:
-            out.append("<p>" + " ".join(para) + "</p>")
-            para.clear()
-
-    def inline(s: str) -> str:
-        # Escape HTML first, then re-apply markdown
-        s = html.escape(s)
-        s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
-        s = re.sub(r"\*(.+?)\*", r"<em>\1</em>", s)
-        s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)
-        s = re.sub(r"\[([^\]]+)\]\(([^)]+)\)",
-                   r'<a href="\2" target="_blank" rel="noopener">\1</a>', s)
-        # Auto-link bare URLs
-        s = re.sub(r"(?<!\")(https?://[^\s<)]+)",
-                   r'<a href="\1" target="_blank" rel="noopener">\1</a>', s)
-        return s
-
-    for raw in lines:
-        line = raw.rstrip()
-        if line.startswith("```"):
-            flush_para()
-            if in_code:
-                out.append("</pre>")
-                in_code = False
-            else:
-                out.append("<pre>")
-                in_code = True
-            continue
-        if in_code:
-            out.append(html.escape(raw))
-            continue
-        if not line.strip():
-            flush_para()
-            continue
-        if line.startswith("# "):
-            flush_para()
-            out.append(f"<h1>{inline(line[2:].strip())}</h1>")
-            continue
-        if line.startswith("## "):
-            flush_para()
-            out.append(f"<h2>{inline(line[3:].strip())}</h2>")
-            continue
-        if line.startswith("### "):
-            flush_para()
-            out.append(f"<h3>{inline(line[4:].strip())}</h3>")
-            continue
-        if line.startswith("- ") or line.startswith("* "):
-            flush_para()
-            out.append(f"<div>• {inline(line[2:].strip())}</div>")
-            continue
-        para.append(inline(line))
-    flush_para()
-    if in_code:
-        out.append("</pre>")
-    return "\n".join(out)
+MAX_AGE_DAYS = 7
 
 
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
 
-    reports = []
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
+
+    # Collect all opportunities from JSON reports within the window.
+    opps_by_url: dict[str, dict] = {}
+    run_count = 0
+
     if REPORTS.exists():
-        reports = sorted(
-            (p for p in REPORTS.glob("*.md") if p.is_file()),
-            key=lambda p: p.name,
-            reverse=True,
-        )
+        for p in sorted(REPORTS.glob("*.json"), key=lambda p: p.name, reverse=True):
+            try:
+                data = json.loads(p.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            ts_str = data.get("generated_at")
+            try:
+                ts = datetime.fromisoformat(ts_str.replace("Z", "+00:00"))
+            except Exception:
+                continue
+            if ts < cutoff:
+                continue
+            run_count += 1
+            run_id = data.get("run_id", p.stem)
+            for opp in data.get("opportunities", []):
+                url = opp.get("url") or ""
+                if not url:
+                    continue
+                # Dedup across runs by URL — keep the entry from the newest run
+                if url in opps_by_url:
+                    continue
+                opp["_run_id"] = run_id
+                opp["_seen_at"] = ts.isoformat()
+                opps_by_url[url] = opp
 
-    # Per-report pages
-    for md_path in reports:
-        slug = md_path.stem
-        body = (
-            f'<a href="./" class="back">← All runs</a>'
-            f'<div class="report-body">{render_markdown(md_path.read_text(encoding="utf-8"))}</div>'
-        )
-        (OUT / f"{slug}.html").write_text(
-            PAGE.format(title=f"JobHunter · {slug}", css=CSS, body=body),
-            encoding="utf-8",
-        )
+    opps = list(opps_by_url.values())
+    opps.sort(key=lambda o: o.get("score", 0), reverse=True)
 
-    # Index page
-    items = []
-    for md_path in reports:
-        slug = md_path.stem
-        size_kb = md_path.stat().st_size // 1024
-        items.append(
-            f'<li><a href="./{slug}.html">{html.escape(slug)}</a>'
-            f'<span class="meta">{size_kb} KB</span></li>'
-        )
-
-    body = (
-        "<h1>JobHunter</h1>"
-        f'<p class="sub">{len(reports)} run(s) · newest first · '
-        "auto-built from the latest GitHub Actions run.</p>"
-        + ("<ul class='runs'>" + "".join(items) + "</ul>"
-           if items else "<p>No reports yet — wait for the first scheduled run.</p>")
-    )
-    (OUT / "index.html").write_text(
-        PAGE.format(title="JobHunter", css=CSS, body=body),
-        encoding="utf-8",
+    payload = json.dumps(
+        {
+            "opportunities": opps,
+            "run_count": run_count,
+            "window_days": MAX_AGE_DAYS,
+            "generated_at": datetime.now(timezone.utc).isoformat(),
+        }
     )
 
-    print(f"[build_pages] wrote {len(reports) + 1} files to {OUT}")
+    page = TEMPLATE.replace("__PAYLOAD__", payload)
+    (OUT / "index.html").write_text(page, encoding="utf-8")
+    (OUT / ".nojekyll").write_text("", encoding="utf-8")
+    print(
+        f"[build_pages] wrote _site/index.html · "
+        f"{len(opps)} unique jobs from {run_count} run(s) (last {MAX_AGE_DAYS} days)"
+    )
+
+
+TEMPLATE = r"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>JobHunter</title>
+<style>
+:root {
+  color-scheme: dark;
+  --bg: #0f1115;
+  --surface: #181b22;
+  --surface-2: #1f232c;
+  --border: #2a2f3a;
+  --text: #e6e9ef;
+  --dim: #9aa3b2;
+  --accent: #6aa6ff;
+  --accent-strong: #4f8bff;
+  --good: #2ecc71;
+  --warn: #f5a524;
+  --bad: #7a8190;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.5;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.app { max-width: 1100px; margin: 0 auto; padding: 36px 22px 80px; }
+.header { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin-bottom: 24px; }
+.title { font-size: 28px; margin: 0; letter-spacing: -0.02em; }
+.sub { color: var(--dim); font-size: 13px; margin: 4px 0 0; }
+.toolbar { display: grid; grid-template-columns: 1fr auto auto; gap: 10px; margin-bottom: 18px; }
+@media (max-width: 600px) { .toolbar { grid-template-columns: 1fr; } }
+.toolbar input, .toolbar select {
+  background: var(--surface); border: 1px solid var(--border); color: var(--text);
+  padding: 9px 12px; border-radius: 8px; font: inherit;
+}
+.counts { color: var(--dim); font-size: 12.5px; margin-bottom: 14px; }
+.cards { display: flex; flex-direction: column; gap: 10px; }
+.card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+  padding: 14px 16px;
+  transition: border-color 0.15s ease;
+}
+.card:hover { border-color: var(--accent); }
+.card-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.card-title { margin: 0; font-size: 15px; line-height: 1.35; font-weight: 600; }
+.card-title a { color: var(--text); }
+.card-title a:hover { color: var(--accent); }
+.score { font-variant-numeric: tabular-nums; font-size: 13px; font-weight: 600; padding: 3px 9px; border-radius: 999px; white-space: nowrap; border: 1px solid var(--border); }
+.score.high { color: #06321a; background: var(--good); border-color: transparent; }
+.score.mid  { color: #1a1a1a; background: var(--warn); border-color: transparent; }
+.score.low  { color: var(--dim); }
+.meta { margin: 6px 0 0; color: var(--dim); font-size: 12.5px; display: flex; flex-wrap: wrap; gap: 6px 12px; }
+.meta .pill { background: var(--surface-2); padding: 2px 9px; border-radius: 999px; }
+.fit { margin: 8px 0 0; font-size: 12.5px; }
+.fit .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; letter-spacing: 0.04em; margin-right: 6px; }
+.fit .badge.strong { background: var(--good); color: #06321a; }
+.fit .badge.ok     { background: var(--accent); color: #001f4d; }
+.fit .badge.weak   { background: var(--warn); color: #1a1a1a; }
+.fit .badge.reject { background: var(--bad); color: #fff; }
+.fit .badge.urgent { background: #ff5252; color: #fff; }
+.desc { margin: 8px 0 0; font-size: 13px; color: var(--text); opacity: 0.85; }
+.actions { margin: 10px 0 0; display: flex; gap: 10px; align-items: center; }
+.actions .open {
+  display: inline-block; background: var(--accent-strong); color: white !important;
+  padding: 6px 14px; border-radius: 6px; font-size: 12.5px; font-weight: 600;
+}
+.actions .open:hover { background: var(--accent); text-decoration: none; }
+.empty { background: var(--surface); border: 1px dashed var(--border); border-radius: 10px; padding: 40px; text-align: center; color: var(--dim); }
+footer { margin-top: 28px; text-align: center; color: var(--dim); font-size: 12px; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="application/json" id="bootstrap">__PAYLOAD__</script>
+<script type="module">
+import { h, render } from "https://esm.sh/preact@10.22.0";
+import { useState, useMemo } from "https://esm.sh/preact@10.22.0/hooks";
+import htm from "https://esm.sh/htm@3.1.1";
+const html = htm.bind(h);
+
+const CHANNEL_LABEL = {
+  A: "Remote Boards",
+  B: "Freelance",
+  C: "Direct",
+  D: "OSS",
+};
+
+const boot = JSON.parse(document.getElementById("bootstrap").textContent || "{}");
+const ALL = boot.opportunities || [];
+
+function scoreClass(s) {
+  if (s >= 70) return "score high";
+  if (s >= 45) return "score mid";
+  return "score low";
+}
+
+function fitFromNote(note) {
+  if (!note) return null;
+  const m = note.match(/^\s*(?:⚡\s*URGENT\s*—\s*)?\[(STRONG|OK|WEAK|REJECT)\]/i);
+  if (!m) return null;
+  const urgent = /⚡|URGENT/.test(note);
+  return { verdict: m[1].toLowerCase(), urgent };
+}
+
+function fmtDate(iso) {
+  if (!iso) return "";
+  try { return new Date(iso).toLocaleDateString(); } catch { return ""; }
+}
+
+function Card({ o }) {
+  const fit = fitFromNote(o.llm_fit_note);
+  const reason = (o.llm_fit_note || "").replace(/^\s*(?:⚡\s*URGENT\s*—\s*)?\[\w+\]\s*/i, "").split(" | wins:")[0].trim();
+  return html`
+    <article class="card">
+      <div class="card-head">
+        <h3 class="card-title"><a href=${o.url} target="_blank" rel="noopener">${o.title}</a></h3>
+        <span class=${scoreClass(o.score || 0)}>${(o.score || 0).toFixed(0)}/100</span>
+      </div>
+      <div class="meta">
+        <span>${o.company || "—"}</span>
+        <span class="pill">Ch ${o.channel} · ${CHANNEL_LABEL[o.channel] || ""}</span>
+        <span>${o.source}</span>
+        ${o.posted_at ? html`<span>posted ${fmtDate(o.posted_at)}</span>` : null}
+        ${o.is_remote ? html`<span class="pill">Remote</span>` : null}
+      </div>
+      ${fit ? html`
+        <div class="fit">
+          ${fit.urgent ? html`<span class="badge urgent">URGENT</span>` : null}
+          <span class=${"badge " + fit.verdict}>${fit.verdict.toUpperCase()}</span>
+          <span>${reason}</span>
+        </div>` : null}
+      ${o.description ? html`<p class="desc">${o.description.slice(0, 240)}${o.description.length > 240 ? "…" : ""}</p>` : null}
+      <div class="actions">
+        <a class="open" href=${o.url} target="_blank" rel="noopener">Open & apply →</a>
+        <span style="color:var(--dim);font-size:11.5px">seen ${o._run_id || ""}</span>
+      </div>
+    </article>
+  `;
+}
+
+function App() {
+  const [query, setQuery] = useState("");
+  const [minScore, setMinScore] = useState(0);
+  const [channel, setChannel] = useState("any");
+
+  const filtered = useMemo(() => {
+    let list = ALL.slice();
+    if (channel !== "any") list = list.filter(o => o.channel === channel);
+    if (minScore > 0) list = list.filter(o => (o.score || 0) >= minScore);
+    if (query) {
+      const q = query.toLowerCase();
+      list = list.filter(o =>
+        (o.title || "").toLowerCase().includes(q) ||
+        (o.company || "").toLowerCase().includes(q) ||
+        (o.description || "").toLowerCase().includes(q) ||
+        (o.source || "").toLowerCase().includes(q) ||
+        (o.llm_fit_note || "").toLowerCase().includes(q)
+      );
+    }
+    return list;
+  }, [query, minScore, channel]);
+
+  return html`
+    <div class="app">
+      <header class="header">
+        <div>
+          <h1 class="title">JobHunter</h1>
+          <p class="sub">${ALL.length} unique jobs from the last ${boot.window_days} days · ${boot.run_count} run(s)</p>
+        </div>
+        <a href="https://github.com/tabishhassan5121472/Job_Hunter_Bot" target="_blank" rel="noopener">View source ↗</a>
+      </header>
+
+      <div class="toolbar">
+        <input
+          type="search"
+          placeholder="Search title, company, source, fit note…"
+          value=${query}
+          onInput=${(e) => setQuery(e.target.value)}
+        />
+        <select value=${minScore} onChange=${(e) => setMinScore(Number(e.target.value))}>
+          <option value="0">All scores</option>
+          <option value="40">≥ 40</option>
+          <option value="55">≥ 55</option>
+          <option value="65">≥ 65</option>
+          <option value="75">≥ 75</option>
+        </select>
+        <select value=${channel} onChange=${(e) => setChannel(e.target.value)}>
+          <option value="any">All channels</option>
+          <option value="A">Remote boards</option>
+          <option value="B">Freelance</option>
+          <option value="C">Direct</option>
+          <option value="D">OSS</option>
+        </select>
+      </div>
+
+      <p class="counts">${filtered.length} match(es)</p>
+
+      ${filtered.length === 0
+        ? html`<div class="empty">No matches — clear filters or wait for the next scheduled run.</div>`
+        : html`<div class="cards">${filtered.map(o => html`<${Card} o=${o} />`)}</div>`}
+
+      <footer>Built with Preact · rebuilt automatically every 5 hours by GitHub Actions</footer>
+    </div>
+  `;
+}
+
+render(html`<${App} />`, document.getElementById("root"));
+</script>
+</body>
+</html>
+"""
 
 
 if __name__ == "__main__":
