@@ -1,14 +1,11 @@
-"""Cover letter generator — Claude Sonnet, tailored per job.
-
-Picks the CV variant per-opportunity (opp.cv_variant), set by the scorer.
-Defaults to cv_frontend if the variant file is missing.
-"""
+"""Cover letter generator — picks CV variant per-opportunity, runs via
+core.llm_provider (Cerebras Llama 3.3 70B or Claude Sonnet)."""
 from __future__ import annotations
-import os
 from functools import lru_cache
 from pathlib import Path
 
 from core.models import Opportunity
+from core.llm_provider import complete, is_configured
 
 PROFILE_DIR = Path(__file__).parent.parent / "profile"
 WINS_TEXT = (PROFILE_DIR / "wins.md").read_text()
@@ -28,7 +25,7 @@ def _load_cv(variant: str) -> str:
 def _system_prompt(cv_text: str) -> str:
     return f"""You write concise, non-generic cover letters for Tabish Hassan.
 
-<profile cache_control={{"type":"ephemeral"}}>
+<profile>
 {cv_text}
 
 {WINS_TEXT}
@@ -49,16 +46,8 @@ Rules:
 
 
 def generate(opp: Opportunity) -> str:
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        return "[Set ANTHROPIC_API_KEY to enable cover letter generation]"
-
-    try:
-        import anthropic
-    except ImportError:
-        return "[anthropic package not installed]"
-
-    client = anthropic.Anthropic(api_key=api_key)
+    if not is_configured():
+        return "[Set CEREBRAS_API_KEY or ANTHROPIC_API_KEY to enable cover letter generation]"
 
     cv_text = _load_cv(opp.cv_variant or "cv_frontend")
     word_limit = "120 words" if opp.channel in ("B", "C") else "250 words"
@@ -75,13 +64,10 @@ Description:
 
 Pick the 2-3 most relevant achievements from the wins bank and weave them in naturally."""
 
-    try:
-        msg = client.messages.create(
-            model="claude-sonnet-20241022",
-            max_tokens=500,
-            system=_system_prompt(cv_text),
-            messages=[{"role": "user", "content": prompt}],
-        )
-        return msg.content[0].text.strip()
-    except Exception as e:
-        return f"[cover letter error: {e}]"
+    return complete(
+        system=_system_prompt(cv_text),
+        user=prompt,
+        max_tokens=500,
+        model_hint="writing",
+        temperature=0.4,
+    ) or "[cover letter generation returned empty]"
