@@ -47,6 +47,13 @@ def complete(
     return None
 
 
+CEREBRAS_MODEL = "qwen-3-235b-a22b-instruct-2507"
+# Why qwen over gpt-oss-120b: gpt-oss is a reasoning model that spends most of
+# its output tokens on hidden chain-of-thought, making max_tokens hard to size.
+# Qwen 3 235B instruct returns the answer directly. Available alternatives on
+# Cerebras: llama3.1-8b (fast/cheap), zai-glm-4.7, gpt-oss-120b (reasoning).
+
+
 def _call_cerebras(system, user, max_tokens, temperature, api_key) -> Optional[str]:
     try:
         from openai import OpenAI
@@ -55,8 +62,8 @@ def _call_cerebras(system, user, max_tokens, temperature, api_key) -> Optional[s
     client = OpenAI(api_key=api_key, base_url="https://api.cerebras.ai/v1")
     try:
         resp = client.chat.completions.create(
-            model="llama-3.3-70b",
-            max_completion_tokens=max_tokens,
+            model=CEREBRAS_MODEL,
+            max_tokens=max_tokens,
             temperature=temperature,
             messages=[
                 {"role": "system", "content": system},
