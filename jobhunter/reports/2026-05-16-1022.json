@@ -1,0 +1,432 @@
+{
+  "run_id": "2026-05-16-1022",
+  "generated_at": "2026-05-16T10:22:04.905783Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "d458157536d736b08d5c3bbfff7d130a",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Remove low-risk @ts-ignore occurrences with proper typings",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/29",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 41.0,
+      "stack": [
+        "help wanted",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:04:41+00:00",
+      "description": "## What is this\nThere are low-risk @ts-ignore usages that can be replaced with proper types.\n\n## Goal\nRemove easy suppressions and improve maintainability.\n\n## Files to edit\n- src/components/SongVersionSearchModal.tsx\n- src/services/AudioExtractorService.ts\n- src/screens/LibraryScreen.tsx\n\n## Steps\n1. Locate suppressions and understand expected type.\n2. Add type guards or interface updates.\n3. Remove suppression safely.\n\n## Testing checklist\n- Lint/type checks pass.\n- Manual check of affected UI interactions.\n\n## Definition of done\n- Targeted suppressions removed without runtime changes.",
+      "llm_fit_note": "[OK] Good first issue in TypeScript with clear scope, aligns with candidate's frontend and type safety expertise. | wins: a11y_wcag, rubios_perf, fullstack_client_delivery"
+    },
+    {
+      "id": "d6af58fce78290bce67c7ee0ed9762bd",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Add filename sanitization tests for export/import flows",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/35",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "help wanted",
+        "good first issue",
+        "testing"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:05:38+00:00",
+      "description": "## What is this\nFile export/import behavior needs guardrails for invalid filename characters.\n\n## Goal\nAdd tests that verify consistent sanitization behavior.\n\n## Files to edit\n- src/utils/exportImport.ts\n- add/extend corresponding test file\n\n## Steps\n1. Identify sanitization helper or add one if missing.\n2. Add tests for reserved characters, long names, trailing dots/spaces.\n3. Verify consistent output for cross-device compatibility.\n\n## Testing checklist\n- Run test suite and confirm deterministic sanitized names.\n\n## Definition of done\n- Safer file operations and fewer path-related failures.",
+      "llm_fit_note": "[OK] Good first issue in testing, aligns with attention to detail but not core stack. | wins: rubios_perf, a11y_wcag, ios_shipping"
+    },
+    {
+      "id": "ac7fb677e4088e2579d8b0ff2ec00a60",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Improve user-facing error text for lyrics fetch failures",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/34",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:05:29+00:00",
+      "description": "## What is this\nSome fetch failures surface technical messages that are not user-friendly.\n\n## Goal\nImprove error messaging for common failure cases without changing backend logic.\n\n## Files to edit\n- src/services/MultiSourceLyricsService.ts\n- src/components/Toast.tsx\n- related UI caller(s)\n\n## Steps\n1. Map internal errors to friendly messages.\n2. Keep detailed logs for debug but concise text for users.\n3. Ensure retry guidance appears where applicable.\n\n## Testing checklist\n- Simulate no-results, timeout, and provider-down flows.\n- Verify user messages are understandable and actionable.\n\n## D",
+      "llm_fit_note": "[OK] Good first issue aligning with frontend and UX improvement strengths. | wins: rubios_perf, a11y_wcag, speed_productivity"
+    },
+    {
+      "id": "bb835e79e5ba05d2300ef7da9d2e5c8b",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Improve contributor troubleshooting section (setup/lint/build)",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/33",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "documentation",
+        "help wanted",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:05:20+00:00",
+      "description": "## What is this\nNew contributors often hit setup and lint issues without clear repo-specific troubleshooting.\n\n## Goal\nAdd a concise troubleshooting section for common local issues.\n\n## Files to edit\n- CONTRIBUTING.md\n\n## Steps\n1. Add common errors and fixes (node version, install, lint issues).\n2. Add environment sanity checklist.\n3. Keep commands copy-paste friendly.\n\n## Testing checklist\n- Validate instructions on a fresh terminal session.\n\n## Definition of done\n- Faster onboarding with fewer repeated setup questions.",
+      "llm_fit_note": "[OK] Good first issue in documentation, aligns with experience in clear technical writing and setup guidance. | wins: rubios_perf, a11y_wcag, ios_shipping"
+    },
+    {
+      "id": "52a6db4bded6fa7db64177d39a864aff",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Add issue triage guide linked from CONTRIBUTING",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/31",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "documentation",
+        "help wanted",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:05:03+00:00",
+      "description": "## What is this\nIssue handling standards are not fully documented for maintainers/contributors.\n\n## Goal\nCreate a lightweight triage guide and connect it to contribution docs.\n\n## Files to edit\n- docs/issue-triage.md (new)\n- CONTRIBUTING.md\n\n## Steps\n1. Define triage checklist (reproducibility, scope, labels).\n2. Add label meaning section.\n3. Add escalation guidance for blockers/security issues.\n\n## Testing checklist\n- Follow guide against 2-3 existing issues and verify consistency.\n\n## Definition of done\n- Repeatable issue triage process for maintainers.",
+      "llm_fit_note": "[OK] Documentation contribution aligns with communication and process skills, though not a core development role. | wins: a11y_wcag, ios_shipping, freelance_delivery"
+    },
+    {
+      "id": "8d05d2d55986e45cb9fa83020cdecaf2",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Document database schema + migration flow for contributors",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/30",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "documentation",
+        "help wanted",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:04:51+00:00",
+      "description": "## What is this\nContributors lack one clear reference for DB schema and migration expectations.\n\n## Goal\nCreate contributor-friendly DB documentation.\n\n## Files to edit\n- docs/ (add database-schema.md)\n- README.md (link)\n\n## Steps\n1. Document current tables and key columns.\n2. Explain migration flow and where to add new migrations.\n3. Add do/don't list for schema changes.\n\n## Testing checklist\n- Fresh contributor can follow document and understand flow.\n\n## Definition of done\n- DB onboarding becomes faster and less error-prone.",
+      "llm_fit_note": "[OK] Documentation task aligns with communication skills and OSS contribution preference. | wins: a11y_wcag, ios_shipping, freelance_delivery"
+    },
+    {
+      "id": "c18999ec81037222e00333c21e36ee86",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Add shared provider response types to reduce ad-hoc casting",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/28",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "help wanted",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:04:32+00:00",
+      "description": "## What is this\nProvider services repeatedly map raw JSON with inline any usage.\n\n## Goal\nIntroduce reusable typed response models.\n\n## Files to edit\n- src/services/LrcLibService.ts\n- src/services/GeniusService.ts\n- src/services/MultiSourceSearchService.ts\n- src/types/ (new shared response types)\n\n## Steps\n1. Define minimal shared interfaces for frequently used provider fields.\n2. Update mapping code to use typed objects.\n3. Keep transforms unchanged.\n\n## Testing checklist\n- Type checks pass.\n- Search/fetch flows still return expected results.\n\n## Definition of done\n- Cleaner service code and ",
+      "llm_fit_note": "[OK] Good first issue aligning with TypeScript and code quality strengths, but low impact for a full-stack developer. | wins: rubios_perf, a11y_wcag, ios_shipping"
+    },
+    {
+      "id": "4a8b0744fdd52567630792edb47cfce2",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Replace basic any types in playlist screens/components",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/27",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "help wanted",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:04:23+00:00",
+      "description": "## What is this\nSome playlist-related files use basic any types that are easy to replace.\n\n## Goal\nImprove type safety with minimal behavioral risk.\n\n## Files to edit\n- src/screens/PlaylistsScreen.tsx\n- src/components/AddToPlaylistModal.tsx\n- related interfaces in src/types/\n\n## Steps\n1. Identify obvious any props/state.\n2. Create small interfaces for playlist and song structures used there.\n3. Replace any with explicit types.\n4. Ensure no behavior/UI changes.\n\n## Testing checklist\n- Type/lint checks pass.\n- Manual open/create/select playlist flows work.\n\n## Definition of done\n- Fewer any type",
+      "llm_fit_note": "[OK] Good first issue aligning with TypeScript and React expertise, but low complexity and no backend or mobile scope. | wins: rubios_perf, a11y_wcag, ios_shipping"
+    },
+    {
+      "id": "738443e1a0b4ebbdc48f8e19d51fb356",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Add comprehensive timestamp parser edge-case tests",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/26",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "help wanted",
+        "good first issue",
+        "testing"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:04:12+00:00",
+      "description": "## What is this\nParser behavior is core to lyric syncing but edge-case test coverage is limited.\n\n## Goal\nAdd beginner-friendly test coverage for timestamp parsing variants.\n\n## Files to edit\n- src/utils/timestampParser.ts\n- add/extend test file near parser\n\n## Steps\n1. Create test suite for parser functions.\n2. Add cases: [0:00], (0:00), 0:00, 0.00.\n3. Add malformed/mixed lines and empty input behavior.\n4. Verify ordering and parsed output consistency.\n\n## Testing checklist\n- Run tests and confirm all pass.\n- Keep tests readable with clear names.\n\n## Definition of done\n- Clear parser behavior",
+      "llm_fit_note": "[OK] Good first issue in testing aligns with candidate's full-stack experience and attention to detail. | wins: rubios_perf, a11y_wcag, full-stack"
+    },
+    {
+      "id": "6df551d6e6b5b32972e66f3e2073f9df",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [UX/State] Add queue cleanup/archive strategy for lyrics scan jobs",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/25",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "medium"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:04:02+00:00",
+      "description": "## What is this\nQueue keeps completed/failed entries without clear pruning strategy.\n\n## Goal\nPrevent stale queue growth and improve queue readability.\n\n## Files to edit\n- src/store/lyricsScanQueueStore.ts\n- queue UI components (if displayed)\n\n## Step-by-step implementation\n1. Define cleanup policy (auto-clear completed after TTL, manual clear failed, etc.).\n2. Implement cleanup actions in store.\n3. If applicable, add UI controls for clear completed/failed.\n4. Keep logs/history practical and bounded.\n\n## Testing checklist\n- Process many jobs and verify queue does not grow unbounded.\n- Validate",
+      "llm_fit_note": "[OK] Frontend state management task with clear scope, aligns with React/TypeScript expertise. | wins: rubios_perf, a11y_wcag, fullstack_taskflow"
+    },
+    {
+      "id": "515aee3f9067e35b14e4a06d3635fc80",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Quality] Reduce risky any/@ts-ignore usage in critical flows",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/23",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "medium"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:03:43+00:00",
+      "description": "## What is this\nCritical paths still use any and @ts-ignore, reducing type safety.\n\n## Goal\nIntroduce explicit types and remove avoidable suppressions.\n\n## Files to edit\n- src/services/AudioExtractorService.ts\n- src/screens/LibraryScreen.tsx\n- src/components/SongVersionSearchModal.tsx\n- src/screens/PlaylistsScreen.tsx\n\n## Step-by-step implementation\n1. Identify suppressions and infer correct interfaces.\n2. Add local types/interfaces in src/types/ where needed.\n3. Replace any with typed models in props/callbacks.\n4. Remove unnecessary @ts-ignore comments.\n\n## Testing checklist\n- Run lint/type c",
+      "llm_fit_note": "[OK] TypeScript improvement task aligns with strong frontend/TS skills, but limited scope for full-stack or iOS expertise. | wins: rubios_perf, a11y_wcag, ios_shipping"
+    },
+    {
+      "id": "4aaa8eaeec9597932463193251e84a57",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Performance] Replace perpetual WebView polling in YouTube browser extraction flow",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/22",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "hard"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:03:33+00:00",
+      "description": "## What is this\nInjected script in YouTube WebView uses a continuous setInterval poll every second.\n\n## Goal\nReduce CPU/wakeups while keeping extraction reliable.\n\n## Files to edit\n- src/screens/YoutubeBrowserScreen.tsx\n\n## Step-by-step implementation\n1. Replace blind interval polling with event-driven or guarded polling lifecycle.\n2. Stop extraction polling when leaving video pages.\n3. Debounce extraction attempts per video ID.\n4. Keep extraction error handling stable.\n\n## Testing checklist\n- Browse multiple videos continuously.\n- Validate extraction still appears reliably.\n- Confirm lower re",
+      "llm_fit_note": "[OK] React performance optimisation aligns with expertise, but scope is narrow and OSS-focused. | wins: rubios_perf, a11y_wcag, speed_productivity"
+    },
+    {
+      "id": "720bb8bd12efc62d4d28ab5300fae43e",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Reliability] Unified timeout/retry/backoff policy across provider services",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/21",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "hard"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:03:23+00:00",
+      "description": "## What is this\nDifferent services use inconsistent timeout and retry approaches.\n\n## Goal\nImplement a shared network resilience policy for provider calls.\n\n## Files to edit\n- src/services/LrcLibService.ts\n- src/services/GeniusService.ts\n- src/services/LyricaService.ts\n- src/services/JioSaavnLyricsService.ts\n- src/services/MultiSourceSearchService.ts\n\n## Step-by-step implementation\n1. Create shared helper for timeout + retry + backoff.\n2. Standardize transient error handling (timeout, 429, 5xx).\n3. Add jittered exponential backoff with retry cap.\n4. Normalize provider errors for UI display.\n\n#",
+      "llm_fit_note": "[OK] Task involves frontend service reliability but lacks React or full-stack ownership context. | wins: rubios_perf, a11y_wcag, full-stack"
+    },
+    {
+      "id": "dd68abfffbd3fd1498bfb813b532e2e6",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Performance] Reduce excessive runtime logging in hot paths",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/20",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 36.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "medium"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:03:13+00:00",
+      "description": "## What is this\nMany hot paths use frequent console logs, increasing noise and possible performance cost.\n\n## Goal\nGate noisy logs and keep only actionable diagnostics.\n\n## Files to edit\n- src/hooks/useSongStaging.ts\n- src/services/JioSaavnLyricsService.ts\n- src/services/LuvsRecommendationEngine.ts\n- src/store/playerStore.ts\n- other high-noise modules identified in grep\n\n## Step-by-step implementation\n1. Audit repeated logs in loops/frequent callbacks.\n2. Wrap non-essential logs in strict dev guards.\n3. Remove duplicate logs and keep one concise diagnostic per event.\n4. Keep error logs meaning",
+      "llm_fit_note": "[OK] Performance optimisation in React/TS codebase aligns with candidate's expertise, but scope is narrow and low-impact. | wins: rubios_perf, a11y_wcag, speed_productivity"
+    },
+    {
+      "id": "25881bc732fec55aec8eaedccfc3cfa1",
+      "title": "[OSS] Vaibhav-kesarwani/100-reactjs-projects: Logo for 100 ReactJS Projects & Apply Across Website",
+      "company": "Vaibhav-kesarwani",
+      "url": "https://github.com/Vaibhav-kesarwani/100-reactjs-projects/issues/54",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 31.0,
+      "stack": [
+        "help wanted",
+        "good first issue",
+        "level2",
+        "gssoc'26"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:11:04+00:00",
+      "description": "##  Logo Design\n\n### Problem\nCurrently, the website lacks a consistent and recognizable **brand identity** through a dedicated logo, or the existing logo is not consistently used across the platform.\n\nThis affects branding, visual consistency, and overall user experience.\n\n### Proposed Solution\nDesign or update the **official logo for the 100 ReactJS Projects website** and integrate it across all relevant areas of the application.\n\n### Scope of Work\n\n#### Logo Design \n- Create a modern, clean, and ReactJS-themed logo\n- Ensure scalability for different screen sizes\n- Provide light/dark mode com",
+      "llm_fit_note": "[WEAK] Logo design and branding task is outside core full-stack development expertise."
+    },
+    {
+      "id": "a974bfbeb9e2833edba949fa819654a9",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Security] Remove client-side secret risk in Spotify bridge flow",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/18",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 31.0,
+      "stack": [
+        "help wanted",
+        "security",
+        "hard"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:02:50+00:00",
+      "description": "## Feature to Build\n\n`SpotifyBridgeService.ts` does not yet exist in the codebase \u2014 this issue defines the secure architecture that must be built before any Spotify integration is shipped.\n\n## Context\nIf a Spotify integration is added to LuvLyrics, the Spotify OAuth client secret **must never** live in the app bundle. Open-source mobile apps ship their source publicly \u2014 any secret in the code or in a public `.env` file is a leaked secret.\n\n## Files to create\n- `src/services/SpotifyBridgeService.ts` \u2014 Spotify integration service, built from the start with a proxy-token pattern (see below)\n\n## S",
+      "llm_fit_note": "[WEAK] Security-focused backend task with no frontend/React work, outside core expertise."
+    },
+    {
+      "id": "06b896336b108918afc930a62236b40a",
+      "title": "[OSS] lingdojo/kana-dojo: [Good First Issue] \ud83c\udf65 Add new Anime Quote 67 - Beginner-Friendly Open-source Contribution",
+      "company": "lingdojo",
+      "url": "https://github.com/lingdojo/kana-dojo/issues/17075",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 21.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "good first issue",
+        "hacktoberfest",
+        "community",
+        "low hanging fruit",
+        "up-for-grabs",
+        "first-timers-only"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:17:23+00:00",
+      "description": "## \ud83d\udfe2 Good First Issue: Add Anime Quote #67 \u2014 Beginner-Friendly Open Source Contribution\n\n![Time: <1 minute](https://img.shields.io/badge/Time-<1_minute-brightgreen) ![Difficulty: Beginner](https://img.shields.io/badge/Difficulty-Beginner-blue) ![No Code Required](https://img.shields.io/badge/No_Code-Required-orange)\n\n> \ud83d\udfe2 **No prerequisites needed!** You don't need to clone the repo, install anything, or write code.\n> This entire contribution can be done from your browser in under 60 seconds.\n\n**Labels:** good first issue, help wanted, hacktoberfest  \n**Language:** JSON (no coding required)  \n*",
+      "llm_fit_note": "[WEAK] This is a beginner-friendly open-source contribution with no coding required, not aligned with Tabish's senior full-stack profile."
+    },
+    {
+      "id": "784c4f3363c91466bf1ebe4d1b20cbb3",
+      "title": "[OSS] kubestellar/console: Scrolling does not work correctly in the contribute modal",
+      "company": "kubestellar",
+      "url": "https://github.com/kubestellar/console/issues/14086",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 21.0,
+      "stack": [
+        "help wanted",
+        "kind/bug",
+        "needs-triage",
+        "ai-fix-requested",
+        "triage/needed"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:14:21+00:00",
+      "description": "## User Request\n\n**Type:** bug\n**Target:** Console Application\n**Submitted by:** @xonas1101\n**Console Request ID:** 40c8f16b-b58a-4565-ad1c-e25318907bff\n\n## Description\n\nThe scrolling is stuck many times in the modal. There is no need to scroll in the write field if the content in it is not big enough to require a scroll. Otherwise, anywhere else on the modal, scrolling must be enabled. Depends on where the focus of scrolling is (cursor position)\n\nSHA: [`25add26`](https://github.com/kubestellar/console/commit/25add26a450b4e3daf7b361a4e30af463c31d665)\n\n<details>\n<summary>Browser Console Errors ",
+      "llm_fit_note": "[WEAK] Issue is a niche frontend bug in a Kubernetes-related console with unclear stack alignment to core skills."
+    },
+    {
+      "id": "ff753882f7ad9041c5e78cc50c59269f",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Good First Issue] Add smoke test run instructions and expected output docs",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/32",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 21.0,
+      "stack": [
+        "documentation",
+        "help wanted",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:05:11+00:00",
+      "description": "## What is this\nSmoke test scripts exist but contributor run instructions are not explicit.\n\n## Goal\nMake smoke-test usage easy for first-time contributors.\n\n## Files to edit\n- scripts/test_real_alignment.js (if output formatting needed)\n- README.md or CONTRIBUTING.md\n\n## Steps\n1. Add command examples.\n2. Document expected pass/fail output.\n3. Add troubleshooting notes for common failures.\n\n## Testing checklist\n- Fresh run from clean setup follows docs successfully.\n\n## Definition of done\n- Contributors can run smoke checks without guesswork.",
+      "llm_fit_note": "[WEAK] Issue is documentation-focused with no coding or full-stack work required."
+    },
+    {
+      "id": "85d940e092ef8eb27409552aa0351706",
+      "title": "[OSS] LuvLyrics/LuvLyricsApp: [Architecture] Introduce explicit database schema versioning for migrations",
+      "company": "LuvLyrics",
+      "url": "https://github.com/LuvLyrics/LuvLyricsApp/issues/24",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 21.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "hard"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T10:03:53+00:00",
+      "description": "## What is this\nSchema changes are applied via column existence checks without explicit DB versioning.\n\n## Goal\nUse deterministic versioned migrations.\n\n## Files to edit\n- src/database/db.ts\n- src/database/db_migration.ts\n- optional: docs/database-migrations.md\n\n## Step-by-step implementation\n1. Choose version source (PRAGMA user_version or meta table).\n2. Implement ordered migration runner by version.\n3. Move ad-hoc ALTER checks into versioned steps.\n4. Add migration authoring rules in docs.\n\n## Testing checklist\n- Simulate old schema -> latest upgrade.\n- Validate data intact after migration ",
+      "llm_fit_note": "[WEAK] Narrow database migration task with limited frontend/React involvement."
+    }
+  ]
+}
