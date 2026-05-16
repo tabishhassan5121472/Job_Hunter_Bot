@@ -21,6 +21,23 @@ REMOTE_SIGNALS = {
 A11Y_SIGNALS = {"a11y", "wcag", "ada", "accessibility", "aria", "508"}
 SENIORITY_GOOD = {"mid", "intermediate", "3-5", "3+", "4+", "5 years", "5+"}
 SENIORITY_BAD = {"lead", "principal", "staff", "director", "vp", "10+", "8+"}
+# Startup signals — used as a positive multiplier; we want startup roles.
+STARTUP_SIGNAL_RE = re.compile(
+    r"\b("
+    r"startup|start-up|early.stage|early.career|"
+    r"seed|pre.seed|series\s*a|series\s*b|series\s*c|"
+    r"yc|y.combinator|y combinator|techstars|"
+    r"founding\s+(?:engineer|developer|frontend|backend|fullstack|full.stack)|"
+    r"founding\s+team|"
+    r"small\s+team|fast.paced|wear\s+many\s+hats|ship\s+fast|"
+    r"product.minded|generalist|0\s*to\s*1|zero\s+to\s+one"
+    r")\b",
+    re.IGNORECASE,
+)
+ENTERPRISE_SIGNAL_RE = re.compile(
+    r"\b(fortune\s*\d+|enterprise\s+(?:client|customer)|public\s+sector|government\s+agency)\b",
+    re.IGNORECASE,
+)
 
 REJECT_PATTERNS = [
     r"\bgambling\b", r"\bcasino\b", r"\badult\b",
@@ -87,13 +104,25 @@ def score(opp: Opportunity) -> Opportunity:
     # Accessibility bonus (0–1)
     bd.accessibility_bonus = 1.0 if A11Y_SIGNALS & toks else 0.0
 
-    # Weighted total
+    # Startup bonus (0–1) — target startup roles preferentially.
+    # 1.0 = clear startup signal; -0.5 = strong enterprise signal (penalty).
+    if STARTUP_SIGNAL_RE.search(blob):
+        bd.startup_signal = 1.0
+    elif ENTERPRISE_SIGNAL_RE.search(blob):
+        bd.startup_signal = -0.5
+    else:
+        bd.startup_signal = 0.0
+
+    # Weighted total. Re-tuned to make startup_signal meaningful (10%) and
+    # nudge react_stack_match down from 0.40 → 0.30 since the candidate's
+    # profile is broader than just React now.
     w = dict(
-        react_stack_match=0.40,
+        react_stack_match=0.30,
         frontend_signal=0.15,
         remote_friendly=0.15,
         seniority_fit=0.10,
         recency=0.10,
+        startup_signal=0.10,
         pay_signal=0.05,
         accessibility_bonus=0.05,
     )

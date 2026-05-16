@@ -103,6 +103,10 @@ def main() -> None:
                 # Dedup across runs by URL — keep the entry from the newest run
                 if url in opps_by_url:
                     continue
+                # Drop Channel D (OSS) entirely — user wants startup/job focus,
+                # not OSS busywork. Old reports still contain D entries.
+                if (opp.get("channel") or "").upper() == "D":
+                    continue
                 # Drop non-English postings from stale reports
                 if not _is_english(opp):
                     continue

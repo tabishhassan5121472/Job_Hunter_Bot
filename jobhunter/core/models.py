@@ -13,6 +13,7 @@ class ScoreBreakdown(BaseModel):
     recency: float = 0.0
     pay_signal: float = 0.0
     accessibility_bonus: float = 0.0
+    startup_signal: float = 0.0
     penalties: float = 0.0
     total: float = 0.0
 
