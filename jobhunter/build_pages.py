@@ -18,6 +18,28 @@ REPORTS = HERE / "reports"
 OUT = HERE / "_site"
 MAX_AGE_DAYS = 7
 
+# Language filter for stale jobs already in committed JSON reports — newer
+# reports won't have non-English jobs (main.py drops them upfront), but old
+# reports might. Keep the page clean retroactively.
+try:
+    from langdetect import detect, DetectorFactory, LangDetectException
+    DetectorFactory.seed = 0
+    _LANG_DETECT_AVAILABLE = True
+except ImportError:
+    _LANG_DETECT_AVAILABLE = False
+
+
+def _is_english(opp: dict) -> bool:
+    if not _LANG_DETECT_AVAILABLE:
+        return True
+    text = ((opp.get("title") or "") + ". " + (opp.get("description") or "")).strip()
+    if len(text) < 40:
+        return True
+    try:
+        return detect(text[:1500]) == "en"
+    except LangDetectException:
+        return True
+
 
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
@@ -49,6 +71,9 @@ def main() -> None:
                     continue
                 # Dedup across runs by URL — keep the entry from the newest run
                 if url in opps_by_url:
+                    continue
+                # Drop non-English postings from stale reports
+                if not _is_english(opp):
                     continue
                 opp["_run_id"] = run_id
                 opp["_seen_at"] = ts.isoformat()

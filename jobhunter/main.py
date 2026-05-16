@@ -16,6 +16,29 @@ MAX_AGE_DAYS = 3
 
 sys.path.insert(0, str(Path(__file__).parent))
 
+# Language filter — drop non-English postings (ArbeitNow surfaces a lot of
+# German roles; user can't apply credibly in DE/FR/etc.).
+try:
+    from langdetect import detect, DetectorFactory, LangDetectException
+    DetectorFactory.seed = 0  # deterministic results across runs
+    _LANG_DETECT_AVAILABLE = True
+except ImportError:
+    _LANG_DETECT_AVAILABLE = False
+
+
+def _is_english(opp) -> bool:
+    """Return True if the opportunity looks English-enough to apply to.
+    Fail-open: short text or detector errors → keep the job."""
+    if not _LANG_DETECT_AVAILABLE:
+        return True
+    text = ((opp.title or "") + ". " + (opp.description or "")).strip()
+    if len(text) < 40:
+        return True  # too short to reliably detect
+    try:
+        return detect(text[:1500]) == "en"
+    except LangDetectException:
+        return True
+
 from rich.console import Console
 from rich.table import Table
 from rich.progress import track
@@ -111,9 +134,10 @@ def main():
     raw += run_sources(DIRECT_SOURCES,    "Channel C/D — Direct & OSS")
     console.print(f"\n[bold]Total raw:[/bold] {len(raw)}")
 
-    # ── 2. Deduplicate + freshness filter + score ──────────────────────────────
+    # ── 2. Deduplicate + freshness filter + language filter + score ────────────
     cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
     stale_dropped = 0
+    non_english_dropped = 0
     new_opps: list[Opportunity] = []
     for opp in raw:
         if storage.is_seen(opp.url):
@@ -125,6 +149,9 @@ def main():
             if posted < cutoff:
                 stale_dropped += 1
                 continue
+        if not _is_english(opp):
+            non_english_dropped += 1
+            continue
         opp = scorer.score(opp)
         if opp.score > 0:
             storage.save(opp)
@@ -132,7 +159,8 @@ def main():
 
     console.print(
         f"[bold]New & scored:[/bold] {len(new_opps)} "
-        f"[dim](dropped {stale_dropped} older than {MAX_AGE_DAYS} days)[/dim]"
+        f"[dim](dropped {stale_dropped} older than {MAX_AGE_DAYS} days, "
+        f"{non_english_dropped} non-English)[/dim]"
     )
 
     if not new_opps:
