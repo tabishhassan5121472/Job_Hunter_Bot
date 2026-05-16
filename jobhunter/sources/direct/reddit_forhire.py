@@ -1,65 +1,66 @@
-"""Reddit r/forhire + r/remotejs — Channel C (direct clients)."""
+"""Reddit r/forhire + r/remotejs + r/reactjs — Channel C (direct clients).
+
+Uses Reddit's public RSS feeds (no API, no auth) with a proper User-Agent so
+GitHub Actions IPs don't get the anonymous-JSON 403 block. Reddit tolerates
+RSS reads from any IP as long as the User-Agent isn't generic/empty.
+"""
 from __future__ import annotations
 import hashlib
 import re
 from datetime import datetime, timezone
 
-from core.fetcher import fetch_json
+import feedparser
+
 from core.models import Opportunity
 
-SUBREDDITS = [
-    ("forhire",  "hiring"),
-    ("remotejs", "hiring"),
-    ("reactjs",  "hiring"),
-]
+SUBREDDITS = ["forhire", "remotejs", "reactjs"]
+
+USER_AGENT = "JobHunter/1.0 (by /u/Tabish-Software-Dev - personal job search)"
 
 
-def fetch() -> list[Opportunity]:
-    out = []
-    seen: set[str] = set()
+def _parse_one(subreddit: str) -> list[Opportunity]:
+    url = f"https://www.reddit.com/r/{subreddit}/new/.rss"
+    parsed = feedparser.parse(url, request_headers={"User-Agent": USER_AGENT})
+    if parsed.bozo and not parsed.entries:
+        return []
 
-    for subreddit, flair_filter in SUBREDDITS:
-        url = f"https://www.reddit.com/r/{subreddit}/new.json?limit=50&t=week"
-        data = fetch_json(url)
-        if not data:
+    out: list[Opportunity] = []
+    for entry in parsed.entries:
+        title = entry.get("title", "") or ""
+        # Strict hiring filter: must contain [Hiring]; skip [For Hire] etc.
+        # RSS doesn't expose flair, so we rely on title prefix.
+        if "[hiring]" not in title.lower():
             continue
 
-        posts = data.get("data", {}).get("children", [])
-        for post in posts:
-            p = post.get("data", {})
-            title = p.get("title", "")
-            flair = (p.get("link_flair_text") or "").strip().lower()
+        link = entry.get("link", "") or ""
+        if not link:
+            continue
 
-            # Strict hiring filter: title must say [Hiring] OR flair must equal "hiring"
-            # (avoids surfacing "[For Hire]" posts as opportunities)
-            title_has_hiring = "[hiring]" in title.lower()
-            flair_is_hiring = flair == "hiring"
-            if not (title_has_hiring or flair_is_hiring):
-                continue
+        # RSS 'summary' is HTML; pull the readable text portion
+        summary_html = entry.get("summary", "") or ""
+        desc = re.sub(r"<[^>]+>", " ", summary_html)
+        desc = re.sub(r"\s+", " ", desc).strip()[:3000]
 
-            permalink = p.get("permalink", "")
-            if not permalink:
-                continue
-            full_url = f"https://www.reddit.com{permalink}"
-            if full_url in seen:
-                continue
-            seen.add(full_url)
+        author = (entry.get("author") or "").lstrip("/u/")
+        # Title sometimes encodes [HIRING] / [HIRING][Remote] etc.; keep raw.
 
-            desc = p.get("selftext", "")[:3000]
-            created = p.get("created_utc")
-            posted_at = datetime.fromtimestamp(created, tz=timezone.utc) if created else None
+        published = entry.get("published_parsed")
+        if published:
+            posted_at = datetime(*published[:6], tzinfo=timezone.utc)
+        else:
+            posted_at = None
 
-            # Extract budget hint
-            budget_match = re.search(r"\$(\d+)(?:/hr|/hour|/h\b)", desc, re.IGNORECASE)
-            budget = float(budget_match.group(1)) if budget_match else None
+        budget_match = re.search(r"\$(\d+)(?:/hr|/hour|/h\b)", title + " " + desc, re.IGNORECASE)
+        budget = float(budget_match.group(1)) if budget_match else None
 
-            opp = Opportunity(
-                id=hashlib.md5(full_url.encode()).hexdigest(),
-                url=full_url,
+        out.append(
+            Opportunity(
+                id=hashlib.md5(link.encode()).hexdigest(),
+                url=link,
                 source=f"reddit_r_{subreddit}",
                 channel="C",
                 title=title,
-                company_or_client=p.get("author", ""),
+                company_or_client=author,
                 description=f"{title}\n\n{desc}",
                 stack=[],
                 is_remote=True,
@@ -67,6 +68,17 @@ def fetch() -> list[Opportunity]:
                 budget=budget,
                 posted_at=posted_at,
             )
-            out.append(opp)
+        )
+    return out
 
+
+def fetch() -> list[Opportunity]:
+    out: list[Opportunity] = []
+    seen: set[str] = set()
+    for sr in SUBREDDITS:
+        for opp in _parse_one(sr):
+            if opp.url in seen:
+                continue
+            seen.add(opp.url)
+            out.append(opp)
     return out
