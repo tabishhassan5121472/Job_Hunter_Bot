@@ -1,15 +1,22 @@
-# Tabish Hassan — Frontend CV (prompt-cached for LLM)
+# Tabish Hassan — Full-stack + Mobile CV (prompt-cached for LLM)
 
 ## Identity
 - **Name**: Tabish Hassan
-- **Role**: React.js Frontend Developer
+- **Role**: Full-stack Engineer (React-leading) · iOS shipper
 - **Location**: Rawalpindi, Pakistan · UTC+5 · Remote-only
 - **Portfolio**: https://tabishhassan5121472.github.io/My-Portfolio
 - **GitHub**: https://github.com/tabishhassan5121472
 - **Availability**: Immediate · Full-time, contract, or freelance
 
-## Core Stack (4+ years)
-React.js · TypeScript · Material UI · Tailwind CSS · Redux Toolkit · Zustand · Framer Motion · Vite · Webpack · REST API integration · React Router · React Query
+## Core Stack
+
+**Frontend (4+ years)**: React.js · TypeScript · Material UI · Tailwind CSS · Redux Toolkit · Zustand · Framer Motion · Vite · Webpack · REST API integration · React Router · React Query
+
+**Backend (Dec 2025 → present)**: NestJS · Node.js · microservice architecture · REST APIs · JWT auth · MongoDB · PostgreSQL · Socket.IO
+
+**Mobile / iOS**: Swift · SwiftUI · UIKit · fastlane CI/CD · AdMob · StoreKit subscriptions · App Store Connect
+
+**Automation & tooling**: GitHub Actions · scheduled pipelines · Anthropic Claude API integration in personal workflows · Python scrapers
 
 ## Key Strengths
 - Pixel-perfect UI implementation from Figma/designs
@@ -35,12 +42,24 @@ React.js · TypeScript · Material UI · Tailwind CSS · Redux Toolkit · Zustan
 - Created accessible, responsive UI components
 - Optimised frontend bundle size and load times
 
-### Product Developer — Radius XR (2022)
-- Early career role: React fundamentals, component design, team collaboration
+### Product Developer — Radius XR / Citrusbits (2022–Present)
+- Citrusbits is the parent company; RadiusXR is its flagship medical-AR product line
+- Started as frontend (React + Tailwind + ADA/WCAG compliance) across three RadiusXR portals (Practice, SuperAdmin, Eyevia)
+- **Dec 2025 → present**: expanded into backend engineering — building NestJS microservices, REST APIs, and end-to-end portal integrations across 5 RadiusXR portals
+- Maintained ADA/WCAG compliance on Rubios, Soul Link, and RadiusXR portals during accessibility hardening sprints
+
+## Mobile / iOS — Independent Shipping
+- **Published 20+ iOS apps to the App Store** across productivity, games, and utility categories
+- Featured apps: **StoryBoard**, **QuoteVault**, **Spell Bee**, **Habit Grid**
+- Tech: Swift / SwiftUI / UIKit, with AdMob monetization and StoreKit Auto-Renewable Subscriptions (7-day free trial flow)
+- Built fastlane-based CI/CD pipeline for archive → TestFlight → App Store Connect submission
+- Generated App Store metadata, screenshots (iPhone 6.5" + iPad 13"), and review screenshots automatically via UI Test snapshot
+- Maintain a multi-app monorepo with shared SwiftUI components, App Icon generator, and per-app `project.yml` via XcodeGen
+
+## Automation & Personal Tooling
+- Build internal tooling using Anthropic Claude API + Python: multi-source data pipelines, scheduled aggregators, GitHub Actions cron deployments to GitHub Pages
+- Comfortable orchestrating LLM API calls, prompt design, and CI-based daily runs for personal workflows
 
 ## Education
-BSc Computer Science
-
-## Backend (Learning, Dec 2025–Present)
-Node.js · Express · MongoDB · PostgreSQL · Socket.IO · JWT Auth · REST APIs
-*Honest note: ~4 months experience. Can build and integrate APIs; not pitching as backend expertise.*
+BS Software Engineering · The University of Lahore (Jan 2017 – Jan 2021)
+Intermediate, Pre-Engineering · Sir Syed Science College, Rawalpindi (Jan 2015 – Jan 2017)

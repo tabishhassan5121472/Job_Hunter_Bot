@@ -30,3 +30,16 @@
 ## Speed / Productivity
 - Consistently ship pixel-perfect UI from Figma designs within agreed timelines
 - Strong at estimating scope and communicating blockers early — no surprise delays
+
+## Mobile / iOS Shipping
+- Published 20+ independent iOS apps to the App Store across productivity, games, and utility categories (featured: StoryBoard, QuoteVault, Spell Bee, Habit Grid)
+- Built and maintain a fastlane-based CI/CD pipeline that archives, signs, uploads to TestFlight, and submits for review without manual Xcode steps
+- Integrated AdMob ads + StoreKit Auto-Renewable Subscriptions (7-day free trial flow) across multiple apps
+- Generated localized App Store metadata + iPhone 6.5" / iPad 13" screenshots automatically via Snapshot UI tests
+- Created multi-app monorepo workflow: shared SwiftUI components, App Icon generator, per-app project.yml via XcodeGen
+
+## AI / Automation Engineering
+- Built personal job-search automation: multi-source scraper (8 boards/ATS endpoints), Claude Haiku reranking against own CV, GitHub Actions cron every 5h, static dashboard auto-deployed to GitHub Pages
+- Wired Anthropic Claude API into Python pipelines for personalized output generation (job-fit notes, cover letter drafts)
+- Designed BMAD-style agent workflows for personal blogging and suggestion engines
+- Comfortable with end-to-end LLM application engineering: prompt design, API cost control, structured-output parsing

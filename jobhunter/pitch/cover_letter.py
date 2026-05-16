@@ -1,19 +1,35 @@
-"""Cover letter generator — Claude Sonnet, tailored per job."""
+"""Cover letter generator — Claude Sonnet, tailored per job.
+
+Picks the CV variant per-opportunity (opp.cv_variant), set by the scorer.
+Defaults to cv_frontend if the variant file is missing.
+"""
 from __future__ import annotations
 import os
+from functools import lru_cache
 from pathlib import Path
 
 from core.models import Opportunity
 
 PROFILE_DIR = Path(__file__).parent.parent / "profile"
-CV_TEXT   = (PROFILE_DIR / "cv_frontend.md").read_text()
 WINS_TEXT = (PROFILE_DIR / "wins.md").read_text()
 PREFS_TEXT = (PROFILE_DIR / "preferences.md").read_text()
 
-SYSTEM = f"""You write concise, non-generic cover letters for Tabish Hassan.
+
+@lru_cache(maxsize=8)
+def _load_cv(variant: str) -> str:
+    """Load a CV variant by stem name (e.g. 'cv_frontend', 'cv_employed').
+    Falls back to cv_frontend if the requested variant doesn't exist."""
+    path = PROFILE_DIR / f"{variant}.md"
+    if not path.exists():
+        path = PROFILE_DIR / "cv_frontend.md"
+    return path.read_text()
+
+
+def _system_prompt(cv_text: str) -> str:
+    return f"""You write concise, non-generic cover letters for Tabish Hassan.
 
 <profile cache_control={{"type":"ephemeral"}}>
-{CV_TEXT}
+{cv_text}
 
 {WINS_TEXT}
 
@@ -44,6 +60,7 @@ def generate(opp: Opportunity) -> str:
 
     client = anthropic.Anthropic(api_key=api_key)
 
+    cv_text = _load_cv(opp.cv_variant or "cv_frontend")
     word_limit = "120 words" if opp.channel in ("B", "C") else "250 words"
     tone = "casual DM" if opp.channel in ("B", "C") else "professional email"
 
@@ -62,7 +79,7 @@ Pick the 2-3 most relevant achievements from the wins bank and weave them in nat
         msg = client.messages.create(
             model="claude-sonnet-20241022",
             max_tokens=500,
-            system=SYSTEM,
+            system=_system_prompt(cv_text),
             messages=[{"role": "user", "content": prompt}],
         )
         return msg.content[0].text.strip()

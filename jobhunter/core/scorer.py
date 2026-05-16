@@ -102,4 +102,10 @@ def score(opp: Opportunity) -> Opportunity:
 
     opp.score = bd.total
     opp.score_breakdown = bd
+
+    # CV variant selection: full-time / Channel A roles get the employer-led
+    # CV framing; freelance / direct / OSS channels stay with cv_frontend
+    # which is positioned around independent shipping. The cover-letter
+    # generator picks the matching file at draft time.
+    opp.cv_variant = "cv_employed" if opp.channel == "A" else "cv_frontend"
     return opp
