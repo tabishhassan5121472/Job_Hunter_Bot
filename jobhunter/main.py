@@ -69,6 +69,7 @@ FREELANCE_SOURCES = [
 DIRECT_SOURCES = [
     ("reddit",       "sources.direct.reddit_forhire"),
     ("hn_freelance", "sources.direct.hn_freelancer"),
+    ("hn_hiring",    "sources.direct.hn_hiring"),   # monthly "Who is hiring?" thread
     # github_oss DROPPED — was producing GSSoC student tasks + lingdojo spam,
     # not real income. Source file kept at sources/direct/github_issues.py
     # if we ever want to re-enable for portfolio-building runs.

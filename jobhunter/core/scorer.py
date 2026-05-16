@@ -40,13 +40,39 @@ ENTERPRISE_SIGNAL_RE = re.compile(
 )
 
 REJECT_PATTERNS = [
+    # Sectors
     r"\bgambling\b", r"\bcasino\b", r"\badult\b",
     r"\bcrypto\b", r"\bblockchain\b",
+    # Seniority overreach
     r"\bsenior node\b", r"\bnestjs lead\b",
     r"\bbackend engineer\b.*senior",
-    r"\bon.site\b", r"\bus citizen\b", r"\beu citizen\b",
-    r"\bright to work\b",
+    # Onsite / hybrid hard-blockers
+    r"\bon.site\b", r"\bhybrid\b",
+    # Country restrictions that block Pakistan-based candidates
+    r"\bus citizen", r"\bus citizenship\b", r"\bus only\b", r"\bus.based only\b",
+    r"\beu citizen", r"\beu citizenship\b", r"\beu only\b", r"\beu.based only\b",
+    r"\buk citizen", r"\buk only\b",
+    r"\bcanadian citizen", r"\bcanada only\b",
+    r"\baustralian citizen", r"\baustralia only\b",
+    r"\bgreen.card\b", r"\bright to work\b", r"\bwork permit\b",
+    r"\bus.work.authorization\b", r"\bauthorized to work in the\b",
+    r"\bsecurity clearance\b", r"\btop.secret\b",
+    # Pakistan-specific blockers (no banking with Israel)
+    r"\bisrael.based\b", r"\btel aviv\b",
 ]
+
+# Positive signal for worldwide-remote jobs (Pakistan-hireable)
+WORLDWIDE_SIGNAL_RE = re.compile(
+    r"\b("
+    r"worldwide|any\s+country|any\s+timezone|"
+    r"global\s+team|globally\s+distributed|"
+    r"100%\s+remote|fully\s+remote\s+global|remote\s+global|"
+    r"deel|remote\.com|wise|payoneer|"
+    r"hire\s+(?:internationally|globally|from\s+anywhere)|"
+    r"open\s+to\s+(?:applicants|candidates)\s+from\s+anywhere"
+    r")\b",
+    re.IGNORECASE,
+)
 
 
 def _tokens(text: str) -> set[str]:
@@ -76,8 +102,14 @@ def score(opp: Opportunity) -> Opportunity:
     # Frontend signal (0–1)
     bd.frontend_signal = 1.0 if FRONTEND_SIGNALS & toks else 0.0
 
-    # Remote friendly (0–1)
-    bd.remote_friendly = 1.0 if (REMOTE_SIGNALS & toks or opp.is_remote) else 0.0
+    # Remote friendly (0–1) — explicit "worldwide" / "any country" / "global"
+    # scores 1.0, ordinary "remote" scores 0.6, nothing scores 0.
+    if WORLDWIDE_SIGNAL_RE.search(blob):
+        bd.remote_friendly = 1.0
+    elif REMOTE_SIGNALS & toks or opp.is_remote:
+        bd.remote_friendly = 0.6
+    else:
+        bd.remote_friendly = 0.0
 
     # Seniority fit (0–1)
     if SENIORITY_BAD & toks:
