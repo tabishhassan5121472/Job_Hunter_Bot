@@ -1,0 +1,79 @@
+{
+  "run_id": "2026-05-16-0900",
+  "generated_at": "2026-05-16T09:00:30.325563Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "2801256283c453153c2ff98ada4299ee",
+      "title": "[OSS] shamilahmdt/devtasks: \ud83d\udfe2 Good First Issue: Implement Inline Task Editing \u2014 Beginner Friendly",
+      "company": "shamilahmdt",
+      "url": "https://github.com/shamilahmdt/devtasks/issues/41",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 75.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "good first issue",
+        "ui",
+        "workflow",
+        "beginner friendly"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T08:51:51+00:00",
+      "description": "# \ud83d\udfe2 Good First Issue: Implement Inline Task Editing \u2014 Beginner Friendly\n\n**Time:** ~15\u201330 minutes\n**Difficulty:** Beginner / Intermediate\n**Skill Level:** First-time contributors welcome\n\n\ud83d\udfe2 No advanced setup required! This feature introduces contributors to real-world React state management and interactive UI behavior.\n\n---\n\n## \ud83c\udff7 Labels\n\n`good first issue` \u00b7 `help wanted` \u00b7 `feature` \u00b7 `react` \u00b7 `ui-improvement` \u00b7 `hacktoberfest`\n\n**Tech Stack:** React, Tailwind CSS, localStorage\n**Good For:** Beginners learning dynamic UI rendering and state updates\n\n---\n\n# \ud83d\udccc Feature Overview\n\nUsers should be",
+      "llm_fit_note": "[OK] Beginner-friendly React/Tailwind UI task, but low complexity and not a professional role. | wins: rubios_perf, a11y_wcag, ios_shipping"
+    },
+    {
+      "id": "843aad273c2d4198c44e497c1ff7fe9f",
+      "title": "[OSS] lingdojo/kana-dojo: [Good First Issue] \ud83c\udc04 Add new Video Game Quote 58 - Beginner-Friendly Open-source Contribution",
+      "company": "lingdojo",
+      "url": "https://github.com/lingdojo/kana-dojo/issues/17067",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 21.0,
+      "stack": [
+        "enhancement",
+        "help wanted",
+        "good first issue",
+        "hacktoberfest",
+        "community",
+        "low hanging fruit",
+        "up-for-grabs",
+        "first-timers-only"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T08:51:25+00:00",
+      "description": "## \ud83d\udfe2 Good First Issue: Add Video Game Quote #58 \u2014 Beginner-Friendly Open Source Contribution\n\n![Time: <1 minute](https://img.shields.io/badge/Time-<1_minute-brightgreen) ![Difficulty: Beginner](https://img.shields.io/badge/Difficulty-Beginner-blue) ![No Code Required](https://img.shields.io/badge/No_Code-Required-orange)\n\n> \ud83d\udfe2 **No prerequisites needed!** You don't need to clone the repo, install anything, or write code.\n> This entire contribution can be done from your browser in under 60 seconds.\n\n**Labels:** good first issue, help wanted, hacktoberfest  \n**Language:** JSON (no coding required",
+      "llm_fit_note": "[WEAK] The opportunity is a beginner-friendly open-source contribution that doesn't require coding, which doesn't align with Tabish's senior full-stack and iOS shipping expertise."
+    },
+    {
+      "id": "61403acff4e863ef69288cc24064613f",
+      "title": "[OSS] ramjandev/kiyanshih-frontend: payment redirect wrong URL",
+      "company": "ramjandev",
+      "url": "https://github.com/ramjandev/kiyanshih-frontend/issues/21",
+      "source": "github_issues",
+      "channel": "D",
+      "score": 6.0,
+      "stack": [
+        "bug",
+        "documentation",
+        "help wanted",
+        "good first issue"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T08:57:57+00:00",
+      "description": "https://fixlisthk.com//provider/boost/success?session_id=cs_test_a1lgqDBnkAWgeWdUPM2qlm0nP9KGxV2yH5KNLZ1JjvqkZhxx48o6WfWDsW\n\n\n@Ramjanict @rakibwebdev26",
+      "llm_fit_note": "[REJECT] Issue is a minor bug fix in an unfamiliar codebase, not a professional opportunity."
+    }
+  ]
+}
