@@ -1,0 +1,24 @@
+{
+  "run_id": "2026-05-17-1601",
+  "generated_at": "2026-05-17T16:01:51.175291Z",
+  "total": 1,
+  "opportunities": [
+    {
+      "id": "30c8a4510ceb1f502f505dea2edb268f",
+      "title": "[HIRING] Remote Software Engineering Experts , $100\u2013$300/hr , Architecture, Debugging, Scalability",
+      "company": "Mysterious-Draw-3897",
+      "url": "https://www.reddit.com/r/forhire/comments/1tfomgk/hiring_remote_software_engineering_experts/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 6.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": 300.0,
+      "currency": "USD",
+      "posted_at": "2026-05-17T12:48:34+00:00",
+      "description": "[HIRING] Remote Software Engineering Experts , $100\u2013$300/hr , Architecture, Debugging, Scalability\n\nHey everyone , I\u2019m helping source for a highly selective micro1 opportunity: Software Engineering Expert, part of the Super Star Program. This is not a normal hands-on coding role. It\u2019s built for senior/staff/principal-level engineers who are strong at debugging messy systems, making architecture decisions, evaluating tradeoffs, and communicating clearly with technical and non-technical stakeholders. Role: Software Engineering Expert Type: Contractor Location: Remote / Global Rate: $100\u2013$300/hr ",
+      "llm_fit_note": "[REJECT] Role targets staff/principal-level architects, not frontend specialists; no React/TypeScript work mentioned."
+    }
+  ]
+}
