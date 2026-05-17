@@ -1,0 +1,71 @@
+{
+  "run_id": "2026-05-17-2058",
+  "generated_at": "2026-05-17T20:58:55.786372Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "ce2ffbc0a1d059fa12234991a8607b4f",
+      "title": "Product Manager  Growth Focused",
+      "company": "Oowlish Technology",
+      "url": "https://weworkremotely.com/remote-jobs/oowlish-technology-product-manager-growth-focused",
+      "source": "weworkremotely",
+      "channel": "A",
+      "score": 9.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-17T20:30:53",
+      "description": "Headquarters:  S\u00e3o Paulo / Buenos Aires Province / Mexico City / Bogota,D.C., Capital District / Greater Fortaleza / Rio de Janeiro, Rio de Janeiro, Brazil / Florian\u00f3polis, Santa Catarina, Brazil\n \n\n     About the Role:      We are looking for a&nbsp; Growth-focused Product Manager &nbsp;to drive measurable business impact through experimentation, optimization, and data-driven decision-making. This role is centered on improving&nbsp; acquisition, activation, conversion, and retention &nbsp;across customer-facing experiences such as e-commerce, search, booking, or transactional flows.     Unlik",
+      "llm_fit_note": "[REJECT] Role is for a Product Manager, not a developer, and does not match the candidate's technical frontend/iOS engineering focus."
+    },
+    {
+      "id": "93c930ed6bec8360b9959455c18ebf39",
+      "title": "[HIRING]Looking for someone to handle Reddit engagement for your brand?",
+      "company": "DevvxDarling",
+      "url": "https://www.reddit.com/r/forhire/comments/1tfyihz/hiringlooking_for_someone_to_handle_reddit/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 5.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-17T19:02:26+00:00",
+      "description": "[HIRING]Looking for someone to handle Reddit engagement for your brand?\n\nHi everyone, I\u2019m part of a small team that helps businesses and startups grow their presence on Reddit through consistent posting and community engagement. A lot of brands want to use Reddit but don\u2019t have the time to stay active or understand how different each subreddit can be. That\u2019s where we help. What we usually do: regular content posting natural comment engagement subreddit research keeping accounts active and consistent We focus on blending into communities naturally instead of using aggressive promotion. Currentl",
+      "llm_fit_note": "[REJECT] Role is for Reddit community management, not a software development or technical position."
+    },
+    {
+      "id": "82246f5dc1d2f33dc2bfc31843e7ad91",
+      "title": "Senior Database Reliability Engineer",
+      "company": "Cloudlinux",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 4.3,
+      "stack": [
+        "redis",
+        "ansible",
+        "security",
+        "support",
+        "developer",
+        "postgresql",
+        "dba",
+        "senior",
+        "operational",
+        "reliability",
+        "health",
+        "engineer"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-16T16:00:03+00:00",
+      "description": "<p>CloudLinux / TuxCare is a remote-first infrastructure and security company. More than 300 engineers build and operate products used by hosting providers, enterprises, and internal service teams worldwide. Our Infrastructure Department runs the platforms behind CloudLinux OS, Imunify, KernelCare, TuxCare ELS, and our engineering systems.</p><p>We are hiring a Senior Database Reliability Engineer to join the Infrastructure DBA cell. This is a hands-on production ownership role, not a narrow ticket-processing DBA position. You will keep critical database services reliable, automate repeated wo",
+      "llm_fit_note": "[REJECT] Role is a senior backend infrastructure/DBA position with no frontend or React requirements, misaligned with candidate's specialization."
+    }
+  ]
+}
