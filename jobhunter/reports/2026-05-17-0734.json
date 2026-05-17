@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-05-17-0734",
+  "generated_at": "2026-05-17T07:34:59.285781Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "44f17539f5c67ba303c7a2dee0294072",
+      "title": "[Hiring]VODs Trimmer/Editor ($200/month, Remote, Long Term, Part Time)",
+      "company": "JJzLow",
+      "url": "https://www.reddit.com/r/forhire/comments/1tffyj3/hiringvods_trimmereditor_200month_remote_long/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-17T05:09:44+00:00",
+      "description": "[Hiring]VODs Trimmer/Editor ($200/month, Remote, Long Term, Part Time)\n\nLooking for someone who can trim down 11 hours of gaming footage weekly(5.5 hours VODs 2 times a week). Your job is to cut out the boring part, and keep as much volume as possible(30min-4.5 hours output video), similar to Caseoh's VODs style gameplay/walkthrough gameplay series, intro+clean cut+occasionally zooming in &amp; out+a same outro for every video, nothing fancy, that's it. You must be able to submit on time consistently and has fast turnaround. I do not read comment here, please DM and show me your previous work ",
+      "llm_fit_note": "[REJECT] Role is for video editing, completely unrelated to Tabish's frontend development expertise."
+    },
+    {
+      "id": "2b21e34205543b1c90b1d4489575d4af",
+      "title": "[Hiring] long term VA",
+      "company": "PristineAd3287",
+      "url": "https://www.reddit.com/r/forhire/comments/1tfeg38/hiring_long_term_va/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-17T03:52:54+00:00",
+      "description": "[Hiring] long term VA\n\nLooking for a long-term Virtual Assistant. The ideal candidate should be proficient in MS Excel and reside in the united states. This is a remote position with a fair pay. If you are interested, Please send resume here: Louiscorrado204@gmail . com &#32; submitted by &#32; /u/PristineAd3287 [link] &#32; [comments]",
+      "llm_fit_note": "[REJECT] Requires candidate to reside in the United States, which conflicts with candidate's location in Pakistan."
+    }
+  ]
+}
