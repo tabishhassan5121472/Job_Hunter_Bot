@@ -1,0 +1,44 @@
+{
+  "run_id": "2026-05-18-0847",
+  "generated_at": "2026-05-18T08:47:47.722918Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "3f3da609d6c340be4b4242a43d168688",
+      "title": "CTO Co-Founder (Equity-no salary)",
+      "company": "HOPn",
+      "url": "https://www.arbeitnow.com/jobs/companies/hopn/cto-co-founder-equity-no-salary-munich-280373",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 11.0,
+      "stack": [
+        "directors",
+        "chief executives"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>Tasks</h2>\n<p>HOPn UG is looking for a highly committed <strong>CTO Co-Founder</strong> to join immediately and lead the company\u2019s technology vision, product development, and technical execution.</p>\n<p>This is a <strong>remote, unpaid, equity-based co-founder role</strong> with <strong>15%\u201325% equity</strong>, depending on experience, execution ability, leadership capacity, technical strength, and long-term commitment. There is no immediate salary until HOPn secures funding, revenue, grants, or investment.</p>\n<p>The CTO Co-Founder will play a central role in shaping the future of HOPn as",
+      "llm_fit_note": "[REJECT] Unpaid co-founder role with no salary is a hard reject based on financial sustainability preferences."
+    },
+    {
+      "id": "222a69b20477e0af9976c4a84c06e8c4",
+      "title": "[Hiring] female call to partner roleplay $15hr",
+      "company": "Objective-Upstairs36",
+      "url": "https://www.reddit.com/r/forhire/comments/1tgest0/hiring_female_call_to_partner_roleplay_15hr/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-18T07:02:41+00:00",
+      "description": "[Hiring] female call to partner roleplay $15hr\n\nNeed someone to do a hotel style call to partner female Spanish or uk accent needed. Doing a roll play and needed someone to make the initial call to help. $15hr for the call &#32; submitted by &#32; /u/Objective-Upstairs36 [link] &#32; [comments]",
+      "llm_fit_note": "[REJECT] Role involves adult content and roleplay, which is outside acceptable work domains."
+    }
+  ]
+}
