@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-05-19-0830",
+  "generated_at": "2026-05-19T08:30:50.500160Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "db73422e62dc6df791220e907445b848",
+      "title": "[Hiring] VODs Trimmer/Editor ($250/month, Remote, Long Term, Part Time)",
+      "company": "JJzLow",
+      "url": "https://www.reddit.com/r/forhire/comments/1thdxdn/hiring_vods_trimmereditor_250month_remote_long/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-19T06:01:56+00:00",
+      "description": "[Hiring] VODs Trimmer/Editor ($250/month, Remote, Long Term, Part Time)\n\nLooking for someone who can trim down 22-24 hours of gaming and reaction footage weekly. 2 gaming and 2 reaction VODs per week(Tues Thurs Sat Sun), each lasting 5.5-6hours. Your job is to cut out the boring part, and keep as much volume as possible(30min-4.5hours for gaming output video/20min-2hours for reaction output video), similar to Caseoh's VODs style gameplay/walkthrough gameplay series and Joe Bart style reaction video, intro+clean cut+occasionally zooming in &amp; out+a same outro for every video, nothing fancy, ",
+      "llm_fit_note": "[REJECT] Role is video editing, not aligned with software development or React/frontend expertise."
+    },
+    {
+      "id": "5fe584b5f17e61590970ebd797d2103e",
+      "title": "[Hiring] Part-Time Reddit Commenting Work, Earn $80\u2013$100 | Flexible & Beginner Friendly",
+      "company": "AfraidBaby7747",
+      "url": "https://www.reddit.com/r/forhire/comments/1thd9jx/hiring_parttime_reddit_commenting_work_earn_80100/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-19T05:27:22+00:00",
+      "description": "[Hiring] Part-Time Reddit Commenting Work, Earn $80\u2013$100 | Flexible & Beginner Friendly\n\nWe\u2019re looking for people to help with simple Reddit engagement tasks. No previous experience is required, and the work is easy to follow. What the work involves: Posting and commenting on Reddit Following simple instructions Around 80\u2013100 comments per month Flexible schedule, work in your free time Requirements: Phone or laptop with internet access An active Reddit account Minimum 100 karma Account should be regularly used for posting and commenting Basic understanding of how Reddit works Payout: 5$-10$ pe",
+      "llm_fit_note": "[REJECT] Not a software development role; involves inauthentic online activity."
+    }
+  ]
+}
