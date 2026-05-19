@@ -1,0 +1,80 @@
+{
+  "run_id": "2026-05-19-1244",
+  "generated_at": "2026-05-19T12:44:16.810528Z",
+  "total": 4,
+  "opportunities": [
+    {
+      "id": "c27204010085b90525b8335f04b83944",
+      "title": "[Hiring] Social Media Virtual Assistants Needed for Music & Brand Projects $15-$20/hr",
+      "company": "shahrcastic1",
+      "url": "https://www.reddit.com/r/forhire/comments/1thku7j/hiring_social_media_virtual_assistants_needed_for/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": 20.0,
+      "currency": "USD",
+      "posted_at": "2026-05-19T12:03:03+00:00",
+      "description": "[Hiring] Social Media Virtual Assistants Needed for Music & Brand Projects $15-$20/hr\n\nWe are looking for reliable virtual assistants to support social media on-boarding and account management tasks for music and branding projects. Responsibilities include: Assisting with social media profile setup Updating account information and profile images Following on-boarding instructions Performing normal day-to-day account usage Supporting general account organization tasks Requirements: Familiar with major social media platforms Detail-oriented and reliable Good communication skills Stable internet ",
+      "llm_fit_note": "[REJECT] Role is for a social media virtual assistant, not a software development or engineering position."
+    },
+    {
+      "id": "a76d1578f10dff2cafaff6594567ab4f",
+      "title": "Looking for native Bulgarian male speakers for a *non-professional* recording project",
+      "company": "Milengo GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/milengo-gmbh/looking-for-native-bulgarian-male-speakers-for-a-non-professional-recording-project-berlin-327785",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "remote",
+        "marketing and communication"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>We are collaborating with one of our key clients on an exciting project to train AI bots used in call centers. The goal is to help these bots understand different intonations, speech cadences, and accents. If you\u2019re a native Bulgarian male speaker and have a PC with a microphone, this opportunity is perfect for you!</p>\n<p>This project will start in May/June (we don\u2019t know the exact timeline yet)</p>\n<h2>Tasks</h2>\n<p><strong>What You\u2019ll Do</strong>: Record approximately ~300 provided utterances (short phrases) in your native language, with each utterance saved as a separate file.</p>\n<p><s",
+      "llm_fit_note": "[REJECT] Role requires native Bulgarian male speaker, which does not match candidate's profile."
+    },
+    {
+      "id": "aaa19632351073850e27fe69bc7f7a21",
+      "title": "Senior Software Engineer, Trust & Safety",
+      "company": "Airbnb",
+      "url": "https://careers.airbnb.com/positions/7765591?gh_jid=7765591",
+      "source": "ats_greenhouse_airbnb",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-19T06:01:17-04:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Senior Software Engineer, Trust &amp;amp; Safety&lt;/",
+      "llm_fit_note": "[REJECT] Role is backend-heavy with no mention of React/TypeScript frontend work, and likely requires US work authorization."
+    },
+    {
+      "id": "47b9b77526d9382df23363a2117287a5",
+      "title": "Sales & Strategy Intern - CCO Office, DACH",
+      "company": "Parcel Perform",
+      "url": "https://www.arbeitnow.com/jobs/companies/parcel-perform/sales-strategy-intern-cco-office-dach-berlin-419552",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "marketing and communication"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Ready to kick-start your career in an AI-first B2B tech company transforming the future of e-commerce logistics and retail?</p>\n<p>Parcel Perform is looking for a motivated and detail-oriented Intern to support our Go-to-Market and Sales activities across the DACH region. Working directly with our Chief Customer Officer and Co-founder Dana von der Heide in our Berlin office, you will gain hands-on exposure on revenue growth and strategic initiatives as well as go-to-market execution in one of our key markets.</p>\n<p>If you're interested in learning how an international B2B SaaS business sca",
+      "llm_fit_note": "[REJECT] Internship role in sales & strategy with no technical or development component, outside candidate's expertise."
+    }
+  ]
+}
