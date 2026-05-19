@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-05-19-2123",
+  "generated_at": "2026-05-19T21:23:07.979435Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "18234744e698126d511d8635638f5bd4",
+      "title": "Senior Software Engineer (Frameworks), JavaScript SDK",
+      "company": "Sentry",
+      "url": "https://jobs.ashbyhq.com/Sentry/4eb18706-9bbb-4b55-a58c-0fd71a3cb080",
+      "source": "ats_ashby_sentry",
+      "channel": "A",
+      "score": 55.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-19T12:11:32.547000+00:00",
+      "description": "About Sentry   Software runs the world and the pace is faster than ever. Sentry helps developers fix errors and performance issues before users notice, so teams can spend less time firefighting and more time building.  Trusted by 100,000+ organizations, including Anthropic, Disney and OpenAI, Sentry is today\u2019s application monitoring standard and our team is building its AI-native future.     About this role   Are you ready to redefine the future of JavaScript development? Are you a seasoned JavaScript expert who gets a thrill from tackling complex challenges across the entire JavaScript ecosys",
+      "llm_fit_note": "[llm error (cerebras): Error code: 429 - {'message': \"We're experiencing high traffic right now! Please try again soon.\", 'type': 'too_many_requests_error', 'param': 'queue', 'code': 'queue_exceeded'}]"
+    },
+    {
+      "id": "df2cb9de60e3c1f329d1a3e860161086",
+      "title": "[Hiring] Senior SEO AEO Consultant (Remote)",
+      "company": "vanfashion",
+      "url": "https://www.reddit.com/r/forhire/comments/1thyan8/hiring_senior_seo_aeo_consultant_remote/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-19T19:53:40+00:00",
+      "description": "[Hiring] Senior SEO AEO Consultant (Remote)\n\n**Company Overview:** We are a Canadian-based South Asian luxury fashion and e-commerce company focused on rapidly scaling our global digital footprint. We are looking for an advanced search optimization expert to elevate our organic presence through forward-thinking strategies and technical excellence. **Job Description &amp; Responsibilities:** * Execute high-quality, organic link-building strategies (Note: We are looking for authentic outreach and digital PR experts. **DO NOT** apply if you are a dealer or broker selling guest post lists/packages",
+      "llm_fit_note": "[llm error (cerebras): Error code: 429 - {'message': \"We're experiencing high traffic right now! Please try again soon.\", 'type': 'too_many_requests_error', 'param': 'queue', 'code': 'queue_exceeded'}]"
+    }
+  ]
+}
