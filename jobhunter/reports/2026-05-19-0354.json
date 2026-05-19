@@ -1,0 +1,58 @@
+{
+  "run_id": "2026-05-19-0354",
+  "generated_at": "2026-05-19T03:54:24.300873Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "5f629f2715ca720ece73eec6d4d8160f",
+      "title": "Member of Technical Staff - Product (Growth)",
+      "company": "Modal",
+      "url": "https://jobs.ashbyhq.com/Modal/9fe70d84-1d3a-42ab-87c8-df0266628c16",
+      "source": "ats_ashby_modal",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-18T23:01:43.647000+00:00",
+      "description": "About Us:   Modal provides the infrastructure foundation for AI teams.  With instant GPU access, sub-second container startups, and native storage, Modal makes it simple to train models, run batch jobs, and serve low-latency inference. We have thousands of customers who rely on us for production AI workloads, including Lovable, Scale AI, Substack, and Suno.  We're a fast-growing team based out of NYC, SF, and Stockholm. We've hit 9-figure ARR and recently  raised a Series B  at a $1.1B valuation. Our investors include  Lux Capital ,  Redpoint Ventures ,  Amplify Partners , and  Elad Gil .  Wor",
+      "llm_fit_note": "[REJECT] Company based in NYC/SF/Stockholm with no mention of worldwide remote hiring or legal employability from Pakistan."
+    },
+    {
+      "id": "9f0eccb1786d06134d507671b034dae7",
+      "title": "[Hiring] Greece local to locate and ship product",
+      "company": "Genkeptnoo",
+      "url": "https://www.reddit.com/r/forhire/comments/1th2aiu/hiring_greece_local_to_locate_and_ship_product/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-18T21:41:54+00:00",
+      "description": "[Hiring] Greece local to locate and ship product\n\nHello, I need a local resident who can find 1 specific product to have shipped to me in Canada. You would likely need to purchase a sample to test for yourself but I will cover the costs. Let me know what you think this is worth for payment &#32; submitted by &#32; /u/Genkeptnoo [link] &#32; [comments]",
+      "llm_fit_note": "[REJECT] Not a software development role; requires local presence in Greece."
+    },
+    {
+      "id": "ebac8dc79dab31e4cc2abfc2653ef722",
+      "title": "Sales Systems Engineer, Enterprise Operations",
+      "company": "Perplexity",
+      "url": "https://jobs.ashbyhq.com/perplexity/6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc",
+      "source": "ats_ashby_perplexity",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-19T00:17:09.246000+00:00",
+      "description": "About Perplexity   Perplexity is the answer engine for the AI era. We are scaling a fast-growing enterprise business and building the operating system that runs it. Our GTM stack is modern, API-first, and Snowflake-native. We build before we buy, and we ship.     The Role   We are hiring a Sales Systems Engineer to own the technical layer underneath our enterprise sales motion. This person runs CPQ, account and lead scoring, data orchestration, and the integrations that connect Salesforce, Snowflake, and the rest of our GTM stack.  You will be the technical owner of how deals get priced, quote",
+      "llm_fit_note": "[REJECT] Role is focused on sales systems and CPQ, not frontend or React development."
+    }
+  ]
+}
