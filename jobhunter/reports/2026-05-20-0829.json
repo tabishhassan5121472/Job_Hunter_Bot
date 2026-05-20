@@ -1,0 +1,93 @@
+{
+  "run_id": "2026-05-20-0829",
+  "generated_at": "2026-05-20T08:29:31.821370Z",
+  "total": 4,
+  "opportunities": [
+    {
+      "id": "1e39237b6da185e57a905eb6f8d5163d",
+      "title": "iOS Engineer - Mobile Platform",
+      "company": "SumUp",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/ios-engineer-mobile-platform-cologne-162636",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Join SumUp's <strong>Mobile Platform Squad</strong> as an <strong>iOS Engineer </strong>and become part of the foundation that powers our iOS app. With significant investment in our mobile products, we are empowering feature teams to deliver world-class experiences. You will contribute to building the robust infrastructure that enables iOS engineers across the company to operate with productivity and efficiency, directly shaping the future of mobile payments for millions of merchants.</p>\n<p>Our engineering culture champions autonomy, collaboration, and innovation. Your work will have a mea",
+      "llm_fit_note": "\u26a1 URGENT \u2014 [STRONG] Strong alignment with iOS expertise and infrastructure focus, plus remote-friendly startup-like environment. | wins: ios_shipping, fastlane_cicd, multi_app_monorepo"
+    },
+    {
+      "id": "23e0f3218b974dcf63db238183806ab7",
+      "title": "[Hiring] Freelance SEO & Digital Marketing Specialist for Online Gaming Website (4\u20135+ Years Experience)",
+      "company": "jamesalan1985",
+      "url": "https://www.reddit.com/r/forhire/comments/1tid6i0/hiring_freelance_seo_digital_marketing_specialist/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-20T06:25:23+00:00",
+      "description": "[Hiring] Freelance SEO & Digital Marketing Specialist for Online Gaming Website (4\u20135+ Years Experience)\n\nWe are looking for an experienced and proactive SEO &amp; Digital Marketing Specialist from India to work long-term on our established online gaming website. Our website publishes thousands of browser-based games, including popular titles such as FNF Mods, Pok\u00e9mon Games, Mario Games, Roblox Games, and many other trending categories. Responsibilities SEO &amp; Link Building Perform competitor backlink research using tools such as Ahrefs, SEMrush, or similar. Build high-quality backlinks thro",
+      "llm_fit_note": "[REJECT] Out of scope \u2014 role requires SEO/digital marketing, not frontend or full-stack development."
+    },
+    {
+      "id": "511e439534b0de0a59c9f9420ca18cc3",
+      "title": "",
+      "company": "Noventra Group Europe",
+      "url": "https://remotive.com/remote-jobs/marketing/paid-media-specialist-2090885",
+      "source": "remotive",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "ecommerce",
+        "research",
+        "advertising",
+        "retail",
+        "a/b testing",
+        "lead generation",
+        "google ads",
+        "testing",
+        "paid media"
+      ],
+      "is_remote": true,
+      "seniority": "freelance",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-18T09:03:26",
+      "description": "<p>Noventra Group Europe works with selected brands, suppliers, and retail partners across the European market, with a focus on product sourcing, procurement support, and commercial retail collaboration.</p>\n<p>\u00a0</p>\n<p>As our partner brands continue to expand their presence across European retail channels, we are looking for a Remote Paid Media Specialist to support campaign coordination, audience research, paid advertising, and market development activities across Meta Ads and Google Ads.</p>\n<p>\u00a0</p>\n<p>In this role, you will help promote selected brand and product initiatives, support camp",
+      "llm_fit_note": "[REJECT] Role is a paid media/marketing position, not aligned with candidate's frontend development expertise."
+    },
+    {
+      "id": "1d57e5e1ee19f0a4e260a5ab8bf7ed89",
+      "title": "Member of Technical Staff Applied ML RecSys",
+      "company": "Liquid AI",
+      "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "design",
+        "system",
+        "python",
+        "training",
+        "technical",
+        "financial",
+        "digital nomad"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-19T08:00:08+00:00",
+      "description": "<h2><strong>About Liquid AI</strong></h2><p style=\"min-height:1.5em\">Spun out of MIT CSAIL, we build general-purpose AI systems that run efficiently across deployment targets, from data center accelerators to on-device hardware, ensuring low latency, minimal memory usage, privacy, and reliability. We partner with enterprises across consumer electronics, automotive, life sciences, and financial services. We are scaling rapidly and need exceptional people to help us get there.</p><p style=\"min-height:1.5em\"></p><h2><strong>The Opportunity</strong></h2><p style=\"min-height:1.5em\">This is a rare c",
+      "llm_fit_note": "[REJECT] Role is focused on applied ML and recommendation systems, which does not align with candidate's frontend/React specialization or full-stack experience."
+    }
+  ]
+}
