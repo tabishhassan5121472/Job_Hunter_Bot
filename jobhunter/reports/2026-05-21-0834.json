@@ -1,0 +1,26 @@
+{
+  "run_id": "2026-05-21-0834",
+  "generated_at": "2026-05-21T08:34:51.898021Z",
+  "total": 1,
+  "opportunities": [
+    {
+      "id": "65ece0dbb17ef67a863351fc0da44c62",
+      "title": "Junior Test Engineer (m/f/d)",
+      "company": "Novanta Europe GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/novanta-europe-gmbh/junior-test-engineer-berlin-198105",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>This position is part of Novanta\u2019s Advanced Surgery business unit group. Novanta offers highly reliable, precise and safe solutions that enhance system performance and improve patient outcomes. Insufflators, pumps and disposable tube sets, along with medical visualization and operating room integration technologies are the preferred solution for minimally invasive surgery applications.</p>\n<h2>Aufgaben</h2>\n<p><strong>Summary:</strong></p>\n<p>The Test Engineer is responsible for conducting design verification activities for medical devices and related accessories in line with company proced",
+      "llm_fit_note": "[REJECT] Role is a junior test engineering position in medical devices, not aligned with React/frontend development focus."
+    }
+  ]
+}
