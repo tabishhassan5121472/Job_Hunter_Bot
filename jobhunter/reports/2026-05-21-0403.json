@@ -1,0 +1,83 @@
+{
+  "run_id": "2026-05-21-0403",
+  "generated_at": "2026-05-21T04:03:51.727698Z",
+  "total": 4,
+  "opportunities": [
+    {
+      "id": "5f5dc52c1ca262556ebeb8a7e451abdf",
+      "title": "Senior Product Designer, Ads",
+      "company": "Discord",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8558992002",
+      "source": "ats_greenhouse_discord",
+      "channel": "A",
+      "score": 1.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-20T19:26:33-04:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Discord is used by over 200 million people every month for many different reasons, but there\u2019s one thing that nearly everyone does on our platform:&lt;strong&gt; play video games.&lt;/strong&gt; Over 90% of our users play games, spending a combined 1.5 billion hours playing thousands of unique titles on Discord each month. Discord plays a uniquely important role in the future of gaming. We are focused on making it easier and more fun for people to talk and hang out before, during, and after playing games.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Our mis",
+      "llm_fit_note": "[REJECT] Role is for a Senior Product Designer, not a developer position."
+    },
+    {
+      "id": "db986daa9b103699f247366fb95b081a",
+      "title": "[Hiring] (US) 1 Beta tester $100",
+      "company": "RichSteps",
+      "url": "https://www.reddit.com/r/forhire/comments/1tj7ukg/hiring_us_1_beta_tester_100/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-21T03:05:27+00:00",
+      "description": "[Hiring] (US) 1 Beta tester $100\n\nI\u2019m looking for someone based in the U.S. to test my web app. I\u2019ll provide a link that includes all the tasks that need to be completed. I expect the tester to provide unbiased feedback on their experience. There will be additional work available in the future. I\u2019m looking to work with one person only, and they must be located in the U.S. $100 is the max budget for this task. DM Me if interested &#32; submitted by &#32; /u/RichSteps [link] &#32; [comments]",
+      "llm_fit_note": "[REJECT] Role requires US location, which is incompatible with candidate's location in Pakistan."
+    },
+    {
+      "id": "8cc47a8ee2bdb5da1145d3221b6333db",
+      "title": "[HIRING] Motion Designer + Editor for 15\u201330s Website Promo (Music-Synced)",
+      "company": "Away-Signature1626",
+      "url": "https://www.reddit.com/r/forhire/comments/1tj0sd5/hiring_motion_designer_editor_for_1530s_website/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-20T22:09:49+00:00",
+      "description": "[HIRING] Motion Designer + Editor for 15\u201330s Website Promo (Music-Synced)\n\nLooking for someone to create a clean, modern promo piece for my website: omebate.com Scope: \u2022 Motion graphics + clean editing \u2022 Sync cuts/transitions to a music track I\u2019ll provide \u2022 Premium / polished feel (not overdesigned) \u2022 Short website promo / montage format Budget: ~$100\u2013$250 USD as an initial ballpark, but I\u2019m very open to quotes. I haven\u2019t commissioned this type of work before and can adjust based on quality, scope, and experience. Please DM: \u2022 Portfolio \u2022 Relevant examples \u2022 Estimated turnaround \u2022 Rate / quote",
+      "llm_fit_note": "[REJECT] Role is for a motion designer/editor, not aligned with Tabish's frontend development expertise."
+    },
+    {
+      "id": "703698478cdc5a0617ec612c7770202f",
+      "title": "Senior Fraud Risk Analyst",
+      "company": "Braviant Holdings",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-fraud-risk-analyst-braviant-holdings-1131632",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "analyst",
+        "financial",
+        "strategy",
+        "senior",
+        "operations",
+        "healthcare",
+        "engineering"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-20T00:00:12+00:00",
+      "description": "<p>At Braviant, we believe in hiring great talent and offering them the flexibility to achieve great results unbounded by geography. Braviant is offering a fully remote option for anyone in the U.S. who wants to join our team and help us grow. <span style=\"font-size: 16px;\">W</span>e also have an office space in the heart of downtown Chicago for those who prefer to get out of the house and collaborate with some colleagues in person.</p><p><br></p><p><b style=\"font-size: 18px;\">Who we are:</b></p><p>Braviant is a leading provider of tech-enabled credit products that combines breakthrough techno",
+      "llm_fit_note": "[REJECT] Role is a senior fraud risk analyst position focused on financial strategy and operations, not a frontend or full-stack development role."
+    }
+  ]
+}
