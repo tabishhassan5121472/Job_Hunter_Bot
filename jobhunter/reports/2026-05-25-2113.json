@@ -1,0 +1,30 @@
+{
+  "run_id": "2026-05-25-2113",
+  "generated_at": "2026-05-25T21:13:12.737212Z",
+  "total": 1,
+  "opportunities": [
+    {
+      "id": "e9f7ac5773883c9b0b428c2856117988",
+      "title": "Chief Operating Officer",
+      "company": "Programa Nacional para la Reducci\u00c3\u00b3n de P\u00c3\u00a9rdidas",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-programa-nacional-para-la-reduccion-de-perdidas-1132182",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "exec",
+        "operations",
+        "full time",
+        "telecommuting",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-24T19:02:21+00:00",
+      "description": "Role Description This is a full-time, remote position for a Chief Operating Officer (COO). The COO\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **PRESTIGIOUS** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[REJECT] Executive operations role with no technical or development responsibilities."
+    }
+  ]
+}
