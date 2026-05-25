@@ -1,0 +1,72 @@
+{
+  "run_id": "2026-05-25-0408",
+  "generated_at": "2026-05-25T04:08:32.349497Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "6bf50bbe6bb34a726ee7a6ed79735684",
+      "title": "[Hiring] Need people to work managing social media accounts in instagram and tiktok, 150$ or more, weekly",
+      "company": "Proof_Author3545",
+      "url": "https://www.reddit.com/r/forhire/comments/1tmun7h/hiring_need_people_to_work_managing_social_media/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 0.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-25T01:37:36+00:00",
+      "description": "[Hiring] Need people to work managing social media accounts in instagram and tiktok, 150$ or more, weekly\n\nWe're are looking for people based in the Europe, America (including colombia, mexico and brasil) and Canada , to work as social media account managers for Tokportal We dont need specific skills or previous experience as we provide all the training material, which is spread across all the tasks and you can start to work immediately This is a remote role, working with clients operating across these markets. Payment: -Your work gets paid weekly. -Average payment ranges from 150$ a week upwa",
+      "llm_fit_note": "[REJECT] Role is for social media management, not aligned with candidate's software development expertise."
+    },
+    {
+      "id": "47ccd08c13d29e33b2d3a312ca636e8b",
+      "title": "Administrative Assistant",
+      "company": "Somewhere",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-somewhere-1132123",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "admin",
+        "administrator",
+        "assistant",
+        "full time",
+        "work from home",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-24T00:06:37+00:00",
+      "description": "Role DescriptionThis is a full-time remote role for an Administrative Assistant at a growing\u00e2\u0080\u00a6<br/><br/>Please mention the word **COMELY** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[REJECT] Non-technical role with no alignment to React, frontend, or software development skills."
+    },
+    {
+      "id": "c6c7fd7428b9b7c8fc356176863e1c7d",
+      "title": "Assistente de Sucesso do Cliente CLT Remoto",
+      "company": "Nibo",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-sucesso-do-cliente-clt-remoto-nibo-1132120",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "assistant",
+        "customer support",
+        "support",
+        "work from home",
+        "non tech",
+        "full time"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-24T00:02:36+00:00",
+      "description": "Anunciada 00:00:00. Sobre a vagaEstamos em busca de um(a) Assistente de Sucesso do Cliente para integrar nosso time e\u00e2\u0080\u00a6 - veja esta vaga e outras semelhantes no LinkedIn.<br/><br/>Please mention the word **WARMER** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[REJECT] Non-technical customer support role, not aligned with React/frontend development expertise."
+    }
+  ]
+}
