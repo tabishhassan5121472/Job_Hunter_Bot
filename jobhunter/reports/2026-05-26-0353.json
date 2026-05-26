@@ -1,0 +1,46 @@
+{
+  "run_id": "2026-05-26-0353",
+  "generated_at": "2026-05-26T03:53:17.745106Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "c1d31a4ccabdac7a32665bcb11c16f99",
+      "title": "Customer Support Specialist",
+      "company": "Crossing Hurdles",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-crossing-hurdles-1132199",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "customer support",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-25T02:03:44+00:00",
+      "description": "Posted 8:04:18 AM. Position: Customer Support SpecialistType: ContractCompensation: $20 - $70/hourLocation:\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **REVOLUTIONARY** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[REJECT] Role is non-technical customer support, not aligned with React/frontend development expertise."
+    },
+    {
+      "id": "58d2586a2cb03a87b1b91f305a84a308",
+      "title": "Marketing-Lead (m/w/d) \u2013 B2B Marketing & Positionierung",
+      "company": "DENPAFLUX",
+      "url": "https://www.arbeitnow.com/jobs/companies/denpaflux/marketing-lead-b2b-marketing-positionierung-munich-109388",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 0.0,
+      "stack": [
+        "marketing manager"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Marketing Lead (B2B / Technical Services)</p>\n<h2>About DENPAFLUX</h2>\n<p>DENPAFLUX is building the future of technical consulting and engineering-driven solutions for high-performance industries. We work with complex technologies and demanding applications \u2014 and we are now looking for a Marketing Lead who can transform technical excellence into a compelling market presence.</p>\n<p>This is a high-impact role with strategic ownership, direct influence on positioning, and the opportunity to shape how DENPAFLUX is perceived in the market.</p>\n<p>Your Mission</p>\n<p>As Marketing Lead, you will ",
+      "llm_fit_note": "[REJECT] Role is for a marketing lead, not a software development or technical position."
+    }
+  ]
+}
