@@ -1,0 +1,79 @@
+{
+  "run_id": "2026-05-30-0742",
+  "generated_at": "2026-05-30T07:42:58.484528Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "f16c29c39f46d737142c3a7fd7d9f5e2",
+      "title": "Handyperson",
+      "company": "Oaks Hotels, Resorts &amp; Suites",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyperson-oaks-hotels-resorts-amp-suites-1132550",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 29.3,
+      "stack": [
+        "ops",
+        "customer support",
+        "marketing",
+        "finance",
+        "exec",
+        "golang",
+        "medical",
+        "full time"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-29T06:01:47+00:00",
+      "description": "<p>Minor Hotels is one of Australasia\u00e2\u0080\u0099s largest accommodation providers, managing over 70 properties in the region and a global portfolio of 560 properties across more than 58 countries. Our brands, Anantara, Avani, Oaks, NH Hotels, NH Collection, nhow, and Tivoli, span six continents, including Asia Pacific, the Middle East, Africa, the Indian Ocean, Europe, and South America. Joining Minor means partnering with a diverse, expanding global organisation offering boundless opportunities to thrive and succeed.<br><br></p><p>Our people are the heart of our success, and we are committed to inves",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "31379d0ac1a38b44fae35288841d491e",
+      "title": "Entry Level Administrative Assistant",
+      "company": "RecruitLyticsHire",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlyticshire-1132525",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-29T05:55:42+00:00",
+      "description": "<p>We are seeking an <strong>Entry-Level Administrative Assistant</strong> to support our remote operations by handling essential administrative tasks and maintaining organized systems. This role is ideal for individuals who are detail-oriented, reliable, and enjoy working with structured processes in a digital environment.</p> <p>In this position, you will assist with data management, task coordination, and general administrative support to ensure daily operations run smoothly. Your ability to stay organized, follow instructions, and manage routine tasks accurately will contribute to overall ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f1c3f374f53f3ffa3ec9e635f0de5479",
+      "title": "Analista Junior de Recursos Humanos Trabalho Remoto",
+      "company": "BairesDev",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-junior-de-recursos-humanos-trabalho-remoto-bairesdev-1132497",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "junior"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-29T04:14:22+00:00",
+      "description": "Anunciada 19:55:13. H\u00c3\u00a1 mais de 15 anos, a BairesDev\u00c2\u00ae \u00c3\u00a9 l\u00c3\u00adder em projetos tecnol\u00c3\u00b3gicos. Entregamos solu\u00c3\u00a7\u00c3\u00b5es inovadoras\u00e2\u0080\u00a6 - veja esta vaga e outras semelhantes no LinkedIn.<br/><br/>Please mention the word **BLESS** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
