@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-06-01-2235",
+  "generated_at": "2026-06-01T22:35:04.065900Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "8ad2cf8cf8be024284e5ccee9af5c67f",
+      "title": "HN Freelancer Thread: SEEKING WORK | Worldwide | REMOTE Based in: Latam Interested in: Part Time&#x2F;Contract Time Zone: ",
+      "company": "devKnight",
+      "url": "https://news.ycombinator.com/item?id=48363459",
+      "source": "hn_freelancer",
+      "channel": "C",
+      "score": 68.5,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-01T22:27:41+00:00",
+      "description": "SEEKING WORK | Worldwide | REMOTE\nBased in: Latam Interested in: Part Time&#x2F;Contract\nTime Zone: US time zones Technologies: React, Next, Remix, Vue, Typescript, Express&#x2F;Node, Mongo, Mysql, AWS(Serverless), Laravel&#x2F;PHP, Jest, Cypress, playwright, Ruby on Rails Email: me+hn @ segoviacristian dot com Have 6+ years of experience working at US based startups and small companies. Looking for full stack roles, though open to frontend or backend roles as well. Speak English at an advanced level.\nLooking for part time&#x2F;contract roles",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a74a9c62a1cb7a6068859066a42d6c41",
+      "title": "[Hiring] Integration Developer - Remote (US)",
+      "company": "NYC_Blasian",
+      "url": "https://www.reddit.com/r/forhire/comments/1tu56tt/hiring_integration_developer_remote_us/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 45.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-01T20:44:16+00:00",
+      "description": "[Hiring] Integration Developer - Remote (US)\n\nHey folks, Above and Beyond Talent is seeking a Senior Integration Developer with expertise in REST API development, Azure DevOps Services APIs, and enterprise system integrations. The ideal candidate will have strong experience with Node.js, Python, JavaScript, Azure cloud services, webhooks, data mapping, and bi-directional integrations between business applications. Good fit if you have the following requirements: Experience designing, developing, and maintaining RESTful APIs Experience building system integrations between applications and platf",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
