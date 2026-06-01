@@ -1,0 +1,110 @@
+{
+  "run_id": "2026-06-01-1023",
+  "generated_at": "2026-06-01T10:23:13.043752Z",
+  "total": 5,
+  "opportunities": [
+    {
+      "id": "b6ea158df19b6a38a2f1131079d32624",
+      "title": "[Hiring] Async video interview on leadership experience \u2014 $30/30min",
+      "company": "I_SIMP_YOUR_MOM",
+      "url": "https://www.reddit.com/r/forhire/comments/1ttm0iy/hiring_async_video_interview_on_leadership/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 32.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-01T08:34:54+00:00",
+      "description": "[Hiring] Async video interview on leadership experience \u2014 $30/30min\n\nHi! I'm a master's student working on an assignment for a Leadership &amp; Innovation course. I need to interview someone who leads or manages people at work \u2014 any scale counts. You qualify if you are: - A small business owner - A manager or team lead - An entrepreneur or founder - Anyone in a role that involves managing a team How it works: I send you the interview questions, you record a short video answering them at your own pace. No scheduling, no live call. $30, estimated effort is less than 30 mins. The rate then would ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "2c250d346889963c1aba3db4fbf1f794",
+      "title": "Product Manager - Platform",
+      "company": "Supabase",
+      "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c",
+      "source": "ats_ashby_supabase",
+      "channel": "A",
+      "score": 25.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-01T09:46:41.367000+00:00",
+      "description": "Supabase is the open-source Postgres development platform that 7M+ developers and thousands of enterprises depend on every day. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.     About the role   We\u2019re hiring a Platform PM to own the platform primitives every Supabase product runs on, including internal features like  compute ,  disks , networking, and the API gateway, and external features like  read replicas ,  custom domains ,  PrivateLink , and Bring Your Own ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "55cb68081e2770f0a3ba0617fc41053d",
+      "title": "Social Media Moderator",
+      "company": "RemoteVA",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132633",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "exec",
+        "design",
+        "technical",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "digital nomad",
+        "music",
+        "education",
+        "customer support",
+        "video"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-05-31T09:07:15+00:00",
+      "description": "Napost noong 4:10:08 PM. Job Title: Social Media ModeratorJob OverviewWe are seeking a detail-oriented and proactive Online\u00e2\u0080\u00a6Makita ito at kahalintulad na mga trabaho sa LinkedIn.<br/><br/>Please mention the word **GREATEST** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "55a353d8a14d879c2f18ba882e8ca22f",
+      "title": "Data Engineer/ Architect Consultant",
+      "company": "Market Cloud",
+      "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/data-engineer-architect-consultant-eschborn-162724",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 16.0,
+      "stack": [
+        "data processing",
+        "data engineer"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Must have skills: Data Engineering/Architect with Snowflake, AWS, dbt, Python and SQL, Data Mesh.<br>\nSeeking a highly experienced Tech Lead / Senior Architect \u2013 Data Engineering to drive the design and implementation of enterprise-grade data platforms for a global engagement. This role will focus on building scalable, secure, and compliant data solutions to support advanced analytics, clinical insights, and business intelligence.</p>\n<h2>Tasks</h2>\n<p>Key Responsibilities</p>\n<p>Lead the end-to-end architecture, design, and implementation of scalable data platforms using Snowflake.</p>\n<p>",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "340a316565e94037363b61d2f5c067cc",
+      "title": "Developer of Electric Drives in the Applications & Products - Aerospace division (m/f/d)",
+      "company": "K-tronik GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/developer-of-electric-drives-in-the-applications-products-aerospace-division-lindenberg-388062",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 11.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>Project description:</h2>\n<p>To support our team at a renowned customer in the aerospace sector, we are looking for a Developer of electric drives in the Applications &#x26; Products - Aerospace division (m/f/d) in a permanent position at K-tronik as soon as possible. Does that sound interesting? Then we look forward to receiving your application!</p>\n<h2>Tasks:</h2>\n<ul>\n<li>Collaboration on pre-development and development projects in the field of electric drive systems - Planning and coordination of development tasks in close coordination with the project team - Carrying out requirements",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
