@@ -1,0 +1,212 @@
+{
+  "run_id": "2026-06-04-1246",
+  "generated_at": "2026-06-04T12:46:29.761333Z",
+  "total": 11,
+  "opportunities": [
+    {
+      "id": "81a9531ef199a34c8fc9276f63faec2f",
+      "title": "Mandatory Internship(Unpaid): Backend / Full-Stack Developer for AI SaaS",
+      "company": "IndieKidz GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/mandatory-internshipunpaid-backend-full-stack-developer-for-ai-saas-berlin-152480",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 52.5,
+      "stack": [
+        "remote",
+        "software development"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>IndieKidz GmbH is a Berlin-based early stage startup building creative learning products for children.</p>\n<p>Our software product, <strong>Occibo</strong>, is an AI-assisted children\u2019s book creation platform. It helps authors, parents, teachers, and small publishers turn a manuscript into a complete children\u2019s book workflow, including editing, illustration planning, character consistency, layout, export, and promotional assets.</p>\n<p>We are looking for a motivated <strong>Backend / Full-Stack Developer Intern</strong> to support the development of Occibo mainly open to work in early stage",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6dd921a8a4f6f59bc9f755b90af6bd43",
+      "title": "Frontend Developer (m/f/d)",
+      "company": "Rahantech GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rahantech-gmbh/frontend-developer-hamburg-124986",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "web development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>Tasks</h2>\n<ul>\n<li>Design and build mobile-first, responsive web pages using HTML, CSS and modern JavaScript frameworks like React, Angular and Vue.js.</li>\n<li>Ensure web pages are accessible, optimized and perform seamlessly on various devices and browsers.</li>\n<li>Integrate with APIs and backend services to enable dynamic and interactive user experiences.</li>\n<li>Work with backend and product teams to deliver end-to-end solutions.</li>\n<li>Write and maintain tests (unit test, integration test) and debug to resolve cross-browser and performance issues.</li>\n</ul>\n<h2>Requirements</h2>",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e8cf653d409dafdfaf0fa639d981c87b",
+      "title": "[HIRING] Activepieces / Automation Developer - Full-Time, Remote, AI Agent Startup",
+      "company": "One-Ice7086",
+      "url": "https://www.reddit.com/r/forhire/comments/1twmj7r/hiring_activepieces_automation_developer_fulltime/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 35.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-04T12:42:24+00:00",
+      "description": "[HIRING] Activepieces / Automation Developer - Full-Time, Remote, AI Agent Startup\n\nWe\u2019re Gravity - an AI agent marketplace where users describe a task and an agent executes it in 60 seconds. Think of us as the App Store for AI agents, built for people who want results without setup. You\u2019re a fit if you: \u2022 Have hands-on experience with Activepieces (this is a hard requirement \u2014 not just awareness of it) \u2022 Have built flows that run in production, not just demos \u2022 Know how to handle edge cases, failures, and API changes without things silently breaking \u2022 Are comfortable with AI tools, webhooks, ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e37561f2c6bd67ecdc13fdde23a46c3a",
+      "title": "Senior Retail Performance Marketing Manager",
+      "company": "PIPA GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/pipa-gmbh/senior-retail-performance-marketing-manager-hamburg-216099",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "marketing and communication"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Our client, Front Row, helps leading brands accelerate their ecommerce growth through digital advertising, retail media expertise, and proprietary technology.</p>\n<p>To strengthen their Performance Marketing Team, we are looking for a <strong>Senior Performance Marketing Manager \u2013 Retail Media / Omnichannel (f/m/d)</strong> in Hamburg.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Develop and execute retail media and omnichannel performance marketing strategies</li>\n<li>Manage and optimize campaigns across retail media networks and platforms (e.g. Amazon, OTTO, eBay, Walmart, Criteo, CitrusAd)</li>\n<li>Analy",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6626546ba6de3e59bb474e8e0c944223",
+      "title": "Senior Amazon Performance Marketing Manager",
+      "company": "PIPA GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/pipa-gmbh/senior-amazon-performance-marketing-manager-hamburg-464586",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing and communication"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Our client, Front Row, is a leading ecommerce growth partner helping ambitious brands scale their business across global marketplaces and digital channels. By combining strategic consulting, digital advertising expertise, retail know-how, and proprietary technology, Front Row supports brands in accelerating sustainable ecommerce growth worldwide.</p>\n<p>To strengthen their Advertising Team, we are currently looking for a <strong>Senior Performance Marketing Manager \u2013 Sponsored Ads, Amazon SEA (f/m/d)</strong> for their Hamburg office.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Manage and optimize Amazon S",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6a5d4edd3418bf7147ad16284b6288af",
+      "title": "Molecular Biology Scientist",
+      "company": "STEM Sync AI",
+      "url": "https://remoteOK.com/remote-jobs/remote-molecular-biology-scientist-stem-sync-ai-1132760",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 29.3,
+      "stack": [
+        "biotech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-03T09:05:07+00:00",
+      "description": "Biology PhD Expert Remote | Hourly Contract | $80-$150/hour\nQuick SnapshotReview scientific\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **PLUSH** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "eeacc648211f96bdc91b0f11c700998c",
+      "title": "Software Developer (m/f/d)",
+      "company": "Rahantech GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/rahantech-gmbh/software-developer-berlin-89047",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [
+        "software development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>Tasks</h2>\n<ul>\n<li>Develop and maintain high-quality software solutions using modern technologies.</li>\n<li>Work on innovative and large-scale projects that impact businesses globally.</li>\n<li>Collaborate with cross-functional teams to design, build and deploy software applications.</li>\n<li>Use programming languages such as Python, Java, C#, JavaScript, PHP or any other language to create scalable and high-performance applications.</li>\n<li>Ensure code quality, security and efficiency through best practices.</li>\n<li>Participate in Agile/Scrum methodologies to deliver projects efficient",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "4703c28ea9a972ed520743d87d949cbb",
+      "title": "[Hiring] US Finance & Accounting Professionals \u2013 Quick Paid Study ($40)",
+      "company": "itzTakeshiOP",
+      "url": "https://www.reddit.com/r/forhire/comments/1twkii8/hiring_us_finance_accounting_professionals_quick/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 26.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-04T11:11:39+00:00",
+      "description": "[Hiring] US Finance & Accounting Professionals \u2013 Quick Paid Study ($40)\n\nLooking for people in the US who work in finance or accounting. Requirements: \u2022 18+ and located in the United States \u2022 Fluent in English \u2022 Currently working full-time or freelance in Financial Services \u2022 Individual Contributor, Manager, or Director level \u2022 4+ years of professional experience \u2022 Eligible for contract work in the US (no H1-B or STEM OPT) \u2022 Access to a desktop/laptop computer The study involves answering questions and completing a simple desktop task. Takes around 20 minutes. Compensation: $40 If you qualify ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "cfa812cdc4cf4cf83668e220c21c2567",
+      "title": "[Hiring] Polymer Clay Artist shipping to Ireland",
+      "company": "MagicShadow95",
+      "url": "https://www.reddit.com/r/forhire/comments/1twlero/hiring_polymer_clay_artist_shipping_to_ireland/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 25.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-04T11:54:20+00:00",
+      "description": "[Hiring] Polymer Clay Artist shipping to Ireland\n\nI'm looking to commission a skilled polymer clay sculptor. To sculpt a custom non-chibi anime-looking female villain character, cca. 20 cm (8 inches). My budget is around 400$, it can be a bit more than that. Payment via PayPal Goods &amp; Services Please provide a link to your portfolio with your clay sculptures. I will reach out privately to artists whose work matches what I'm looking for. Thank you ^^ &#32; submitted by &#32; /u/MagicShadow95 [link] &#32; [comments]",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "0c51f493b47e76c00cb02dda71de7d84",
+      "title": "Junior Illustrator",
+      "company": "Twine",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-illustrator-twine-1132762",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "junior",
+        "illustrator"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-03T11:01:57+00:00",
+      "description": "This project involves creating a cohesive set of isometric illustrations based on photographs of\u00e2\u0080\u00a6<br/><br/>Please mention the word **FEASIBLE** and tag ROjox when applying to show you read the job post completely (#ROjox). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c3113b2ef5962c56c246be4dd6d7438a",
+      "title": "Working student - Operations & Customer Support",
+      "company": "premote",
+      "url": "https://www.arbeitnow.com/jobs/companies/premote/working-student-operations-customer-support-berlin-99259",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 20.0,
+      "stack": [
+        "customer service"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p><strong>About premote</strong></p>\n<p>At <strong>premote</strong>, we enable companies to let their employees work from abroad <strong>without compliance risks</strong>.</p>\n<p>We automate complex compliance processes for <strong>international business travel, workations, and assignments</strong>\u2014covering areas like social security, tax, and labor law.</p>\n<p><strong>Your Impact</strong></p>\n<p>Your work will focus on structured onboarding, handling customer requests, and maintaining clear communication with clients. You\u2019ll ensure that our platform is set up correctly for each customer and ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
