@@ -1,0 +1,101 @@
+{
+  "run_id": "2026-06-10-0851",
+  "generated_at": "2026-06-10T08:51:24.898002Z",
+  "total": 4,
+  "opportunities": [
+    {
+      "id": "d7aad3febd1bfd4367330be8cee93242",
+      "title": "Supply Chain Specialist",
+      "company": "Distoria Technologies INC",
+      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-specialist-distoria-technologies-inc-1133127",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 34.3,
+      "stack": [
+        "customer support",
+        "dev",
+        "exec",
+        "ops",
+        "digital nomad"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-08T20:54:27+00:00",
+      "description": "<p><strong>About Distoria Technologies Inc.</strong></p><p> Distoria Technologies Inc. is a Canada-based digital product company building scalable, trust-driven platforms across commerce and community. Its growing portfolio includes <strong>Wardrobe</strong>, a trust-first fashion marketplace, and <strong>Distoria</strong>, a community-driven platform designed to foster meaningful engagement.</p><p>With a strong focus on product quality, secure infrastructure, and long-term scalability, Distoria Technologies develops globally minded digital products that connect users through trusted and innov",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "344ab2bc9385165753818bc567efb2f9",
+      "title": "Web Designer",
+      "company": "Regex SEO",
+      "url": "https://remoteOK.com/remote-jobs/remote-web-designer-regex-seo-1133051",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 30.3,
+      "stack": [
+        "web dev",
+        "designer",
+        "seo"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-09T05:08:23+00:00",
+      "description": "Posted 3:03:06 PM. Join our 100% remote team and enjoy the freedom and flexibility to work from anywhere! With 64 days\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **FINELY** and tag RMjYwMDoxOTAwOjA6MmQwYjo6MzYwMA== when applying to show you read the job post completely (#RMjYwMDoxOTAwOjA6MmQwYjo6MzYwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "bed5ff4d13dde2d413b83e5bb642621e",
+      "title": "Customer Service Associate Representative Cigna Healthcare",
+      "company": "Cigna Healthcare",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-associate-representative-cigna-healthcare-cigna-healthcare-1133131",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "payroll",
+        "hr",
+        "sys admin",
+        "education",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "exec",
+        "ops",
+        "excel",
+        "full time",
+        "technical"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-09T00:00:00+00:00",
+      "description": "The Customer Service Associate Representative provides support to participants, clients, and providers by answering inquiries related to group health benefits and claims payments. The role also includes researching claims, documenting interactions, and assisting team members as needed.<br><br><strong>Essential Job Functions<br><br></strong><ul><li>Answer telephone calls from plan participants, group contacts, and providers regarding benefits and claims.</li><li>Provide clear, accurate, and timely responses to information requests.</li><li>Document all calls in Chronolog by summarizing key poin",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5b84927cc4bcc41a309da20cf025fd0b",
+      "title": "Group Head of Information Systems & Business Applications (gn)",
+      "company": "Bikeleasing-Service GmbH & Co. KG",
+      "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/group-head-of-information-systems-business-applications-gn-berlin-22363",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 16.0,
+      "stack": [
+        "remote",
+        "software development"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>Your mission</h2>\n<p>The Bikeleasing Group is one of Germany's leading employer benefit and mobility solutions groups \u2013 comprising 5 specialized companies covering multi-benefit, leasing, insurance, and refurbished bike retail. Our IT is the backbone that everything else is built on. As <strong>Group Head of Information Systems &#x26; Business Applications (gn)</strong>, you'll take on a central leadership role: leading our existing Information Systems team, actively shaping the build-up of the new Business Applications area, and ensuring our cloud-based IT infrastructure stays secure, eff",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
