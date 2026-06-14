@@ -1,0 +1,46 @@
+{
+  "run_id": "2026-06-14-1200",
+  "generated_at": "2026-06-14T12:00:02.525701Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "65ab6a006f81858c05deafeeda237ecf",
+      "title": "",
+      "company": "Lemon.io",
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2090983",
+      "source": "remotive",
+      "channel": "A",
+      "score": 34.6,
+      "stack": [
+        "ai/ml",
+        "startup",
+        "marketplace",
+        "fundraising"
+      ],
+      "is_remote": true,
+      "seniority": "full_time",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-12T09:35:12",
+      "description": "<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #2d2d2d; font-weight: bold;\">About Lemon.io</span></p>\n<p style=\"border-style: none; outline: 0px; padding: 0px; vertical-align: baseline; margin-block-end: 0px; color: #48413f;\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: #333333;\">Lemon.io is a profitable, growing talent marketplace that connects vetted",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "388cb5a4bddb43d43a901e1ae2fb358e",
+      "title": "[Hiring] Erotica/Smut/Fanfic freelance writers (Online)",
+      "company": "SedateTheApe",
+      "url": "https://www.reddit.com/r/forhire/comments/1u5g33d/hiring_eroticasmutfanfic_freelance_writers_online/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 25.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-14T08:56:48+00:00",
+      "description": "[Hiring] Erotica/Smut/Fanfic freelance writers (Online)\n\n18+ Only Hello forhire readers,I recently started a social media platform for erotic fiction and I am currently looking to recruit erotica/smut/fanfic writers to populate the website (dirty-diaries.com) with a quality base of content (as I don\u2019t want to populate my website with AI slop and/or copy written content, for obvious reasons). I am looking to pay between 5-10 usd (via paypal) per \u2018short post', I put this in quotations as I understand most writers charge on a per word system, on the site (the post system on the website is designe",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
