@@ -1,0 +1,44 @@
+{
+  "run_id": "2026-06-14-2116",
+  "generated_at": "2026-06-14T21:16:31.004211Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "97e5a493028e71635e812d370ac3dc30",
+      "title": "[HIRING] LICENSED MASSAGE THERAPISTS WANTED - NYC-BASED",
+      "company": "rs0gold3n",
+      "url": "https://www.reddit.com/r/forhire/comments/1u5tyjr/hiring_licensed_massage_therapists_wanted_nycbased/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 25.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-14T19:15:28+00:00",
+      "description": "[HIRING] LICENSED MASSAGE THERAPISTS WANTED - NYC-BASED\n\n\ud83d\udc86\u200d\u2640\ufe0f Licensed Massage Therapists Wanted \ud83d\udc86\u200d\u2642\ufe0f We've been reviewing therapist profiles throughout NYC and have been impressed by the incredible talent in this community. StressKnotNYC is currently expanding our network of Licensed Massage Therapists. We're looking for professionals who are passionate about delivering exceptional client experiences and may be interested in flexible opportunities that work around their existing schedules. \u2728 Private clients \u2728 Luxury hotels \u2728 Corporate wellness programs \u2728 Special events \u2728 Flexible scheduling I",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "0ca926357af63c556d9a253511f02b50",
+      "title": "Founders Associate (Internship, m/f/d)",
+      "company": "Reviven",
+      "url": "https://www.arbeitnow.com/jobs/companies/reviven/founders-associate-internship-berlin-229941",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 17.0,
+      "stack": [
+        "management",
+        "team leader"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Acoustic Index is an early-stage bootstrapped startup based in Berlin. We are building the platform where acoustic manufacturers list their products with measurement data, so that planners, architects and acousticians find exactly the right material. More in the works. Two founders, a fast-growing partner list, a clear focus on West Europe for now.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Business development. You identify suitable manufacturer partners and proactively reach out to them. You get new companies talking to Acoustic Index.</li>\n<li>Pipeline building. You book first meetings for the founders",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
