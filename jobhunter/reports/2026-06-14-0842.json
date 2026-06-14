@@ -1,0 +1,86 @@
+{
+  "run_id": "2026-06-14-0842",
+  "generated_at": "2026-06-14T08:42:49.220143Z",
+  "total": 4,
+  "opportunities": [
+    {
+      "id": "94abf50972a62579009df4bc45a177c7",
+      "title": "[Hiring] A short-form video editor/storyteller. with big upside opportunity for the right candidate! $20-25",
+      "company": "Temporary-Brick-9086",
+      "url": "https://www.reddit.com/r/forhire/comments/1u5cprr/hiring_a_shortform_video_editorstoryteller_with/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-14T05:39:00+00:00",
+      "description": "[Hiring] A short-form video editor/storyteller. with big upside opportunity for the right candidate! $20-25\n\nI'm building a new lifestyle and mindset brand centered around a simple idea: How we show up matters. I'm looking for someone who can create realistic, relatable 15-30 second reels based on everyday moments. Examples: Stuck in traffic Spilled coffee Child not listening Long line at the store Someone having a bad day The goal is authenticity. Not motivational speeches. Not flashy edits. Not unrealistic AI stories. I'm looking for content that feels real, human, and relatable. Please PM e",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c902e9609c0169b4ce2c806fe5681d49",
+      "title": "[HIRING] TheStudentRoom.co.uk member for marketing",
+      "company": "Much_Somewhere7831",
+      "url": "https://www.reddit.com/r/forhire/comments/1u5bzh0/hiring_thestudentroomcouk_member_for_marketing/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": 25.0,
+      "currency": "USD",
+      "posted_at": "2026-06-14T04:59:31+00:00",
+      "description": "[HIRING] TheStudentRoom.co.uk member for marketing\n\nI'm looking for an established member on the TheStudentRoom.co.uk message board to do some marketing for my portfolio of sites and spread the word about the product. It'll be paid at $25/hour. &#32; submitted by &#32; /u/Much_Somewhere7831 [link] &#32; [comments]",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "3f11200cc8d68c8c25dbbf041f68051a",
+      "title": "Various Positions",
+      "company": "Northern News Services",
+      "url": "https://remoteOK.com/remote-jobs/remote-various-positions-northern-news-services-1133385",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "medical",
+        "full time"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-13T05:54:11+00:00",
+      "description": "<strong>Job Description<br><br></strong>Government of Northwest Territories<br><br><strong>BALANCE Life. EXPERIENCE Living.<br><br></strong>Work with us!<br><br>The Government of Northwest Territories (GNWT) provides programs and services to more than 44,000 residents across 33 communities in the Northwest Territories. This requires a talented and diverse group of employees dedicated to, and representative of, the public we serve.<br><br>A career with the GNWT is an opportunity to make a difference while also enjoying a generous compensation package that includes salary, pension, annual leave ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c4d7eb714b09e1ffcc577ef89724d9a7",
+      "title": "Chat Suppore",
+      "company": "OnlineJobs.PH",
+      "url": "https://remoteOK.com/remote-jobs/remote-chat-suppore-onlinejobs-ph-1133367",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "saas",
+        "technical",
+        "customer support",
+        "dev",
+        "ops",
+        "full time",
+        "digital nomad"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-13T04:50:59+00:00",
+      "description": "We are looking for an experienced Chat Support Specialist to join our software company full-time.<br><br>You will be responsible for assisting customers via live chat and email , answering product questions, troubleshooting issues, and ensuring customers have a great experience with our software.<br><br><strong>Responsibilities<br><br></strong><ul><li> Respond to customer inquiries via live chat and email</li><li> Troubleshoot basic software issues</li><li> Escalate technical problems when needed</li><li> Maintain a high level of customer satisfaction</li><li> Document customer feedback and co",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
