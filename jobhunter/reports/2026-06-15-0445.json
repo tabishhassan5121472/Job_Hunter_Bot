@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-06-15-0445",
+  "generated_at": "2026-06-15T04:45:56.341764Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "4900064c732014517ed1e480c0a22102",
+      "title": "test",
+      "company": "Fluidstack",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-fluidstack-1133414",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 29.3,
+      "stack": [
+        "testing",
+        "design",
+        "dev",
+        "recruiter",
+        "digital nomad"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-14T00:32:52+00:00",
+      "description": "<strong>About Fluidstack<br><br></strong>We exist to make humanity more free. For most of human history, you farmed or you starved. Technology gave people more time for the things they wanted to do, instead of things they had to do. Powerful AI will be the biggest lever for human choice we've ever built - but only if models are aligned with what humanity actually wants. There are groups building AI who don't share these goals. Whoever deploys frontier compute infrastructure fastest will decide whether AI expands human freedom or shrinks it.<br><br>We're singularly focused on delivering 10 to 1",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5a64f4c19137447e2c63eea17dbecb19",
+      "title": "Medical Scribe Female Only",
+      "company": "Angel City VA Recruitment",
+      "url": "https://remoteOK.com/remote-jobs/remote-medical-scribe-female-only-angel-city-va-recruitment-1133399",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "recruiter",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-14T02:10:34+00:00",
+      "description": "\u00f0\u009f\u00a9\u00ba Job Title: Medical Scribe\nLocation: Remote\nEmployment Type: Full Time\n\u00f0\u009f\u0093\u009d Job Summary\nWe are seeking\u00e2\u0080\u00a6<br/><br/>Please mention the word **ADAPTIVE** and tag RMTUyLjU1LjE3Ni40 when applying to show you read the job post completely (#RMTUyLjU1LjE3Ni40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "397ebe74fa380823219184b727672a8e",
+      "title": "Illustrator",
+      "company": "Odixcity Consulting",
+      "url": "https://remoteOK.com/remote-jobs/remote-illustrator-odixcity-consulting-1133397",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "architecture",
+        "microsoft",
+        "exec",
+        "junior",
+        "consulting",
+        "illustrator",
+        "full time"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-14T00:08:57+00:00",
+      "description": "Anunciada 03:18:41. Job Title: Illustrator Job Type: Full-time / Contract (Remote)Job Summary: We are seeking a highly\u00e2\u0080\u00a6<br/><br/>Please mention the word **PRICELESS** and tag RMTUyLjU1LjE3Ni40 when applying to show you read the job post completely (#RMTUyLjU1LjE3Ni40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
