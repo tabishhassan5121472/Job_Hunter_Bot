@@ -1,0 +1,153 @@
+{
+  "run_id": "2026-06-19-1336",
+  "generated_at": "2026-06-19T13:36:50.985838Z",
+  "total": 8,
+  "opportunities": [
+    {
+      "id": "57941d3b79e253f8151ad5d6f1f1548b",
+      "title": "(Senior) Full Stack Engineer (f/m/d)",
+      "company": "Pricenow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pricenow/senior-full-stack-engineer-munich-248597",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 43.5,
+      "stack": [
+        "software development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Do you have a passion for developing complex, event-driven systems and/or cloud solutions? Do you want to work on challenging projects using the latest technologies? Do you want to find perfect solutions together with great colleagues?</p>\n<p>We are looking for an experienced and enthusiastic Full-Stack Engineer to join our Team! You will be responsible for evolving our Web-based Application Landscape and will help to develop innovative, data-driven applications for the tourism and logistics sector.</p>\n<h2>Tasks</h2>\n<p>As a Full-Stack Engineer at Pricenow, you will strive to create scalab",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "95efca2e4151c904a6041410ddb285a4",
+      "title": "Sales Director Europe (all genders) for Bidgely - remote within Europe",
+      "company": "Future Energy Ventures",
+      "url": "https://www.arbeitnow.com/jobs/companies/future-energy-ventures/sales-director-europe-all-genders-for-bidgely-remote-within-europe-berlin-113576",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 32.0,
+      "stack": [
+        "remote",
+        "management",
+        "team leader"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>We are looking for a Sales Director Europe (all genders) for our portfolio startup Bidgely.</p>\n<p><strong>The Company You\u2019ll Join</strong></p>\n<p>At Bidgely (which means \"electricity\" in Hindi), we work to accelerate a clean energy future by enabling energy companies and consumers to make data-driven, energy-related decisions.</p>\n<p>We are a global company, with roots in Silicon Valley, California and Bangalore, India. Bidgely carries 26 energy patents, and brings a passion for AI to utilities serving 40 million customers worldwide!</p>\n<p>Bidgely is an AI-powered, cloud based SaaS soluti",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "59bce117bab778c61360a1235386049f",
+      "title": "Software Engineer, Adoption",
+      "company": "Cohere",
+      "url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
+      "source": "ats_ashby_cohere",
+      "channel": "A",
+      "score": 25.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-19T09:49:24.685000+00:00",
+      "description": "Who are we?   Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We\u2019re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.  We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "4e6390f91509341b0c46d3c399aa189c",
+      "title": "[Hiring] Looking for Highly Fluent English-Speaking Developers",
+      "company": "Opposite_Lychee_8110",
+      "url": "https://www.reddit.com/r/forhire/comments/1u9y73j/hiring_looking_for_highly_fluent_englishspeaking/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 25.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-19T10:20:18+00:00",
+      "description": "[Hiring] Looking for Highly Fluent English-Speaking Developers\n\nHi everyone, I'm looking for a developer with excellent spoken and written English who is comfortable communicating directly with U.S. clients. Strong communication is very important because this role may involve calls, discussions, and ongoing client interaction. Looking for: Near-native or highly fluent English Comfortable speaking on voice/video calls Professional communication skills Reliable and responsive Previous client-facing experience is a plus Please DM me with: Your experience and background Technologies you work with ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "41d8069e9d2eca0b760f2273ec4bdf12",
+      "title": "Agent",
+      "company": "Kier Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-agent-kier-group-1133662",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-18T12:12:14+00:00",
+      "description": "Paste the full job description here, then click the blue PageUp icon in the top left to select the relevant prompt to generate the advert<br/><br/>Please mention the word **ENTHRALL** and tag RNTIuMjUwLjI0My40MQ== when applying to show you read the job post completely (#RNTIuMjUwLjI0My40MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "1c0e5f8b715ada8fa663b73e6edd2e6f",
+      "title": "Job 2",
+      "company": "addingup",
+      "url": "https://www.arbeitnow.com/jobs/companies/addingup/job-2-hamburg-336199",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 21.0,
+      "stack": [
+        "hr"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>Tasks</h2>\n<ul>\n<li>Develop and execute targeted social media advertising campaigns across platforms like Instagram, Facebook, TikTok, and Pinterest to enhance client visibility and revenue.</li>\n<li>Collaborate with clients to understand their marketing goals and translate these into effective social media strategies that align with our core values of drive, honesty, and performance.</li>\n<li>Analyze campaign performance data to provide actionable insights and recommendations for optimization, ensuring consistent improvement in client outcomes.</li>\n<li>Maintain up-to-date knowledge of in",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "3eaa5d3542a3e8202c7d04e561003ae3",
+      "title": "Head of Mergers and Acquisitions - Buy and Build",
+      "company": "Options Group",
+      "url": "https://www.arbeitnow.com/jobs/companies/options-group/head-of-mergers-and-acquisitions-buy-and-build-munich-486658",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 11.0,
+      "stack": [
+        "mergers & acquisitions"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Our client is a platform operating in a fragmented mid-market segment with a clearly defined Buy &#x26; Build strategy. Backed by an experienced shareholder group, the company combines an ambitious acquisition agenda with a hands-on approach to operational value creation. The position is based in Munich.</p>\n<h2>Tasks</h2>\n<p>As Head of M&#x26;A, you will be the driving force behind the platform's inorganic growth. You take full ownership of the acquisition pipeline \u2013 from identifying and approaching suitable targets in the German Mittelstand, through structuring and negotiating transaction",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f56f4056110141c743567c695ddb7416",
+      "title": "Senior Named Account Executive (Public Sector - Federal), Canberra",
+      "company": "Cloudflare",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7937299?gh_jid=7937299",
+      "source": "ats_greenhouse_cloudflare",
+      "channel": "A",
+      "score": 11.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-19T06:06:50-04:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
