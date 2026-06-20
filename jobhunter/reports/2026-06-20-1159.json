@@ -1,0 +1,76 @@
+{
+  "run_id": "2026-06-20-1159",
+  "generated_at": "2026-06-20T11:59:07.758340Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "b89d5edd1453c4cfc9f90110d38b95cb",
+      "title": "Head of Creative Campaigns (m/f/d - Remote)",
+      "company": "Weflow",
+      "url": "https://www.arbeitnow.com/jobs/companies/weflow/head-of-creative-campaigns-remote-berlin-245358",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "remote",
+        "marketing and communication"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Weflow's Revenue AI Platform automates Salesforce data capture and provides full visibility into deal, pipeline, and forecast health.</p>\n<p>200+ fast-growing companies like Retool, Abridge, and IDnow use Weflow to improve team productivity, sales performance, and revenue predictability.</p>\n<p>Weflow is backed by Gradient Ventures, Cherry Ventures, and renowned angel investors \u2013 and run by repeat founders Philipp Stelzer and Janis Zech.</p>\n<h2>Tasks</h2>\n<p>As our Head of Creative Campaigns, you'll be the person who puts Weflow on the map - through creative campaigns, events, and activati",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "70c578876225695bd2c81cdabde20342",
+      "title": "Election Officials",
+      "company": "City of New Westminster",
+      "url": "https://remoteOK.com/remote-jobs/remote-election-officials-city-of-new-westminster-1133723",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "hr",
+        "recruiter",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-19T11:17:46+00:00",
+      "description": "<strong>Organization<br><br></strong>City of New Westminster<br><br><strong>Region<br><br></strong>British Columbia<br><br><strong>Application Deadline<br><br></strong>June 29, 2026<br><br><strong>Type<br><br></strong>Auxiliary<br><br><strong>Category<br><br></strong>Other<br><br>Twitter Facebook Linkedin Send Save Print<br><br><strong>Description</strong> Click here to view full screen<br><br><strong> From the same organization<br><br></strong>Building Official 3 - Inspections - City of New Westminster<br><br>31 Jul, 2026<br><br>HR Recruiter - City of New Westminster<br><br>3 Jul, 2026<br><br",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "26258f8c7b2093bd0d3afd537570a474",
+      "title": "Entry Level Administrative Assistant",
+      "company": "Recruitlytixs HR",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hr-1133743",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "hr",
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-19T06:36:01+00:00",
+      "description": "<p>We are seeking an <strong>Entry-Level Administrative Assistant</strong> to support our remote operations by handling essential administrative tasks and maintaining organized systems. This role is ideal for individuals who are detail-oriented, reliable, and enjoy working with structured processes in a digital environment.</p> <p>In this position, you will assist with data management, task coordination, and general administrative support to ensure daily operations run smoothly. Your ability to stay organized, follow instructions, and manage routine tasks accurately will contribute to overall ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
