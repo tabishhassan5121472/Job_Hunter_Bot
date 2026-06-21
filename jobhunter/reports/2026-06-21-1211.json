@@ -1,0 +1,93 @@
+{
+  "run_id": "2026-06-21-1211",
+  "generated_at": "2026-06-21T12:11:45.021785Z",
+  "total": 4,
+  "opportunities": [
+    {
+      "id": "b33264059c94edfecc7b2ae5192ee851",
+      "title": "[HIRING] Content contributors for a new social app, $20, must have iPhone",
+      "company": "Turtle012",
+      "url": "https://www.reddit.com/r/forhire/comments/1ubmdfl/hiring_content_contributors_for_a_new_social_app/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 40.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-21T10:12:02+00:00",
+      "description": "[HIRING] Content contributors for a new social app, $20, must have iPhone\n\nI\u2019m looking to hire 50 fluent written English people to help seed text content in a new iPhone social app built around AskReddit-style questions. You will: 1- Answer 15 prompts (text) 2- Write 5 meaningful comments 3- Like 10 responses Your answers must: \u2022 Be original and based on your genuine opinions or experiences \u2022 Be written in fluent, natural English \u2022 Give enough detail to be interesting when the prompt calls for it \u2022 Generally be around 2\u20135 sentences, although naturally short answers are acceptable for some prom",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "78b4493bac867a4933205e9c3775f979",
+      "title": "Assistant Store Manager",
+      "company": "Ross Stores, Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-ross-stores-inc-1133775",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 36.8,
+      "stack": [
+        "sys admin",
+        "technical",
+        "supervisor",
+        "customer support",
+        "testing",
+        "exec",
+        "medical",
+        "engineer",
+        "recruiter",
+        "marketing",
+        "education",
+        "senior"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-20T12:05:58+00:00",
+      "description": "<strong>Our values start with our people, join a team that values you!<br><br></strong>We are the nation\u00e2\u0080\u0099s largest off-price retailer with over 2,200 stores, and a strong track record of success and growth. Our focus has always been bringing our customers a constant stream of high-quality brands and on-trend merchandise at extraordinary savings. All while providing a fun and exciting treasure hunt experience.<br><br><strong>As Part Of Our Team, You Will Experience<br><br></strong><ul><li>Success. Our winning team pursues excellence while learning and evolving</li><li>Career growth. We develo",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "1f07b1ecbddf9fa2809c9a13373d295f",
+      "title": "Content Creator UGC",
+      "company": "Twine",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-creator-ugc-twine-1133744",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "content writing"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-20T12:03:45+00:00",
+      "description": "Posted 11:10:43 AM. This opportunity is ideal for creative individuals passionate about producing authentic, relatable\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **FRESHER** and tag RMjAuMTE5Ljk1LjE4 when applying to show you read the job post completely (#RMjAuMTE5Ljk1LjE4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "354d44c13d3cdd7c99ba3bb25e51ca70",
+      "title": "Content Creator",
+      "company": "Vive Social + PR",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-creator-vive-social-pr-1133820",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "exec",
+        "content writing"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-19T22:50:00+00:00",
+      "description": "<p>If you have a pulse on emerging trends and a passion for creating engaging social content, we\u00e2\u0080\u0099d love to hear from you! We're looking for a Content Creator to join our Toronto team. This role will be responsible for developing engaging TikToks, Reels, graphics, and other creative assets for our clients. This is a contract position requiring approximately 20-30 hours per week, with the opportunity to grow into a larger part of our team. In-office days are required two days per week.</p><p><br></p><p><strong>Role Description &amp; Responsibilities</strong></p><ul><li>Attend shot list review ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
