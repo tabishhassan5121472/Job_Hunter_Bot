@@ -1,0 +1,47 @@
+{
+  "run_id": "2026-06-21-1647",
+  "generated_at": "2026-06-21T16:47:10.754759Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "a5dca19a8395bffe43f4ed6dd4dec93e",
+      "title": "Retoucher",
+      "company": "Agency MJ",
+      "url": "https://remoteOK.com/remote-jobs/remote-retoucher-agency-mj-1133811",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 28.3,
+      "stack": [
+        "design",
+        "video",
+        "exec",
+        "content writing",
+        "digital nomad"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-20T15:22:29+00:00",
+      "description": "<p><strong>Video Editor</strong></p><p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p><p><strong>JOB DESCRIPTION</strong></p><p>Our Global Design team is seeking a Photo Retoucher to join our remote creative team. The ideal candidate will maintain the highest standards of image quality while adhering to brand guidelines and aesthetic requirements.</p><p><br></p><p>This role is fully remote and open to candidates based in the United States.</p><p><br></p><p><strong>KEY JOB RESPONSIBILITIES</strong></p><ul><li>Perform high-end photo retouching for luxury fashion editorial content",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "fbeae11f9ec9f86837d210a250d15816",
+      "title": "Full Stack Engineer - Internal Audit",
+      "company": "Cloudflare",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8014902?gh_jid=8014902",
+      "source": "ats_greenhouse_cloudflare",
+      "channel": "A",
+      "score": 11.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-21T08:38:00-04:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
