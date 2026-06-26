@@ -1,0 +1,98 @@
+{
+  "run_id": "2026-06-26-1213",
+  "generated_at": "2026-06-26T12:13:32.067593Z",
+  "total": 4,
+  "opportunities": [
+    {
+      "id": "0cd49dd0bb4ccf0d44669c9612f0060e",
+      "title": "hh2",
+      "company": "Biztech",
+      "url": "https://remoteOK.com/remote-jobs/remote-hh2-biztech-1134146",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "project manager",
+        "exec",
+        "product manager",
+        "dev",
+        "medical",
+        "digital nomad",
+        "ops"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-25T09:06:30+00:00",
+      "description": "Civalgo is your all-in-one construction management solution, designed by industry experts to streamline project planning, resource allocation, and daily reporting. Simplify your operations, enhance team collaboration, and boost productivity with our intuitive, real-time platform. Read More About Civalgo<br/><br/>Please mention the word **ADVOCATED** and tag RNDguMjE0LjU0LjUz when applying to show you read the job post completely (#RNDguMjE0LjU0LjUz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "0a15c3435bbace715a4d7e7ad5075083",
+      "title": "LABORER",
+      "company": "Portales Fire Department",
+      "url": "https://remoteOK.com/remote-jobs/remote-laborer-portales-fire-department-1134147",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "project manager",
+        "exec",
+        "product manager",
+        "dev",
+        "medical",
+        "digital nomad",
+        "ops",
+        "web dev"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-24T23:11:01+00:00",
+      "description": "This cms8.revize.com page can\u00e2\u0080\u0099t be found<br><br>No webpage was found for the web address: <strong>https://cms8.revize.com/revize/portales/Job%20Posting%20%202025-09%20SW%20Laborer.pdf<br><br></strong>HTTP ERROR 404<br><br>No webpage was found for the web address: <strong>https://cms8.revize.com/revize/portales/Job%20Posting%20%202025-09%20SW%20Laborer.pdf</strong><br/><br/>Please mention the word **GRATIFICATION** and tag RNDguMjE0LjU0LjUz when applying to show you read the job post completely (#RNDguMjE0LjU0LjUz). This is a beta feature to avoid spam applicants. Companies can search these w",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a4d9bec38b9e35755c1050b79dd35f13",
+      "title": "Product manager",
+      "company": "DU\u00c4\u0092AST",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-dueast-1134144",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "project manager",
+        "exec",
+        "product manager"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-24T20:40:57+00:00",
+      "description": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high quality because it is disposable where another may be viewed as having poor quality because it is disposable.<br/><br/>Please mention the word **EMPOWERMENT** and tag RNDguMjE0LjU0LjUz when applying to show you read the job post completely (#RNDguMjE0LjU0LjUz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "0c1f698040a1a3dad5db534e78dce73a",
+      "title": "Social Media / Videographer Intern",
+      "company": "SCAILE Technologies GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/scaile-technologies-gmbh/social-media-videographer-intern-munich-49308",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 21.0,
+      "stack": [
+        "graphic arts and communication design"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>SCAILE is building the infrastructure that makes brands visible in AI search. As ChatGPT, Perplexity, and Google AI Overviews replace traditional search, we help companies get discovered and recommended by AI systems. We combine a proprietary Content Engine with AI agents to create, optimize, and deploy content at scale. Supported by Google Cloud for Startups and NCA VC, we're already live with clients like Beurer and Lyceum Technologies.</p>\n<p>As AI takes over more of the building, the human story behind it matters more than ever. We're looking for a Social Media / Videographer Intern to ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
