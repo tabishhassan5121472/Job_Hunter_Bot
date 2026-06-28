@@ -1,0 +1,44 @@
+{
+  "run_id": "2026-06-28-0406",
+  "generated_at": "2026-06-28T04:06:58.162389Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "65498a8dddc10c689a30590d4774cf0c",
+      "title": "Digital Analytics & Tracking Consultant | German- & English-Speaking (m/f/d) | GA4, GTM & eCommerce | 100% Remote | Full- or Part-Time",
+      "company": "hurra.com",
+      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/digital-analytics-tracking-consultant-german-english-speaking-ga4-gtm-ecommerce-100-remote-full-or-part-time-stuttgart-4378",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "remote",
+        "marketing and communication"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>We are a <strong>digital marketing agency</strong> looking for a <strong>Digital Analytics Consultant</strong> to support our team and eCommerce clients, particularly in the following areas:</p>\n<ul>\n<li>Implementation and optimisation of <strong>GA4 tracking</strong></li>\n<li><strong>Client-side and server-side Google Tag Manager</strong></li>\n<li><strong>Consent Management Platforms (CMPs)</strong></li>\n<li>Ideally, tracking implementations in combination with <strong>Shopify</strong></li>\n</ul>\n<p>We are open to both <strong>freelancers</strong> and candidates seeking <strong>permanent e",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f76dd53b6097f78d1c2e4f519ac56335",
+      "title": "[HIRING] 1\u20132 Video Editors for Ongoing Client Projects | Salary at Market Rate (Negotiable)",
+      "company": "Ritikapambi",
+      "url": "https://www.reddit.com/r/forhire/comments/1uhmavl/hiring_12_video_editors_for_ongoing_client/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 25.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-28T03:27:14+00:00",
+      "description": "[HIRING] 1\u20132 Video Editors for Ongoing Client Projects | Salary at Market Rate (Negotiable)\n\nI want to hire 1 or 2 video editors for my client based video editing work. Salary - up to market rates (negotiable according to your expertise) Please DM me and I'll share the contact details for further discussion. &#32; submitted by &#32; /u/Ritikapambi [link] &#32; [comments]",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
