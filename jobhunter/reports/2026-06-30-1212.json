@@ -1,0 +1,162 @@
+{
+  "run_id": "2026-06-30-1212",
+  "generated_at": "2026-06-30T12:12:12.125343Z",
+  "total": 8,
+  "opportunities": [
+    {
+      "id": "54119ff25cace4578a39b423f25c8ab1",
+      "title": "React Native Engineer, Merchant Experience Mobile",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/search?gh_jid=8035557",
+      "source": "ats_greenhouse_stripe",
+      "channel": "A",
+      "score": 38.5,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-30T07:09:48-04:00",
+      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world&#39;s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;A",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f85aaee6c0594c79d6da4f247b05ad99",
+      "title": "Copywriter (m/f/d) - German Speaking",
+      "company": "Formel Skin",
+      "url": "https://www.arbeitnow.com/jobs/companies/formel-skin/copywriter-german-speaking-berlin-189288",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing and communication"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>At FORMEL SKIN, we're at the forefront of revolutionizing dermatology and reshaping the landscape of healthcare. Our mission is to establish a global online dermatology clinic, making highly effective dermatological treatments easily accessible to all. We've made significant strides, garnering support from some of Europe's most prominent health and consumer investors. Notably, in December 2021, we achieved a significant milestone by raising \u20ac30 million in Germany's largest health tech Series A round.</p>\n<p>To date, we've successfully provided over one million treatments to our patients. Ou",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "92a2a47c3727d0c7ce43a8ce8c1a0006",
+      "title": "Senior Data & Analytics Engineer (Europe, 100% remote)",
+      "company": "LimeFlight",
+      "url": "https://www.arbeitnow.com/jobs/companies/limeflight/senior-data-analytics-engineer-europe-100-remote-berlin-281998",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "other",
+        "bachelor's degree"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\";\">Join our fully remote, mission-driven team dedicated to pioneering <strong>sustainable inflight service management</strong>. Work on innovative technology solutions with global impact, collaborate within a diverse, international environment, and continuously enhance your skills through ongoing learning opportunities.</p><p style=\";\"></p><p style=\";\">Headquartered in Zurich, Switzerland with team members across 11 countries, we offer a dynamic and engaging company culture that celebrates creativity, collaboration, and inclusion. </p><h4><strong>About the role</strong></h4><p style=",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f22e6c9b6ecb7c9b2c08bea843de61b1",
+      "title": "Country Manager, Spain",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/Notion/156aac9e-a4f5-41ae-96ba-2209c16a0153",
+      "source": "ats_ashby_notion",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-30T11:14:00.075000+00:00",
+      "description": "Who We Are  Notion is the collaborative AI workspace where teams and agents  think together . We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.    Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn\u2019t to ship the next feature. Each and every team of Notinos is work",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "bd2ed011b2eb9c39ea295960a0a374bc",
+      "title": "Country Manager, Italy",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/Notion/5a4e0905-152d-4fc9-ae1e-e5b604ef6baf",
+      "source": "ats_ashby_notion",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-30T11:08:02.318000+00:00",
+      "description": "Who We Are  Notion is the collaborative AI workspace where teams and agents  think together . We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.    Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn\u2019t to ship the next feature. Each and every team of Notinos is work",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b995d0c8c2b806203acce6dec565b213",
+      "title": "Sharetea Edmonton City Centre",
+      "company": "Edmonton City Centre",
+      "url": "https://remoteOK.com/remote-jobs/remote-sharetea-edmonton-city-centre-edmonton-city-centre-1134251",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "testing",
+        "golang",
+        "full time",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-29T11:28:27+00:00",
+      "description": "Sharetea is currently hiring for <strong>full-time positions</strong>!<br><br>Please send your resume to shareteayeg@gmail.com!<br><br><strong>About The Brand<br><br></strong>Established in 1992, Sharetea started off business with to-go black tea and pearl milk tea drinks in Taipei, Taiwan. Since then Sharetea has opened many branches and franchises in 15 countries such as United States, Canada, Southeast Asia, Australia, Dubai and over 500 stores.<br><br>Our drinks are made from high quality tea leaves and selected ingredients shipped directly from Taiwan. All products are 100% guaranteed to ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e2860bb6c63f79ad3eb8fb388f2e02a3",
+      "title": "Expressions of Interest",
+      "company": "RACQ",
+      "url": "https://remoteOK.com/remote-jobs/remote-expressions-of-interest-racq-1134236",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "customer support",
+        "travel",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-29T09:19:25+00:00",
+      "description": "At RACQ,\u00e2\u0080\u00afwe\u00e2\u0080\u0099re\u00e2\u0080\u00afgood people doing good things, making a positive impact every day, with opportunities to learn, grow, and be more. Thank you for your interest in a career with RACQ - we're happy you're here! We encourage you to submit your expression of interest for future career opportunities with us. We are seeking expressions of interest to work with us here, across all areas at RACQ. Please upload your resume in word or pdf format.<br><br><strong>Why join RACQ? <br><br></strong>RACQ is here to drive a better future for all Queenslanders. With more than 1.7 million members, we\u00e2\u0080\u0099re bui",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c7116f98b6d39e2df3df8f3886e2bf3e",
+      "title": "Product Owner - Cybersecurity (m/f/d)",
+      "company": "Hornetsecurity",
+      "url": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/product-owner-cybersecurity-hanover-479947",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 11.0,
+      "stack": [
+        "product management"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>The Hornetsecurity Group is the leading cloud security provider in Europe, which protects the IT infrastructure, digital communication and data of companies and organizations of all sizes.</p>\n<p>For our Headquarter in Hanover we are looking for a motivated Product Owner (m/f/d) for 40 hours/week to start immediately or as soon as possible.</p>\n<h2>Tasks</h2>\n<ul>\n<li>You act as the primary point of contact between stakeholders and product squads.</li>\n<li>You create and maintain a well-defined product backlog, ensuring it is properly prioritized and ready for sprint planning.</li>\n<li>You ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
