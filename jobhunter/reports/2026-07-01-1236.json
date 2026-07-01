@@ -1,0 +1,127 @@
+{
+  "run_id": "2026-07-01-1236",
+  "generated_at": "2026-07-01T12:36:15.853934Z",
+  "total": 6,
+  "opportunities": [
+    {
+      "id": "ac7bbc0089cd5bf85fe6e2f69e4c2a0f",
+      "title": "",
+      "company": "Impact Clients",
+      "url": "https://remotive.com/remote-jobs/customer-service/client-success-coach-csm-2091039",
+      "source": "remotive",
+      "channel": "A",
+      "score": 43.3,
+      "stack": [
+        "backend",
+        "video",
+        "crm",
+        "youtube",
+        "organic marketing",
+        "onboarding",
+        "spreadsheets",
+        "gsuite"
+      ],
+      "is_remote": true,
+      "seniority": "full_time",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-29T14:20:56",
+      "description": "<p>We\u2019re looking for a\u00a0full-time Client Success Coach\u00a0to join our fast-growing team at Richard Yu\u2019s online education company. Our mission is simple:\u00a0help everyday people launch impactful online digital arbitrage businesses\u00a0that transform lives\u2014starting with their own.<br><br>If you\u2019re someone who loves mentorship, thrives in a high-performance environment, and wants to make a real difference in people\u2019s lives, keep reading.<br><br><strong>About Us:</strong><br>Richard Yu is an online business coach with:</p>\n<ul style=\"\">\n<li style=\"\">100K+ subscribers on YouTube\u00a0\u2192\u00a0<a href=\"http://youtube.com/",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "df35b3fc12ec2b149c0cc0ee335749e2",
+      "title": "",
+      "company": "Lemon.io",
+      "url": "https://remotive.com/remote-jobs/communications/communications-manager-2090985",
+      "source": "remotive",
+      "channel": "A",
+      "score": 30.3,
+      "stack": [
+        "go",
+        "ai/ml",
+        "automation",
+        "responsive"
+      ],
+      "is_remote": true,
+      "seniority": "full_time",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-06-30T08:40:42",
+      "description": "<p></p><div class=\"h1\"><span style=\"border-style: none; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; color: rgb(72, 65, 63);   font-weight: bold;\">About Lemon.io</span></div><span style=\"color: rgb(72, 65, 63);  \">Lemon.io is building the autopilot for hiring.\u00a0</span><br style=\"color: rgb(72, 65, 63);  \"><span style=\"color: rgb(72, 65, 63);  \">We've replaced the slow, expensive recruiting agency with a platform that delivers vetted, responsive candidates, ready for a final interview. In days, not weeks.\u00a0</span><br style=\"color: rgb(72, 65, 63);  \"><span style=\"color: rgb(",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "3ad5931d08b9615ee183124b3c4835aa",
+      "title": "Recruiter (m/w/d) | T-1 VC Backed Stealth Startup with 80+ Employees",
+      "company": "Stealth Start-up (Mobility, Berlin)",
+      "url": "https://www.arbeitnow.com/jobs/companies/stealth-start-up-mobility-berlin/recruiter-t-1-vc-backed-stealth-startup-with-80-employees-berlin-281347",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 21.0,
+      "stack": [
+        "recruitment and selection"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>You'll work directly with our Head of People as the second person in a small, high-trust People &#x26; Talent function in our <strong>T-1 VC backed Mobility Start-up.</strong> Currently <strong>75+ people across 3 locations and 14+ stores in Germany</strong>, hiring toward ~95 by year-end and heading into our next stage.</p>\n<p>This is a build role, not a maintenance one: You'll <strong>own projects end-to-end</strong>, work with real data, and operate at the intersection of operations, strategy and execution.</p>\n<h2>Tasks</h2>\n<ul>\n<li><strong>Kill manual work.</strong> Find the processes",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "80bd8187a6127dea8c4b9b68b43059b1",
+      "title": "Senior Freelance eazyBI & JIRA Reporting Specialist (Contract)",
+      "company": "Deep Automation",
+      "url": "https://www.arbeitnow.com/jobs/companies/deep-automation/senior-freelance-eazybi-jira-reporting-specialist-contract-berlin-459690",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 20.0,
+      "stack": [
+        "it"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>DeepAutomation is looking for an experienced <strong>eazyBI Reporting Specialist</strong> to support us on a contractual basis in building advanced reports and dashboards for a complex software platform. This is a hands-on implementation role focused on transforming data into meaningful insights through sophisticated reporting solutions.</p>\n<h2>Tasks</h2>\n<p>Train the team, Design, build, and optimize advanced reports and dashboards using <strong>eazyBI</strong><br>\nAnalyze with the team a complex program and data structure to develop meaningful reporting solutions</p>\n<p>Create with the t",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "013eff46c2871f0511c9e97b2fdbb982",
+      "title": "Backend Engineer (Ruby), AI Engineering: Duo Agent Platform Tools",
+      "company": "Gitlab",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8605283002",
+      "source": "ats_greenhouse_gitlab",
+      "channel": "A",
+      "score": 20.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-01T05:08:46-04:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expect",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "eb80a559cc00d3fe5a23bdb67abf76bd",
+      "title": "Senior Backend Engineer (Ruby), AI Engineering: Duo Agent Platform Tools",
+      "company": "Gitlab",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8603839002",
+      "source": "ats_greenhouse_gitlab",
+      "channel": "A",
+      "score": 20.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-01T05:15:36-04:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expect",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
