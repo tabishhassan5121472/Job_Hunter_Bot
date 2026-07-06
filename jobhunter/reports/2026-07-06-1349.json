@@ -1,0 +1,126 @@
+{
+  "run_id": "2026-07-06-1349",
+  "generated_at": "2026-07-06T13:49:43.612730Z",
+  "total": 6,
+  "opportunities": [
+    {
+      "id": "4691cbf08cd4988901ad6af4613c2896",
+      "title": "Social media content creator - app start-up (unpaid) - remote USA",
+      "company": "LoveLane",
+      "url": "https://www.arbeitnow.com/jobs/companies/lovelane/social-media-content-creator-app-start-up-unpaid-remote-usa-berlin-267368",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "remote",
+        "marketing and communication"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p><strong>Important:</strong> As we are bootstrapped, this is an <strong>unpaid internship</strong>.</p>\n<p><strong>Our Product</strong></p>\n<p>Our App Soy &#x26; Mochi is the most gamified couple's app in the AppStores.</p>\n<p>We\u2019re building a game app for couples so they can deepen their relationship while having a lot of fun.</p>\n<p>Our vision is to become the platform for all couple-related topics.</p>\n<h2>Tasks</h2>\n<p><strong>Responsibilities</strong></p>\n<p>Your focus will be on creating high-impact social media content content (static and video) that strengthens our brand and helps co",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "905a1f171e8206f8aa51943a65ac97e7",
+      "title": "(Senior) Embedded Software Engineer - Reliant",
+      "company": "Quantum-Systems GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-embedded-software-engineer-reliant-gilching-357524",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [
+        "internet and software",
+        "professional"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>As an <strong>Embedded Software Engineer</strong>, you are a key member of our Architecture team, developing and implementing the core embedded software that enables our autonomous long-range VTOL platforms to operate safely, reliably, and intelligently in highly demanding operational environments.</p><p style=\";\"></p><p>In this role, you will be dedicated to our <strong>Reliant</strong> platform \u2013 our next-generation long-range VTOL UAS designed for autonomous ISR missions in GNSS-denied and contested environments. You will contribute to mission-critical software that powers autonomous fli",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9ca7d4393b3c16af5f7e25fba5f5dfd1",
+      "title": "Innovation",
+      "company": "Doshi Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-innovation-doshi-group-1134520",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "customer support",
+        "exec"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-05T12:34:47+00:00",
+      "description": "Innovation managers are tasked with creating the strategy and culture required for employees to experiment with the right resources at the right level to support that experimentation. Innovation managers are skilled in project management, strategic thinking and leadership.<br/><br/>Please mention the word **REJOICING** and tag RMTcyLjE4Mi4yMjYuMTk0 when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjYuMTk0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "4080c497058928d3d9c6744eadfa25f8",
+      "title": "Automotive Product Management Intern (f/m/x)",
+      "company": "4screen",
+      "url": "https://www.arbeitnow.com/jobs/companies/4screen/automotive-product-management-intern-munich-50876",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 21.0,
+      "stack": [
+        "management",
+        "team leader"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p><strong>Become a part of the 4screen team!</strong></p>\n<p>At 4screen we are bridging the gap between drivers and their surrounding infrastructure by providing engaging in-car communication directly on the car screen. We have developed the world\u2019s first driver interaction platform, revolutionizing the way local businesses connect, interact and engage with targeted customers in real-time. We are live in millions of cars with trusted partners and leading customers.</p>\n<p>As our <strong>Automotive Product Management Intern</strong> you will play an integral role in establishing partnerships w",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "278f7cf9e395f0968f3a6fff23cae557",
+      "title": "Growth Marketing Manager",
+      "company": "Consultport",
+      "url": "https://www.arbeitnow.com/jobs/companies/consultport/growth-marketing-manager-berlin-203853",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 17.0,
+      "stack": [
+        "marketing manager"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Consultport is a global platform redefining how businesses access top-tier consulting talent. We connect top companies with world-class consultants and digital experts, helping them drive critical initiatives faster, smarter, and more flexibly than ever before.</p>\n<p>Join us at this growth stage. We're building the future of consulting, and this is your chance to be part of shaping it.</p>\n<h2>Tasks</h2>\n<p>As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and drive our digital marketing strategy across all channels, from performance and paid media to content, SEO, and brand",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e3b08d5a1fda0a9e7bd627d12c5f653c",
+      "title": "Head of Sales",
+      "company": "Consultport",
+      "url": "https://www.arbeitnow.com/jobs/companies/consultport/head-of-sales-berlin-68699",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 17.0,
+      "stack": [
+        "management",
+        "team leader"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Consultport is a global platform redefining how businesses access top-tier consulting talent. We connect top companies with world-class consultants and digital experts, helping them drive critical initiatives faster, smarter, and more flexibly than ever before.</p>\n<p>Join us at this growth stage. We\u2019re building the future of consulting, and this is your chance to be part of shaping it.</p>\n<h2>Tasks</h2>\n<p>As a Head of Sales (m/f/d) at Consultport, you'll own and execute a comprehensive sales strategy to drive revenue growth and hit ambitious targets. You'll build and lead a high-performi",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
