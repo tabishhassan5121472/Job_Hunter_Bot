@@ -1,0 +1,73 @@
+{
+  "run_id": "2026-07-07-0340",
+  "generated_at": "2026-07-07T03:40:44.931422Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "accce7b470edddfceb47622f87dafd9e",
+      "title": "Expression of Interest",
+      "company": "Easygo",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-easygo-1134525",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "design",
+        "game dev",
+        "customer support",
+        "marketing",
+        "finance",
+        "scheme",
+        "ops",
+        "legal",
+        "engineer",
+        "digital nomad"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-06T00:00:31+00:00",
+      "description": "<strong>Join the Easygo Talent Community<br><br></strong>Can't find the right role? That doesn't mean there isn't one coming.<br><br>We're always on the lookout for great people and sometimes the best hires happen when the timing lines up, not when a job ad goes live. If you like what you see at Easygo but nothing on our careers page fits right now, this is your way in.<br><br><strong>What is this?<br><br></strong>This isn't a specific role. It's an open invitation to get on our radar. Submit your details and resume here and you'll be added to our talent community. When a role comes up that ma",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "0cb91d3419bd7b7db79b6b9117e77f84",
+      "title": "Head of Hiring and Training South FL",
+      "company": "7 Brew Coffee",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-hiring-and-training-south-fl-7-brew-coffee-1134543",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 20.3,
+      "stack": [
+        "education",
+        "hr",
+        "exec"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-06T00:00:00+00:00",
+      "description": "Head of Hiring and Training - 7Crew Enterprises<br><br>7Brew Coffee is searching for a Director of Hiring and Training to be based in Tampa FL.\u00c2\u00a0 We are looking for an outgoing leader who knows the brand, stands firm in our culture, great work ethic, energetic, selfless, and hard working for the betterment of the team &amp; community!! As Director of Hiring and Training you will be responsible for the following:<br><br>- Gatekeeper of 7Brew, hand selecting everyone who joins the 7Crew Family<br>- Hire 60-75 new brewistas for each new stand opening<br>- Work with HR to onboard all these individ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7c35c52400adc9c654ee205e291ff086",
+      "title": "Engineering Manager, AI Engineering: Chat",
+      "company": "Gitlab",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8603824002",
+      "source": "ats_greenhouse_gitlab",
+      "channel": "A",
+      "score": 20.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-06T20:18:19-04:00",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expect",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
