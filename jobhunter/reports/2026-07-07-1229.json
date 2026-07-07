@@ -1,0 +1,56 @@
+{
+  "run_id": "2026-07-07-1229",
+  "generated_at": "2026-07-07T12:29:15.365912Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "e4901908b498fbfb874151ae6a20e9d2",
+      "title": "Expression of Interest Transition of Candidate",
+      "company": "Accenture Australia",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-transition-of-candidate-accenture-australia-1134526",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "design",
+        "game dev",
+        "customer support",
+        "marketing",
+        "finance",
+        "scheme",
+        "ops",
+        "legal",
+        "engineer",
+        "digital nomad",
+        "recruiter"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-06T10:55:14+00:00",
+      "description": "<em>\u00e2\u0080\u009cThis role is with our CyberCX team, part of Accenture.\u00e2\u0080\u009d<br><br></em>Thank you for your interest in career opportunities with CyberCX.<br><br>As part of the transition of recruitment activities to Accenture, we would like to invite you to express your interest in having your candidate profile and application details securely transferred from the CyberCX recruitment database to Accenture's Workday recruitment platform.<br><br>Providing your consent will allow Accenture's recruitment team to consider your profile for current and future opportunities that align with your skills, experienc",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "fa61554150c9a4889c5d743f899c7a26",
+      "title": "GET",
+      "company": "Yokogawa",
+      "url": "https://remoteOK.com/remote-jobs/remote-get-yokogawa-1134535",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "testing",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-06T09:14:43+00:00",
+      "description": "<strong>Not just a job, but a career<br><br></strong>Yokogawa, award winner for \u00e2\u0080\u0098Best Asset Monitoring Technology\u00e2\u0080\u0099 and \u00e2\u0080\u0098Best Digital Twin Technology\u00e2\u0080\u0099 at the HP Awards, is a leading provider of industrial automation, test and measurement, information systems and industrial services in several industries.<br><br>Our aim is to shape a better future for our planet through supporting the energy transition, (bio)technology, artificial intelligence, industrial cybersecurity, etc. We are committed to the United Nations sustainable development goals by utilizing our ability to measure and conne",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
