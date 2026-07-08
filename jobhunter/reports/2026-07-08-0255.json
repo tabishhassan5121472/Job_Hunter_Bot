@@ -1,0 +1,126 @@
+{
+  "run_id": "2026-07-08-0255",
+  "generated_at": "2026-07-08T02:55:34.729528Z",
+  "total": 6,
+  "opportunities": [
+    {
+      "id": "db58f0a41ec846a395e85d758ddfd9e5",
+      "title": "Lifeguard",
+      "company": "Accor",
+      "url": "https://remoteOK.com/remote-jobs/remote-lifeguard-accor-1134547",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 26.3,
+      "stack": [
+        "education",
+        "customer support",
+        "exec"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-07T01:38:08+00:00",
+      "description": "<strong>Company Description<br><br></strong>\"Why work for Accor?<br><br>We are far more than a worldwide leader. We welcome you as you are and you can find a job and brand that matches your personality. We support you to grow and learn every day, making sure that work brings purpose to your life, so that during your journey with us, you can continue to explore Accor\u00e2\u0080\u0099s limitless possibilities.<br><br>By joining Accor, every chapter of your story is yours to write and together we can imagine tomorrow's hospitality. Discover the life that awaits you at Accor, visit https://careers.accor.com/<br",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e1f2aa8a7aaee2838980390775e6c2e4",
+      "title": "[HIRING] [CANADA] Looking for someone to fix my necklace for me..",
+      "company": "hungrybulimiic",
+      "url": "https://www.reddit.com/r/forhire/comments/1uq8uld/hiring_canada_looking_for_someone_to_fix_my/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 25.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-07T21:34:49+00:00",
+      "description": "[HIRING] [CANADA] Looking for someone to fix my necklace for me..\n\nImportant to note: Looking for someone within Canada. Unable to cover international shipping. I can't find any jewelry people around me willing to work on this.. My necklace is a small solid metal black plated cross that broke off the eyelet that allows a chain to connect to it. All I want is a hole drilled into it (0.4-0.6cm thick stainless steel to drill through iirc, hole should be 0.3-0.5cm diameter in order to be able to get a jump ring through it) Willing to pay upwards of 50$CAD to JUST drill the hole as it is such a sma",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "ca154b8ef39c21153516ca76404901a0",
+      "title": "Dutch Speaking Customer Service Agent For Imperial Work from Home Greece",
+      "company": "Mercier Consultancy",
+      "url": "https://remoteOK.com/remote-jobs/remote-dutch-speaking-customer-service-agent-for-imperial-work-from-home-greece-mercier-consultancy-1134545",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "consulting",
+        "work from home",
+        "customer support",
+        "c",
+        "medical",
+        "full time",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-07T00:00:08+00:00",
+      "description": "<p>Location:\u00c2\u00a0Greece (Relocation Opportunity Available)<br />Job Type:\u00c2\u00a0Full-Time (40 hours per week)</p><p></p><p>We are looking for a Dutch-Speaking Customer Service Agent to support customers on behalf of Imperial. Based remotely in Greece, you'll be responsible for answering customer enquiries via telephone, email, and live online chats.</p><p></p><p>Why Choose Greece?</p><p>Living and working in Greece offers the chance to enjoy an exceptional quality of life while advancing your career in an international environment. With its Mediterranean climate, beautiful coastline, rich history and ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b6abf955df108b98e641df203b07ecf2",
+      "title": "Spontaneous Application Saskatoon",
+      "company": "Germain H\u00c3\u00b4tels",
+      "url": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-saskatoon-germain-hotels-1134572",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 23.6,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-05T13:41:47+00:00",
+      "description": "Thank you for your <strong>spontaneous application</strong> and your interest in joining our team!<br><br>We value your information and will reach out to you if a suitable opportunity arises.<br><br>In the meantime, please visit our Career page regularly to stay informed about all our job openings, whether in one of our 19 hotel establishments, our 15 restaurants, bars, and cafes, or our two service centers across Canada.<br><br>Interested in learning more about Germain Hotels? Follow us on our various social media platforms:<br><br>On Facebook via Hotels Le Germain, Alt Hotels &amp; Escad Hot",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "4dffed1515b078e6e438a616bd4e9a21",
+      "title": "Chief of Staff",
+      "company": "Cambrium",
+      "url": "https://www.arbeitnow.com/jobs/companies/cambrium/chief-of-staff-berlin-365416",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 17.0,
+      "stack": [
+        "business development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>What we do</h2>\n<p>Cambrium is the new chemical company, engineering molecules with absolute precision to enable performance that didn't exist before. We built an AI engine that designs scalable molecules we can manufacture into performance chemicals, enabling our customers to create products that outperform.</p>\n<p><strong>We are an equal-opportunity employer and value diversity. We consider all applications equally regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. We strongly encoura",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "676a13c23b963b82959c8975fcbdb068",
+      "title": "Chief of Staff (all genders) for AI Audit Tech Startup",
+      "company": "dnl",
+      "url": "https://www.arbeitnow.com/jobs/companies/dnl/chief-of-staff-all-genders-for-ai-audit-tech-startup-berlin-358951",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 17.0,
+      "stack": [
+        "management",
+        "team leader"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>We are building software that fundamentally changes how audits are performed. Our products translate complex professional workflows into structured, intelligent systems, combining deep domain understanding with modern AI so audit teams can work more efficiently, consistently and at a higher quality level.</p>\n<p>We are a fast-growing AI company working with leading financial audit firms across Germany and beyond. As we scale, we need someone who deeply understands our customers \u2014 the world of financial audit firms \u2014 and who can sit at the center of the company, connect our teams, and turn s",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model qwen-3-235b-a22b-instruct-2507 does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
