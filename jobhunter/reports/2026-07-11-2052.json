@@ -1,0 +1,58 @@
+{
+  "run_id": "2026-07-11-2052",
+  "generated_at": "2026-07-11T20:52:57.822307Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "af8d8af1f22cfd3899824794a8dc70e5",
+      "title": "[HIRING] logo design for small business, $50",
+      "company": "ohsoaegyo",
+      "url": "https://www.reddit.com/r/forhire/comments/1uttqj4/hiring_logo_design_for_small_business_50/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-11T19:46:46+00:00",
+      "description": "[HIRING] logo design for small business, $50\n\nI'm starting up a boutique-type small business in the middle of a rural town in Mexico selling cutesy novelty things like stationary, stickers/washi tape, squishies, korean face masks, chopsticks with chopsticks rests, hand towel, house accessories like cherry shaped toilet brushes. You get the idea. I'm the only Korean person in town (besides my tween daughter) which I want to capitalize on. I'd prefer a logo mixing Korean and Mexican/yucatecan culture. I'm very open to ideas if you have any. Inspirations include Chuu Clothing, Peiliee, LoveShackF",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "3007b46d3cbab92e711db67b9479b890",
+      "title": "[Hiring] Hiring Remote Technical Talent \u2014 Client-Facing Engineering/Support Role in LATAM",
+      "company": "eaglewarrior8837",
+      "url": "https://www.reddit.com/r/forhire/comments/1utswbx/hiring_hiring_remote_technical_talent/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": 50.0,
+      "currency": "USD",
+      "posted_at": "2026-07-11T19:13:07+00:00",
+      "description": "[Hiring] Hiring Remote Technical Talent \u2014 Client-Facing Engineering/Support Role in LATAM\n\nJob Title: Technical Specialist / Technical Support Engineer Location: Remote (LATAM) Employment Type: Contract / Flexible Remote Work Compensation: $20\u2013$50/hour We are looking for a technically skilled and highly adaptable professional to join our team. This role is ideal for someone with a background in software engineering, technical support, or another technical field who enjoys communication, problem-solving, and working with clients or internal teams. Responsibilities: Communicate clearly with clie",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "31c4d24af6cd038e1e70d0c842e49764",
+      "title": "Administrative Business Partner, Office of the CEO",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/search?gh_jid=8050878",
+      "source": "ats_greenhouse_stripe",
+      "channel": "A",
+      "score": 16.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-11T16:10:04-04:00",
+      "description": "&lt;h2 id=&quot;who-we-are&quot;&gt;Who we are&lt;/h2&gt;\n&lt;h3 id=&quot;about-stripe&quot;&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world&#39;s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
