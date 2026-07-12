@@ -1,0 +1,44 @@
+{
+  "run_id": "2026-07-12-0316",
+  "generated_at": "2026-07-12T03:16:34.901766Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "bc43cc6a345486b0b97fa5791c339470",
+      "title": "You",
+      "company": "DQC | Data Quality Company",
+      "url": "https://remoteOK.com/remote-jobs/remote-you-dqc-data-quality-company-1134701",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "dev",
+        "digital nomad"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-11T02:21:56+00:00",
+      "description": "We're always open to exceptional talent...<br><br><ul><li>AI and software magicians</li><li>Business and commercial wizards</li></ul><br/><br/>Please mention the word **COMPLIANT** and tag RNjQuMjM2LjEzNS4xMTM= when applying to show you read the job post completely (#RNjQuMjM2LjEzNS4xMTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "055d10cb45c4ba85ebf22d6f358b0d99",
+      "title": "DPS Employee II",
+      "company": "Paw Paw Police Dept",
+      "url": "https://remoteOK.com/remote-jobs/remote-dps-employee-ii-paw-paw-police-dept-1134697",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-11T01:29:23+00:00",
+      "description": "The Village of Paw Paw Department of Public Services is seeking a motivated individual to join our team. This employee would perform a variety of routine tasks related to the maintenance and repair of streets, parks, sewer lines, water lines, sewer lift stations and brush and leaf pickup.<br/><br/>Please mention the word **STRONGEST** and tag RNjQuMjM2LjEzNS4xMTM= when applying to show you read the job post completely (#RNjQuMjM2LjEzNS4xMTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
