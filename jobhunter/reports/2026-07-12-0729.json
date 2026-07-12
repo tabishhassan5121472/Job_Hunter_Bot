@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-07-12-0729",
+  "generated_at": "2026-07-12T07:29:58.958328Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "41bb64731e8632bf9ec505124ceb305d",
+      "title": "[Hiring]\ud83c\udfac Looking for a Short-Form Video Editor (Paid + Long-Term)",
+      "company": "Commercial_Piano_925",
+      "url": "https://www.reddit.com/r/forhire/comments/1uu7ncs/hiring_looking_for_a_shortform_video_editor_paid/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 35.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-12T06:33:02+00:00",
+      "description": "[Hiring]\ud83c\udfac Looking for a Short-Form Video Editor (Paid + Long-Term)\n\nLooking for an editor who can create a 15\u201320 sec high-retention YouTube Shorts edit in this style: https://youtube.com/shorts/EeqnQAfqZE0 I'll provide the stream footage and VO assets. The edit should be fast-paced , use minimal voiceover , rely mostly on the original clips/audio, and match the pacing and quality of the reference. If interested, DM me with your rates and I'll send the project details. \ud83d\ude80 &#32; submitted by &#32; /u/Commercial_Piano_925 [link] &#32; [comments]",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "15da92daa4950e6727fd8ac6442fa2d6",
+      "title": "Brad Phillips",
+      "company": "MILTON FIRE DEPARTMENT INC",
+      "url": "https://remoteOK.com/remote-jobs/remote-brad-phillips-milton-fire-department-inc-1134702",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "dev",
+        "digital nomad",
+        "full time",
+        "part time"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-11T04:57:22+00:00",
+      "description": "Career FF/EMT\u00e2\u0080\u0099s<br><br>Home /<br><br>Career FF/EMT\u00e2\u0080\u0099s<br><br>Full-Time Employees<br><br>Brad Phillips<br><br>Part-Time Employees<br/><br/>Please mention the word **INNOVATIVE** and tag RMTcyLjIxNC4xNTUuMTE2 when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuMTE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "61b65a1ccfedf8ed1119a2088d3e6420",
+      "title": "Driver",
+      "company": "Urban Movers",
+      "url": "https://remoteOK.com/remote-jobs/remote-driver-urban-movers-1134721",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-10T23:16:25+00:00",
+      "description": "We are looking for new employees who can or are willing to learn how to drive 3 tonne trucks.<br><br>We are looking for experienced Truck Jockeys to join our team in Melbourne.<br><br>We are currently looking for experienced cleaners to join our Melbourne cleaning staff.<br/><br/>Please mention the word **WINNERS** and tag RMTcyLjIxNC4xNTUuMTE2 when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuMTE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
