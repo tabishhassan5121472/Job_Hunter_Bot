@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-07-12-1112",
+  "generated_at": "2026-07-12T11:12:48.295402Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "4922e184f3467045aa75f5c9665b1219",
+      "title": "[Hiring] Performance Marketing Agency Looking for International Partners (Beginners friendly)",
+      "company": "brown__bread",
+      "url": "https://www.reddit.com/r/forhire/comments/1uuc3ve/hiring_performance_marketing_agency_looking_for/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 21.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-12T10:47:48+00:00",
+      "description": "[Hiring] Performance Marketing Agency Looking for International Partners (Beginners friendly)\n\nI'm the co-founder of an India-based performance marketing agency specialising in Google Ads and Meta Ads for restaurants and hospitality businesses. We have a proven lead generation and fulfilment system in place. We're looking for individuals with basic marketing knowledge and communication skills to help us acquire clients in their local market. We already have leads. Revenue-sharing partnership on every client closed. We handle service delivery; you focus on business development and client commun",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "98d311dbbf84adde82ed4235740877ea",
+      "title": "Senior Global Integrated B2B Marketing Manager",
+      "company": "Wolt - English",
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-global-integrated-b2b-marketing-manager-berlin-121709",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 7.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2>\n<p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the globe.<br><br>Working at Wolt isn't always easy, but it's definitely exciting. Here you'll learn more,",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
