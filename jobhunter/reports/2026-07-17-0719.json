@@ -1,0 +1,55 @@
+{
+  "run_id": "2026-07-17-0719",
+  "generated_at": "2026-07-17T07:19:36.976185Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "1e37ab998540c015217babc8b9607e64",
+      "title": "COURIER",
+      "company": "Doctors Hospital",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-doctors-hospital-1134947",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 31.8,
+      "stack": [
+        "react",
+        "customer support",
+        "math",
+        "medical",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-16T00:00:00+00:00",
+      "description": "<strong>Job Summary:<br><br></strong>The Clinical Courier\u00e2\u0080\u0099s primary responsibility is to affect efficient delivery and collection of Doctors Hospital resources whether of a clinical, logistical support or human resources nature. This Associate must act as an active member of the Transport Team.<br><br><strong>Responsibilities:<br><br><br></strong><ul><li>Receive medical items and understand instructions from the healthcare facility.</li><li>Ensure that medical item/s is securely stored in the delivery vehicle.</li><li>Ensure that the documentation corresponds to each item.</li><li>Ensure tha",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b0b88fe62a317d7cf32c105a067dff46",
+      "title": "HR Assistant",
+      "company": "Sundayy",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-assistant-sundayy-1134900",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "medical",
+        "virtual assistant"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-16T05:02:12+00:00",
+      "description": "Posted 10:01:10 PM. About The CompanySparks Wiz Limited is a leading organization specializing in providing innovative\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **PEERLESS** and tag RNDAuNzguMTc3LjEwMw== when applying to show you read the job post completely (#RNDAuNzguMTc3LjEwMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
