@@ -1,0 +1,44 @@
+{
+  "run_id": "2026-07-19-1559",
+  "generated_at": "2026-07-19T15:59:54.084125Z",
+  "total": 2,
+  "opportunities": [
+    {
+      "id": "c4004e14070c2fdae72be9d3e51965e5",
+      "title": "[Hiring] AI Video Editor for short-form social content - $15/hr",
+      "company": "Low_Relationship_883",
+      "url": "https://www.reddit.com/r/forhire/comments/1v0ptdf/hiring_ai_video_editor_for_shortform_social/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": 15.0,
+      "currency": "USD",
+      "posted_at": "2026-07-19T12:52:07+00:00",
+      "description": "[Hiring] AI Video Editor for short-form social content - $15/hr\n\nLooking for a video editor to join our team, working on short-form/social style videos (ads, meme-style content, music-video style edits). What we need: Comfortable with After Effects, Premiere Pro, CapCut Bonus if you've used Higgesfield and ElevenLabs Can match pacing/style from reference videos, not just cut footage together Responsive on Slack, organized, good communication This is ongoing work, not a one-off gig. DM me for full brief &#32; submitted by &#32; /u/Low_Relationship_883 [link] &#32; [comments]",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "1bf75eec19e3647e0ae28b36e36aee89",
+      "title": "Fire Dispatcher",
+      "company": "City of Campbell River",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-dispatcher-city-of-campbell-river-1135057",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 20.3,
+      "stack": [
+        "exec",
+        "engineer"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-17T19:19:54+00:00",
+      "description": "<strong>Organization<br><br></strong>City of Campbell River<br><br><strong>Region<br><br></strong>British Columbia<br><br><strong>Application Deadline<br><br></strong>July 31, 2026<br><br><strong>Type<br><br></strong>Permanent Full Time<br><br><strong>Category<br><br></strong>Fire &amp; rescue services<br><br>Twitter Facebook Linkedin Send Save Print<br><br><strong>Description</strong> Click here to view full screen<br><br><strong>Contact<br><br></strong><strong>Email: </strong>careers@campbellriver.ca<br><br>smrtr.io/zTmfs<br><br><strong> From the same organization<br><br></strong>Director of",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
