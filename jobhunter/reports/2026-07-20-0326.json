@@ -1,0 +1,86 @@
+{
+  "run_id": "2026-07-20-0326",
+  "generated_at": "2026-07-20T03:26:42.972014Z",
+  "total": 4,
+  "opportunities": [
+    {
+      "id": "d5a3e5e5d6ffa6ddbfe4d1185616a292",
+      "title": "[Hiring] AI Video Editor \u2014 Short Property Walkthrough Videos \u2014 $15/hr",
+      "company": "certifiedomar13",
+      "url": "https://www.reddit.com/r/forhire/comments/1v18pin/hiring_ai_video_editor_short_property_walkthrough/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": 15.0,
+      "currency": "USD",
+      "posted_at": "2026-07-20T02:13:52+00:00",
+      "description": "[Hiring] AI Video Editor \u2014 Short Property Walkthrough Videos \u2014 $15/hr\n\nLooking for someone comfortable with AI image-to-video tools (Kling, Runway, Luma, or similar) to help me create short walkthrough-style videos from property photos. What the job involves: I'll send you 5-7 photos of a property (interior/exterior shots) You'll run them through an AI image-to-video tool to create short clips (camera pans/push-ins, realistic motion) Stitch the clips together into one smooth 25-35 second walkthrough video with light music/captions Deliver as an MP4 Pay: $15/hr, paid per video (should take unde",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e0ad6f27972b42f1905c759d399ba612",
+      "title": "SU Administrative Assistant",
+      "company": "Somewhere",
+      "url": "https://remoteOK.com/remote-jobs/remote-su-administrative-assistant-somewhere-1135041",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "virtual assistant",
+        "full time"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-19T03:08:05+00:00",
+      "description": "Role DescriptionThis is a full-time remote role for an Administrative Assistant at a growing\u00e2\u0080\u00a6<br/><br/>Please mention the word **UNABASHED** and tag RNjQuMjM2LjE0MC4xNzk= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4xNzk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5f47c618a57117bcb9f6af418b16c188",
+      "title": "Graphic Designer",
+      "company": "DOSED",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "design",
+        "game dev",
+        "designer",
+        "content writing",
+        "photoshop",
+        "full time",
+        "digital nomad"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-18T21:27:25+00:00",
+      "description": "Full-Time<br><br><ul><li> RemotePay discussed on callApply now\u00e2\u0086\u0093<br><br></li></ul>You'll design Instagram + LinkedIn carousels, ad creatives, and brand visuals for two brands \u00e2\u0080\u0094 DOSED (D2C) and Merkle Labs (B2B).<br><br>If you can name 3 D2C brands whose carousel game you respect \u00e2\u0080\u0094 and explain why \u00e2\u0080\u0094 this is your role.<br><br>01<br><br>\u00e2\u0084\u0096 01<br><br>What You'll Do<br><br><ul><li>Ship 3\u00e2\u0080\u00935 carousels a week (Instagram + LinkedIn)</li><li>Design ad creatives that perform \u00e2\u0080\u0094 we measure CTR and conversions, not just likes</li><li>Build out brand visual systems we can scale (templates that do",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "114a5d4ed6eccf9a75b08c6405fa0c6e",
+      "title": "[Hiring] Cold lead provider 15$/hr + uncappped",
+      "company": "Fit_Economist_9936",
+      "url": "https://www.reddit.com/r/forhire/comments/1v13vs9/hiring_cold_lead_provider_15hr_uncappped/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 21.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-19T22:36:41+00:00",
+      "description": "[Hiring] Cold lead provider 15$/hr + uncappped\n\nI run a video editing company and need clientele, every client you bring me I give you about 10-25% in comiss + a base salary in the future if you generate sustainable leads. &#32; submitted by &#32; /u/Fit_Economist_9936 [link] &#32; [comments]",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
