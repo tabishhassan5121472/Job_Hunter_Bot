@@ -1,0 +1,60 @@
+{
+  "run_id": "2026-07-26-0737",
+  "generated_at": "2026-07-26T07:37:27.700092Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "ba3e87b8e99635e0aa99fb5e6b2f9b25",
+      "title": "[Hiring] Remote Assistant Needed",
+      "company": "_depression101",
+      "url": "https://www.reddit.com/r/forhire/comments/1v6tgh3/hiring_remote_assistant_needed/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": 15.0,
+      "currency": "USD",
+      "posted_at": "2026-07-26T04:23:22+00:00",
+      "description": "[Hiring] Remote Assistant Needed\n\nHi! I'm in need of a remote assistant. Pay is $15/hr, on a task by task basis. Some tasks may include: \\- Culling photos for real estate photography \\- Customer outreach. For drafting services in the AEC industry, and for real estate photography \\- Social media posts \\- Small odds and ends / random tasks Experience aligned with any of these is certainly great, but the main thing I'm looking for is someone to take the initiative and put in effort, and figure out tasks. If that sounds like you, please shoot me a message with your rate, timezone. &#32; submitted ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "518a70316f8027811ac8c0924cdf1c00",
+      "title": "Operations Specialist",
+      "company": "Sezzle",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-specialist-sezzle-1135398",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 29.3,
+      "stack": [
+        "ops"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-25T05:10:06+00:00",
+      "description": "Posted 2:47:28 AM. The salary range for this role is $1.800 - $2.700 per month (Gross in USD)About Sezzle:With a\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **ENJOYS** and tag RMjAuNDYuMjM5LjE3Ng== when applying to show you read the job post completely (#RMjAuNDYuMjM5LjE3Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e7536d0e86c00b90e0c91bda68c4de0d",
+      "title": "Neg\u00c3\u00b3cios Analista de Solu\u00c3\u00a7\u00c3\u00b5es de Neg\u00c3\u00b3cios J\u00c3\u00banior",
+      "company": "TOTVS",
+      "url": "https://remoteOK.com/remote-jobs/remote-negocios-analista-de-solucoes-de-negocios-junior-totvs-1135397",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-25T05:03:57+00:00",
+      "description": "Garantir a governan\u00c3\u00a7a e a integridade sist\u00c3\u00aamica do portf\u00c3\u00b3lio de ofertas dos\u00e2\u0080\u00a6<br/><br/>Please mention the word **ADVENTURESOME** and tag RMjAuNDYuMjM5LjE3Ng== when applying to show you read the job post completely (#RMjAuNDYuMjM5LjE3Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
