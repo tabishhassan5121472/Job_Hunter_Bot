@@ -1,0 +1,105 @@
+{
+  "run_id": "2026-07-26-1121",
+  "generated_at": "2026-07-26T11:21:47.771414Z",
+  "total": 5,
+  "opportunities": [
+    {
+      "id": "3004a7fc685c9dacfea8054acfa5f4a9",
+      "title": "[Hiring] Looking for Turnitin or iThenticate subscription",
+      "company": "RuleAffectionate1100",
+      "url": "https://www.reddit.com/r/forhire/comments/1v70v1q/hiring_looking_for_turnitin_or_ithenticate/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-26T11:07:07+00:00",
+      "description": "[Hiring] Looking for Turnitin or iThenticate subscription\n\nWe are looking for someone with an active Turnitin or iThenticate subscription to check the similarity report of our research manuscript/paper. (rate: $2 or PHP 100) Requirements: Active Turnitin or iThenticate account Able to provide the full similarity report Can complete the check promptly If interested, please send me a message with your rate and turnaround time . Thank you! &#32; submitted by &#32; /u/RuleAffectionate1100 [link] &#32; [comments]",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "17e0ac2962d26154c76db698aa187a59",
+      "title": "[Hiring] Part-Time Bakery Operations Assistant",
+      "company": "mdulcio98",
+      "url": "https://www.reddit.com/r/forhire/comments/1v6z0qy/hiring_parttime_bakery_operations_assistant/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": 15.0,
+      "currency": "USD",
+      "posted_at": "2026-07-26T09:27:57+00:00",
+      "description": "[Hiring] Part-Time Bakery Operations Assistant\n\nI'm looking for someone to help grow the customer base for my home bakery. This is a part-time opportunity with an opportunity for more hours as the business grows. Pay: $15/hour Hours: 5 - 10 hours per week (flexible schedule) What You'll Help With Create engaging Facebook and Instagram content Design graphics and marketing materials using Canva Edit short-form videos and reels for social media Help maintain and update our website (Squarespace or Shopify experience preferred) Assist with rebuilding and organizing our online ordering system Help ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b12b8391fcffe7f34da06bef14c4b3d5",
+      "title": "Caretaker",
+      "company": "Discovery Parks",
+      "url": "https://remoteOK.com/remote-jobs/remote-caretaker-discovery-parks-1135429",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 28.6,
+      "stack": [
+        "marketing",
+        "travel",
+        "exec",
+        "ops"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-24T07:00:58+00:00",
+      "description": "<strong>About Us<br><br></strong>G\u00e2\u0080\u0099day Group is the undisputed leader in regional travel, with over 90 properties across Australia\u00e2\u0080\u0099s most sensational destinations. We have a range of the best accommodation to bring people, places, and communities closer together.<br><br><strong>About The Role<br><br></strong>Your responsibilities will include, but not be limited to:<br><br><ul><li>Delivering exceptional guest experience</li><li>Front Office administration</li><li>Upkeep of grounds and gardens</li><li>Maintenance tasks across all park assets and facilities</li><li>Ensure the Park is complia",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "378396ae0dc64041ad0ac8e4e3583eba",
+      "title": "Architect CAD & Construction Documentation",
+      "company": "YO IT Consulting",
+      "url": "https://remoteOK.com/remote-jobs/remote-architect-cad-construction-documentation-yo-it-consulting-1135405",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "video",
+        "content writing",
+        "consulting",
+        "architecture"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-25T09:13:59+00:00",
+      "description": "Job DescriptionRole Title: Architect CAD & Construction DocumentationRole Type: ContractLocation:\u00e2\u0080\u00a6<br/><br/>Please mention the word **MERCIFUL** and tag RNDAuMTE2LjkyLjExMg== when applying to show you read the job post completely (#RNDAuMTE2LjkyLjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d1f8a9e8a1983ddc089bcf2891d54da4",
+      "title": "Content Producer",
+      "company": "DesignMeshAI",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-producer-designmeshai-1135404",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "video",
+        "content writing"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-25T09:11:22+00:00",
+      "description": "Video Producers & EditorsRole SummaryAs a Video Producer, you will create, review, and evaluate\u00e2\u0080\u00a6See this and similar jobs on LinkedIn.<br/><br/>Please mention the word **UNMATCHED** and tag RNDAuMTE2LjkyLjExMg== when applying to show you read the job post completely (#RNDAuMTE2LjkyLjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
