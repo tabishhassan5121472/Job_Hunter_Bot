@@ -1,0 +1,60 @@
+{
+  "run_id": "2026-07-26-1603",
+  "generated_at": "2026-07-26T16:03:39.941614Z",
+  "total": 3,
+  "opportunities": [
+    {
+      "id": "1f1ecf5561a8d80429113be0764128fe",
+      "title": "[HIRING] College Ambassadors",
+      "company": "Live-Fox-5354",
+      "url": "https://www.reddit.com/r/forhire/comments/1v75pdb/hiring_college_ambassadors/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-26T14:39:40+00:00",
+      "description": "[HIRING] College Ambassadors\n\nHey! We're looking for a few students \u2014 ideally in CS, Data Engineering, or Data Analytics \u2014 to help spread the word about a data course on their campus. Basically what you'd do: Post about it in your class groups, Discord servers, WhatsApp chats, whatever channels you're already in Hype it up to classmates who might be into it If you're feeling ambitious, maybe help run a quick info session (totally optional) Why do it: $20-30 per student who actually enrolls through you \u2014 easy money if you've got a solid network Zero pressure on hours, just plug it whenever Soli",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "fa60ecf99f6c3c91dfccf0afef2291fa",
+      "title": "THOUGHTFUL NAVIGATOR",
+      "company": "Heather Hill Coaching &amp; Consultancy",
+      "url": "https://remoteOK.com/remote-jobs/remote-thoughtful-navigator-heather-hill-coaching-amp-consultancy-1135412",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "consulting"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-25T15:35:58+00:00",
+      "description": "You\u00e2\u0080\u0099re dependable, diligent, and ready to be seen for more than just being a safe pair of hands. You\u00e2\u0080\u0099re looking for ways to stretch your comfort zone and shape how others see you - without having to shout.<br/><br/>Please mention the word **COURTLY** and tag RMTMuODMuMTYxLjgz when applying to show you read the job post completely (#RMTMuODMuMTYxLjgz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a955e27abbd577a77afe53e60234237c",
+      "title": "[Hiring] Outreach Expert for AI UGC Agency",
+      "company": "Best-Beautiful-3325",
+      "url": "https://www.reddit.com/r/forhire/comments/1v72uxo/hiring_outreach_expert_for_ai_ugc_agency/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 21.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-26T12:42:32+00:00",
+      "description": "[Hiring] Outreach Expert for AI UGC Agency\n\nHey! We run an AI UGC agency and we're looking for someone who's genuinely good at outreach to help us land more clients. Here's what the role looks like: Hunt down brands that'd actually benefit from AI UGC content Slide into their DMs / inbox ( Instagram, LinkedIn, email) wherever works Get conversations going and figure out who's actually interested Book calls with the solid leads Log everything in a simple sheet/CRM so we're not losing track of anyone Who we want: You've done cold outreach, sales, or lead gen before (even informally) Bonus if you",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
