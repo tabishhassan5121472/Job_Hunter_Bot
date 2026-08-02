@@ -1,0 +1,387 @@
+{
+  "run_id": "2026-08-02-2058",
+  "generated_at": "2026-08-02T20:58:22.951004Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "f041e6b74718aa09d823384854026892",
+      "title": "Full-Stack Engineer",
+      "company": "Wheely",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/full-stack-engineer-london-149631",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 74.0,
+      "stack": [
+        "frontend"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Wheely&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deliver an experience trusted by more than 100,000 active riders and 1,200 corporate accounts.&lt;/p&gt;\n&lt;p&gt;We\u2019re a profitable, fast-growing scale-up with $43M raised and over $100M in annual revenue. Having recently launched in New York City, we\u2019re expanding rapidly across the US and EMEA. If you",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a23da3735fdc141bb37be2f9da3dd76b",
+      "title": "UX designer at HRtechX",
+      "company": "Hrtechx",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ux-designer-at-hrtechx-london-344430",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 33.5,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;Package: \u00a325,000 - \u00a332,000 (depending on experience)&lt;/p&gt;\n&lt;h2&gt;Description&lt;/h2&gt;\n&lt;p&gt;Insurtech Insights is a global insurance media company that connects executives, entrepreneurs and investors looking to build the future of insurance. We\u2019ve launched and scaled large-scale conferences across the world and are currently expanding into digital media as part of our long-term strategy to leverage our network and offer new services for the industry.&lt;/p&gt;\n&lt;p&gt;We thrive on creating work that brings people together, united by the power of human connection. We har",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9f54d5b65a0d6b79d7a2586a00d2d5ee",
+      "title": "UX Designer at United Media",
+      "company": "Unitedmedia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ux-designer-at-united-media-london-437411",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 33.5,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;h2&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;United Media focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. As of today, we have organically launched 8 media companies and acquired one. (Insurtech Insights, Presidents Summit, Private Equity Insights, HRtechX, CFO insights, Retail Insights and SetSales)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We thrive on creating work that brings people together, u",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "2d4e0425fe88abbb1cf44d8ff2d56f53",
+      "title": "Wordpress Web Developer at HRtechX",
+      "company": "Hrtechx",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/wordpress-web-developer-at-hrtechx-london-57774",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Wordpress Web Developer.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;HRtechX is a world leading HRtech community, connecting industry executives, entrepreneurs and professionals. We are a start-up on a growth journey ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "fc5b6a087f6bf48285866c77be0541f8",
+      "title": "Marketing Chief at HRTechX",
+      "company": "Hrtechx",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/marketing-chief-at-hrtechx-london-81673",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Marketing Chief.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;HRtechX is a world leading HRtech community, connecting industry executives, entrepreneurs and profe",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6964ffa52fd14240164c13eedc824ee7",
+      "title": "Chief Marketing Officer at HRTechX",
+      "company": "Hrtechx",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/chief-marketing-officer-at-hrtechx-london-106106",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Chief Marketing Officer&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:2563,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "96a7330633e9ee270631683bfce4d472",
+      "title": "Chief Growth Officer at HRTechX",
+      "company": "Hrtechx",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/chief-growth-officer-at-hrtechx-london-266739",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Chief Marketing Officer&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:2563,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7c40194eb5ecfe964cd5d5e0d2b03efd",
+      "title": "Chief Commercial Officer at HRTechX",
+      "company": "Hrtechx",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/chief-commercial-officer-at-hrtechx-london-382559",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Chief Marketing Officer&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:2563,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "41843faf813c6f3843eeb1e30570b4f0",
+      "title": "Wordpress Web Developer at United Media",
+      "company": "Unitedmedia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/wordpress-web-developer-at-united-media-london-15527",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Wordpress Web Developer.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;United Media (&lt;a href=&quot;https://www.united-media.com/&quot; target=&quot;_blank&quot;&gt;https://www.united-media.com/&lt;/a&gt;) focuses on ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e050d2a9e8844f90480e9eb6b9e32a0a",
+      "title": "Marketing Chief at United Media",
+      "company": "Unitedmedia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-chief-at-united-media-london-307106",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Marketing Chief.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;United Media (https://www.united-media.com/) which focuses on building large scale industry media an",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "68fb6204239be8646e7fdd35e1ef0965",
+      "title": "Chief Marketing Officer at United Media",
+      "company": "Unitedmedia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/chief-marketing-officer-at-united-media-london-166726",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Chief Marketing Officer&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:2563,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "857d454d2a2e0d41d8674bfe10cb9133",
+      "title": "Chief Growth Officer at United Media",
+      "company": "Unitedmedia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/chief-growth-officer-at-united-media-london-127237",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Chief Marketing Officer&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:2563,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "747e6480b20cced576ae46dc8f384785",
+      "title": "Chief Commercial Officer at United Media",
+      "company": "Unitedmedia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/chief-commercial-officer-at-united-media-london-275312",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Chief Marketing Officer&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:2563,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7d5bff97f8ace275a291d7ad260be90f",
+      "title": "(Senior) Backend Engineer, Marketplace",
+      "company": "Wheely",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-marketplace-london-294207",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 29.0,
+      "stack": [
+        "backend"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Wheely&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deliver an experience trusted by more than 100,000 active riders and 1,200 corporate accounts.&lt;/p&gt;\n&lt;p&gt;We\u2019re a profitable, fast-growing scale-up with $43M raised and over $100M in annual revenue. Having recently launched in New York City, we\u2019re expanding rapidly across the US and EMEA. If you",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9a21e74f241ffb46b6a6b782a06265bd",
+      "title": "(Senior) Backend Engineer, Maps",
+      "company": "Wheely",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/senior-backend-engineer-maps-london-31539",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 29.0,
+      "stack": [
+        "backend"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Wheely&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deliver an experience trusted by more than 100,000 active riders and 1,200 corporate accounts.&lt;/p&gt;\n&lt;p&gt;We\u2019re a profitable, fast-growing scale-up with $43M raised and over $100M in annual revenue. Having recently launched in New York City, we\u2019re expanding rapidly across the US and EMEA. If you",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "2c78b74971369c22fdba3693e2c4ce7b",
+      "title": "Data Scientist",
+      "company": "Wheely",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/data-scientist-london-374113",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 29.0,
+      "stack": [
+        "data science"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Wheely&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deliver an experience trusted by more than 100,000 active riders and 1,200 corporate accounts.&lt;/p&gt;\n&lt;p&gt;We\u2019re a profitable, fast-growing scale-up with $43M raised and over $100M in annual revenue. Having recently launched in New York City, we\u2019re expanding rapidly across the US and EMEA. If you",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5bbcfe3848e277f14ae4dfab68a0fec4",
+      "title": "Working Student - Technical Support (m/f/d)",
+      "company": "Voize",
+      "url": "https://www.arbeitnow.com/jobs/companies/voize/working-student-technical-support-berlin-384293",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [
+        "customer support"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>\ud83c\udfa4 Why voize? Because we're more than just a job!</strong></h2><p style=\"min-height:1.5em\">voize is building AI companions for Europe's nurses - today, 200,000+ users rely on us every shift, and we're just getting started. We're a Berlin-based scaleup with $50M in Series A backing and the ambition to match, built by a team that cares. If you're driven, want to contribute to real impact, and thrive in an environment that moves quickly, we'd love to meet you.</p><p style=\"min-height:1.5em\"></p><h2><strong>\ud83d\udca1 Your Mission: Keep 1,000+ care facilities running</strong></h2><p style=\"min-h",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "55156ce86366baf444c177d97ffb3eb5",
+      "title": "Working Student - Customer Support (m/f/d)",
+      "company": "Voize",
+      "url": "https://www.arbeitnow.com/jobs/companies/voize/working-student-customer-support-hamburg-58560",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [
+        "customer support"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>\ud83c\udfa4 Why voize? Because we're more than just a job!</strong></p><p style=\"min-height:1.5em\">voize is building AI companions for Europe's nurses - today, 200,000+ users rely on us every shift, and we're just getting started. We're a Berlin-based scaleup with $50M in Series A backing and the ambition to match, built by a team that cares. If you're driven, want to contribute to real impact, and thrive in an environment that moves quickly, we'd love to meet you.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>\ud83d\udca1 Your Mission: Own inbound suppo",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "2b101ef87688fdbea7e4c834be1686c0",
+      "title": "Working Student - Recruiting (Volume Hiring)",
+      "company": "Voize",
+      "url": "https://www.arbeitnow.com/jobs/companies/voize/working-student-recruiting-volume-hiring-berlin-391992",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [
+        "operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>\ud83c\udfa4 Why voize? Because we're more than just a job!</h2><p style=\"min-height:1.5em\">voize is building AI companions for Europe's nurses - today, 200,000+ users rely on us every shift, and we're just getting started. We're a Berlin-based scaleup with $50M in Series A backing and the ambition to match, built by a team that cares. If you're driven, want to contribute to real impact, and thrive in an environment that moves quickly, we'd love to meet you.</p><p style=\"min-height:1.5em\"></p><h2><strong>\ud83d\udca1 Your Mission: Keep our hiring engine running</strong></h2><p style=\"min-height:1.5em\">As <stron",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f58c24a8739080329f08932e1edb2890",
+      "title": "Director of Marketing at HRTechX",
+      "company": "Hrtechx",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/director-of-marketing-at-hrtechx-london-196177",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Director of Marketing.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;HRtechX is a world leading HRtech community, connecting industry executives, entrepreneurs and",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
