@@ -1,0 +1,362 @@
+{
+  "run_id": "2026-08-02-1118",
+  "generated_at": "2026-08-02T11:18:11.346165Z",
+  "total": 18,
+  "opportunities": [
+    {
+      "id": "c22d05ce28ae52dd5eef5276976b4b93",
+      "title": "Full Stack AI Builder",
+      "company": "Fleek",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/full-stack-ai-builder-london-367",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 82.5,
+      "stack": [
+        "technology"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1><strong>Can you help us fix the world's most broken supply chain?</strong></h1><p style=\"min-height:1.5em\">The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain for getting secondhand fashion from donation to resale is completely offline, manual, and broken.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Fleek is fixing this. Our mission is to make secondhand the first choice. We're building the infrastructure powering the global secondhand clothing trade, through a B",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e552f538720f34a63216b74bde2122c3",
+      "title": "Account Executive",
+      "company": "Fleek",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/account-executive-london-479691",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "commercial"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>Can you help us fix the world's most broken supply chain?</strong></h2><p style=\"min-height:1.5em\">The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain for getting secondhand fashion from donation to resale is completely offline, manual, and broken.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Fleek is fixing this. Our mission is to make secondhand the first choice. We're building the infrastructure powering the global secondhand clothing trade, through a B",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "294afe142c557a2b7527276232c13f02",
+      "title": "Full Stack Finance Builder",
+      "company": "Fleek",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/full-stack-finance-builder-london-114665",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "finance"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>Can you help us fix the world's most broken supply chain?</strong></h2><p style=\"min-height:1.5em\">The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain for getting secondhand fashion from donation to resale is completely offline, manual, and broken.</p><p style=\"min-height:1.5em\">Fleek is fixing this. <strong>Our mission is to make secondhand the first choice.</strong> We're building the infrastructure powering the global secondhand clothing trade, through a B2B marketplace ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b1e37b7fe426ef88abcb0d813b859c26",
+      "title": "Head of Controllership",
+      "company": "Fleek",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/head-of-controllership-london-66997",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "finance"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>Can you help us fix the world's most broken supply chain?</strong></h2><p style=\"min-height:1.5em\">The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain for getting secondhand fashion from donation to resale is completely offline, manual, and broken.</p><p style=\"min-height:1.5em\">Fleek is fixing this. <strong>Our mission is to make secondhand the first choice.</strong> We're building the infrastructure powering the global secondhand clothing trade, through a B2B marketplace ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b63ecd9572578bf2ab0d052b4f08a96f",
+      "title": "VP People",
+      "company": "Fleek",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/vp-people-london-493966",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "people"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Can you help us fix the world's most broken supply chain?</strong></p><p style=\"min-height:1.5em\">The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain for getting secondhand fashion from donation to resale is completely offline, manual, and broken.</p><p style=\"min-height:1.5em\">Fleek is fixing this. Our mission is to make secondhand the first choice. We're building the infrastructure powering the global secondhand clothing trade, through a B2B market",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e6cfee955ba1cdc6f48e939a79265d4d",
+      "title": "Commercial Director",
+      "company": "Fleek",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/commercial-director-london-146716",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "commercial"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Can you help us fix the world's most broken supply chain?</strong></p><p style=\"min-height:1.5em\">The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain for getting secondhand fashion from donation to resale is completely offline, manual, and broken.</p><p style=\"min-height:1.5em\">Fleek is fixing this. Our mission is to make secondhand the first choice. We're building the infrastructure powering the global secondhand clothing trade: a B2B marketplace an",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "8837e2d26202acaa17344afd79c75c26",
+      "title": "VP Finance",
+      "company": "Fleek",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/vp-finance-london-120975",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "finance"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Can you help us fix the world\u2019s most broken supply chain?</strong></p><p style=\"min-height:1.5em\">The fashion industry produces over 100 billion garments a year. 60% end up in landfill \u2014 not because people don\u2019t want these clothes, but because the supply chain for getting secondhand fashion from donation to resale is completely offline, manual, and broken.</p><p style=\"min-height:1.5em\">Fleek is fixing this. Our mission is to make secondhand the first choice. We\u2019re building the infrastructure powering the global secondhand clothing trade \u2014 through a B2B mark",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "8230c42e8011b06228f3447eeb363630",
+      "title": "Engineering Productivity Engineer",
+      "company": "Supabase",
+      "url": "https://jobs.ashbyhq.com/supabase/8229db66-dc3f-4ffe-8d86-90ce9ffb4c90",
+      "source": "ats_ashby_supabase",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-02T10:39:06.516000+00:00",
+      "description": "About Supabase   Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.     About the Role   We\u2019re looking for an EngProd Engineer to join our Engineering Operations team and own the engineering experience from local setup to production deploy. You\u2019ll build and integrate the tools our engineers rely on every day: local development, code search, testing, code review, CI, AI-assisted workflow",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e9b21c32fdb3192537ea6ac0a7c4525a",
+      "title": "Venture Builder | HealthTech (London)",
+      "company": "Founders Factory",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/founders-factory/venture-builder-healthtech-london-477287",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "ff operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3><strong>\ud83d\udc4b Hey, we're Founders Factory</strong></h3><p style=\"min-height:1.5em\">Founders Factory builds and funds startups together with exceptional entrepreneurs and the world's leading companies. Headquartered in London and operating globally, Founders Factory backs visionary founders with capital, dedicated support from a team of expert operators, and unrivalled access to a coalition of industry leading corporate partners. Since 2015, FF has backed 450+ portfolio companies helping them to secure over 500 enterprise pilots with blue chip corporate partners such as Aviva, Northwestern Medi",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "3fa2142c0eb1e931548a321ec1a1a0a5",
+      "title": "Programme Coordinator",
+      "company": "Founders Factory",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/founders-factory/programme-coordinator-london-69713",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [
+        "ff operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">As we scale the Founders Factory model across new sectors and internationally we are seeking an enthusiastic, self-starter to help us manage the delivery of our programmes and events. This role will sit at the centre of our Studio and Accelerator operations, supporting ventures and their founders as they move through our programmes. You'll be responsible for the administrative duties, operations and the execution of the program once new investments have been made: onboarding new founders, scheduling new programmes, coordinating events, capturing feedback, and monito",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "277860084727a4a29dd27244bdaf2642",
+      "title": "UNC",
+      "company": "LiveSomeWhere",
+      "url": "https://remoteOK.com/remote-jobs/remote-unc-livesomewhere-1135777",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "education",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-01T10:25:58+00:00",
+      "description": "Vip section is displayed first, it is only after site navigations such as menus and core links. Interested in advertising? Feel free to email Vip @at LiveSomeWhere.com<br/><br/>Please mention the word **PLEASURABLY** and tag RNDguMjE3LjU0Ljgy when applying to show you read the job post completely (#RNDguMjE3LjU0Ljgy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9aad1a4eaf81950e8f4e4c23bc634228",
+      "title": "ROCHESTER",
+      "company": "LiveSomeWhere",
+      "url": "https://remoteOK.com/remote-jobs/remote-rochester-livesomewhere-1135779",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "education",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-01T10:24:10+00:00",
+      "description": "Vip section is displayed first, it is only after site navigations such as menus and core links. Interested in advertising? Feel free to email Vip @at LiveSomeWhere.com<br/><br/>Please mention the word **COMPASSION** and tag RNDguMjE3LjU0Ljgy when applying to show you read the job post completely (#RNDguMjE3LjU0Ljgy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "34b68bc4292a5ed787216e026f83e6d5",
+      "title": "Elite",
+      "company": "Social Value, Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-elite-social-value-inc-1135776",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "education",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-01T10:08:24+00:00",
+      "description": "<ul><li>Full access to modern training facilities</li><li>Use of cardio + weight equipment</li><li>Locker room access</li><li>Monthly guest pass</li></ul><br/><br/>Please mention the word **HEARTEN** and tag RNDguMjE3LjU0Ljgy when applying to show you read the job post completely (#RNDguMjE3LjU0Ljgy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d34a24fa7567873aa5862ef3d300ff9d",
+      "title": "Basic",
+      "company": "Social Value, Inc.",
+      "url": "https://remoteOK.com/remote-jobs/remote-basic-social-value-inc-1135775",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "education",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-01T10:08:16+00:00",
+      "description": "<ul><li>Full access to modern training facilities</li><li>Use of cardio + weight equipment</li><li>Locker room access</li><li>Monthly guest pass</li></ul><br/><br/>Please mention the word **STRIKINGLY** and tag RNDguMjE3LjU0Ljgy when applying to show you read the job post completely (#RNDguMjE3LjU0Ljgy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "8bfc9688469eebc03d715f5c4846e9f2",
+      "title": "Phone Support Specialist Arabic",
+      "company": "Revolut",
+      "url": "https://remoteOK.com/remote-jobs/remote-phone-support-specialist-arabic-revolut-1135905",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 24.3,
+      "stack": [
+        "data entry",
+        "infosec",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "admin",
+        "microsoft",
+        "exec",
+        "content writing",
+        "ops",
+        "excel"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-07-31T11:18:53+00:00",
+      "description": "<p><strong>About the role</strong></p><p>Our Customer Support team is the first point of contact for millions around the world, delivering fast, thoughtful help when it matters most. They're the voice of our customers, working closely with product teams to improve experiences and keep wow-level service at the heart of Revolut.</p><p>We\u00e2\u0080\u0099re looking for an Arabic-speaking Support Specialist to take ownership of customer issues, think deeper to find solutions, and contribute to the way we support our customers every day.</p><p><br></p><p>To support our 24/7 coverage, this role may include night ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "ed1bdc8788cca2e493119f4d0117d01c",
+      "title": "Ex-YC Founder",
+      "company": "Fleek",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/ex-yc-founder-london-390859",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 22.0,
+      "stack": [
+        "technology"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Reality check:</strong> Something didn't work out? We get it. We're looking for founders who still have that fire and want to join something that's still early but some things are already working.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Opportunity:</strong> We serve thousands of resellers and retailers across the UK, Europe, and the US. With the secondhand fashion market projected to reach $350B by 2027, Fleek is building the AI-native operational and financial backbone for secondhand commerce globally.</p><p style=\"min-height",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "546fb619bb9ab6e582d4241be77f61a0",
+      "title": "Staff Data Governance (all genders)",
+      "company": "Gropyus",
+      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/staff-data-governance-all-genders-berlin-berlin-268577",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 7.0,
+      "stack": [
+        "data language"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite construction, and fully digitalized processes, the company manufactures aspirational, sustainable, and affordable homes using timber construction methods. GROPYUS is using scalable construction and manufacturing solutions to tap into a future market, boost Europe&#39;s strength in in",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d2796321db06b47dcb3054e86eab96fd",
+      "title": "Member of Technical Staff (DevOps / Platform Engineer)",
+      "company": "Ineffable",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ineffable/member-of-technical-staff-devops-platform-engineer-london-221832",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 7.0,
+      "stack": [
+        "technical staff"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">We are recruiting a DevOps / Platform Engineer to join us in our London office.</p><p style=\"min-height:1.5em\"><br /></p><p style=\"min-height:1.5em\">Our mission is to <strong>make first contact with superintelligence.</strong></p><p style=\"min-height:1.5em\">We are creating a superlearner that discovers all knowledge from its own experience, from elementary motor skills through to profound intellectual breakthroughs. This superlearning capability - the ability to endlessly discover knowledge and skills, without relying on human data - will be driven by the world\u2019s mo",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
