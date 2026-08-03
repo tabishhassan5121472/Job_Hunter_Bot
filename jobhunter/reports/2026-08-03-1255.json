@@ -1,0 +1,405 @@
+{
+  "run_id": "2026-08-03-1255",
+  "generated_at": "2026-08-03T12:55:48.507453Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "d624309fda890abb8e2515960c7bd5d9",
+      "title": "Engineering Manager-Database Reliability",
+      "company": "Wave",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wave/engineering-manager-database-reliability-london-27339",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 67.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<div class=\"content-intro\"><h2>Our mission</h2>\n<p>We're making Africa the first cashless continent.</p>\n<p>In 2017, over half the population in Sub-Saharan Africa had no bank account. That's for good reason\u2014the fees are too high, the closest branch can be miles away, and nobody takes cards. Without access to financial institutions, people are forced to keep their savings under the mattress. Small business owners rely on lenders who charge extortionate rates. Parents spend hours waiting in line to pay school fees in cash.</p>\n<p>We're solving this by building financial services that just work:",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d788bbd9fa956664b1745c81d80cc692",
+      "title": "Product Designer",
+      "company": "Ceartas",
+      "url": "https://www.arbeitnow.com/jobs/companies/ceartas/product-designer-berlin-189214",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 51.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">At <strong>Ceartas</strong>, we stand at the forefront of AI-powered brand protection, copyright law, and digital security, dedicated to safeguarding the integrity of content creators, brands, and enterprises worldwide. As we accelerate our growth and expand our global footprint, we're seeking a <strong>Mid-Level UX/UI Designer</strong> who is passionate about crafting intuitive and engaging user experiences and contributing to our design system and product innovation.</p><p style=\"min-height:1.5em\">This role is a unique opportunity to make a significant impact on t",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "3323e303b5518ac6fc91072307b2af97",
+      "title": "Campus UI Software Engineer (Intern)",
+      "company": "Jumptrading",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-ui-software-engineer-intern-london-417728",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 51.0,
+      "stack": [
+        "core development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply&amp;nbsp;cutting edge&amp;nbsp;research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by&amp;nbsp;incenting&amp;nbsp;collaboration and mutual respect. At Jump, rese",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "aa8ed6380ce082afc2b46bf6aaf5463c",
+      "title": "Senior CRM Manager - Automations",
+      "company": "LemFi",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/senior-crm-manager-automations-london-336088",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.5,
+      "stack": [
+        "growth"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">LemFi (Series B) is building the go-to financial app for the Global South.</p><p style=\"min-height:1.5em\"><br />Moving to a new country shouldn\u2019t mean starting from zero. That's why our team of 400+ spanning 20+ countries is building a financial ecosystem that helps immigrants stay connected to home, build stability, and create wealth regardless of where they are from or where they live.</p><p style=\"min-height:1.5em\"><br />What began as fast, affordable remittances is now evolving into a complete platform for multi-currency accounts, payments, credit, and long-term",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7a238138c2352985c0ca7841d6b0d21c",
+      "title": "DACH Channel Sales Manager",
+      "company": "Plaud",
+      "url": "https://www.arbeitnow.com/jobs/companies/plaud/dach-channel-sales-manager-berlin-germany-353940",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "global commercial operation center"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About Plaud Inc.</strong></p><p style=\"min-height:1.5em\">Plaud is building the real-world AI interface for professionals to amplify intelligence, elevate productivity and performance, loved by over 2,000,000 users worldwide since 2023. With a mission to amplify human intelligence, Plaud captures, structures, and compounds the intelligence generated in conversations \u2014 so humans can think better, decide faster, and execute with clarity.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Plaud Inc. is a Delaware-incorporated, San Francisco-based com",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "95a58c71d3d1ef20641d7a17a2743386",
+      "title": "DACH Channel Sales Manager",
+      "company": "Plaud",
+      "url": "https://www.arbeitnow.com/jobs/companies/plaud/dach-channel-sales-manager-berlin-germany-373094",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "global commercial operation center"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About Plaud Inc.</strong></p><p style=\"min-height:1.5em\">Plaud is building the real-world AI interface for professionals to amplify intelligence, elevate productivity and performance, loved by over 2,000,000 users worldwide since 2023. With a mission to amplify human intelligence, Plaud captures, structures, and compounds the intelligence generated in conversations \u2014 so humans can think better, decide faster, and execute with clarity.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Plaud Inc. is a Delaware-incorporated, San Francisco-based com",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "cd521751f6ecc899ee7de17d68fd77e9",
+      "title": "Campus Software Engineer (Intern)",
+      "company": "Jumptrading",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-software-engineer-intern-london-328008",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 36.0,
+      "stack": [
+        "core development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply&amp;nbsp;cutting edge&amp;nbsp;research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by&amp;nbsp;incenting&amp;nbsp;collaboration and mutual respect. At Jump, rese",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b98a4ba86aa01e8d97f5242b8c3fe378",
+      "title": "Campus Data Engineer (Intern)",
+      "company": "Jumptrading",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-data-engineer-intern-london-14681",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 36.0,
+      "stack": [
+        "core development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply&amp;nbsp;cutting edge&amp;nbsp;research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by&amp;nbsp;incenting&amp;nbsp;collaboration and mutual respect. At Jump, rese",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "fceb13715e2cc01a98939988542dbc8b",
+      "title": "Business Development Representative ANZ",
+      "company": "JFrog",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-anz-jfrog-1135994",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 35.6,
+      "stack": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "microsoft",
+        "senior",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "education",
+        "testing"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-01T12:50:59+00:00",
+      "description": "Fast-Frogward Your Career to Years From Now<br><br>Be part of a team where your work directly shapes the way the world\u00e2\u0080\u0099s top companies build and secure their software. At JFrog, as a <strong>Business Development Representative</strong>, you\u00e2\u0080\u0099ll play a key role in bringing our industry-leading solutions to market, helping customers like Amazon, Google, and Netflix solve their most pressing DevSecOps and AI/ML challenges. Every day offers new opportunities to collaborate, strategize, and innovate in a fast-paced, growth-driven culture. If you thrive in a dynamic environment and want to make a",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "58a930d84c23b7381d6cd319b3d8c12a",
+      "title": "Founding Product Designer | SimpleStudy",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-founding-product-designer-simplestudy-462648",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "product design"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About SimpleStudy</h2><p style=\"min-height:1.5em\">SimpleStudy is building the exam prep experience students actually want to use. The numbers back it up: 1.5M+ students across the UK, Ireland, Brazil, South Africa, and Australia, growing by ~40k to 50k new users every week. The product runs on web, mobile, and desktop, and the team ships fast, with heavy A/B testing and product-led growth built in.</p><p style=\"min-height:1.5em\">SimpleStudy is post-seed, backed by the first investors of Facebook and Revolut, and board members of Stripe and Intercom. The team is ~30 people, based mostly in ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "8f5f34295401e96f0fc9bd52ff917aad",
+      "title": "Operations Strategy Associate",
+      "company": "Clipboard",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/operations-strategy-associate-london-69131",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "customer operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1>About Clipboard</h1><p style=\"min-height:1.5em\">Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S.</p><p style=\"min-height:1.5em\"><br />Founded in 2016, we are a remote-first team of over 1,000 people building a top <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"htt",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "30ff7c1a7af6ff42887a082c935c360f",
+      "title": "Customer Experience Specialist",
+      "company": "Clipboard",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/customer-experience-specialist-london-33884",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "customer operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1>About Clipboard</h1><p style=\"min-height:1.5em\">Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S.</p><p style=\"min-height:1.5em\"><br />Founded in 2016, we are a remote-first team of over 1,000 people building a top <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"htt",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5e1d61da1b4443ce887176560058e7b2",
+      "title": "Recruitment Partner",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-recruitment-partner-427466",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "roles at hirehire"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3>Who we are</h3><p style=\"min-height:1.5em\">hirehire agency is built around deep product and design expertise. Our expert network is made up of senior designers and PMs who have worked at companies like Intercom, Stripe, Revolut, and others. They interview and evaluate like practitioners \u2013 because they\u2019ve done the job. That\u2019s what sets us apart from the typical agency.</p><p style=\"min-height:1.5em\">Our clients include JetBrains, Replika, Recraft, Sentry, Toloka, Nebius, White Circle, Manychat, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Capital.com\">Capital.com</a>, ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "86aa2997c246814511f819c3f7795219",
+      "title": "Estimator",
+      "company": "Jobot",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-jobot-1135961",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 33.3,
+      "stack": [
+        "supervisor",
+        "customer support",
+        "legal",
+        "medical",
+        "full time",
+        "part time",
+        "non tech",
+        "infosec",
+        "education",
+        "dev",
+        "exec",
+        "ops"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-02T09:12:31+00:00",
+      "description": "Want to learn more about this role and Jobot? Click our Jobot logo and follow<br>our LinkedIn page!<br><br><br>Job details:<br><strong>Top General Contractor with High Tech Projects<br><br></strong>This Jobot Job is hosted by: Logan Ridge<br>Are you a fit? Easy Apply now by clicking the \"Easy Apply\" button<br>and sending us your resume.<br>Salary: $85,000 - $185,000 per year<br><br><br><strong><u>A bit about us:<br><br></u></strong>We are a well-established commercial construction firm known for delivering complex projects across a variety of market sectors. Our team is committed to building l",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5d087a2a1bc60bb8221dae893abd4012",
+      "title": "Senior Data & Python Software Engineer",
+      "company": "Ceartas",
+      "url": "https://www.arbeitnow.com/jobs/companies/ceartas/senior-data-python-software-engineer-berlin-87350",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 32.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">At Ceartas, we lead the way in AI-powered brand protection, copyright law, and digital security,</p><p style=\"min-height:1.5em\">safeguarding the integrity of content creators, brands, and enterprises worldwide. As we scale</p><p style=\"min-height:1.5em\">rapidly, we're looking for a Data &amp; Python Software engineer to drive innovation in our data</p><p style=\"min-height:1.5em\">pipelines and crawling technologies. In this pivotal role, you'll collaborate with our CTO and</p><p style=\"min-height:1.5em\">Head of Engineering, steering our Data Engineering Team toward d",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7222b5d02155d7b2d380bfd76dc4d8e4",
+      "title": "Brand Design Partner | pdf.net",
+      "company": "Hirehire",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-brand-design-partner-pdfnet-157351",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 32.0,
+      "stack": [
+        "brand design"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://pdf.net\">pdf.net</a></h2><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://pdf.net\">pdf.net</a> is one of Variant Group\u2019s bootstrapped SaaS products. It\u2019s a fast-moving, fully remote team building tools like <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://resume.co\">resume.co</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://contracts.net\">contracts.net</a>, and more. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http:/",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "74a3860f2fded472488c315d23ec8544",
+      "title": "Field Account Executive - Hospitality (German speaking, D\u00fcsseldorf based, m/f/x)",
+      "company": "Lightspeedhq",
+      "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/field-account-executive-hospitality-german-speaking-dusseldorf-based-390420",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "sales"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Lightspeed is driven by building the restaurant platform that helps restaurants adapt, take control, and get back to what they do best: building the businesses they love.</p><p style=\"min-height:1.5em\">As a Field Account Executive, you will be part of a team that is transforming the way restaurants operate. Using a consultative approach, you will prospect, build relationships, and sign up new restaurateurs in your local area. By understanding their unique needs, you will develop a customised solution that helps their business thrive. We need your passion and sales e",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d053f77d7f6e4a293d668ac79b5f00f6",
+      "title": "Freelance Customer Success Manager \u2013 Polish-Speaking",
+      "company": "Rootglobal",
+      "url": "https://www.arbeitnow.com/jobs/companies/rootglobal/remote-freelance-customer-success-manager-polish-speaking-423812",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "account management"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><em>No previous experience in the climate space? Don't worry, we are happy to help you grow into a climate expert at Root!</em></p><p style=\"min-height:1.5em\"></p><h2>\ud83c\udf0e What we do</h2><p style=\"min-height:1.5em\">We build software that helps companies along the food system get to Net Zero.</p><p style=\"min-height:1.5em\">~31% of global GHG emissions originate from food-related activities. For the first time in history, climate performance has become an overall business performance indicator. Enterprises are mandated by regulatory bodies to disclose their climate perfo",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "ba2b1509fc1e00ebc6375a1cfcb58377",
+      "title": "[Hiring] SEO Expert Needed \u2013 Rank Our Website Higher on Google (Reddit + Off-Page SEO) Budget $50",
+      "company": "ReputationHot22",
+      "url": "https://www.reddit.com/r/forhire/comments/1ve8zab/hiring_seo_expert_needed_rank_our_website_higher/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 30.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-03T09:52:36+00:00",
+      "description": "[Hiring] SEO Expert Needed \u2013 Rank Our Website Higher on Google (Reddit + Off-Page SEO) Budget $50\n\nWe\u2019re looking for an experienced SEO specialist who can help improve our website\u2019s Google rankings, with a strong focus on Reddit SEO , community-driven mentions, and other white-hat off-page strategies. What we\u2019re looking for: Proven experience ranking websites on Google. Experience using Reddit effectively for SEO (without spam). Knowledge of other platforms that can improve authority and rankings (forums, communities, Q&amp;A sites, etc.). White-hat SEO only. No black-hat or spam techniques. B",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d71a4ad4f2c4510850a49a67cf894df9",
+      "title": "Senior Software Engineer II",
+      "company": "Carta",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/carta/senior-software-engineer-ii-london-354479",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 29.5,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;The Company You\u2019ll Join&lt;/h2&gt;\n&lt;p&gt;Carta is the connected platform and AI-native ecosystem for private capital. Built to replace fragmented tools with a single system of record, Carta brings together the software, services, and legal infrastructure that founders use to manage equity, fund managers use to run administration and reporting, and legal teams use to close transactions. Trusted by 55,000 companies and 1.8M+ equity holders in 160+ countries, and 10,000 funds and SPVs representing $250B+ in assets under management, Carta is ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
