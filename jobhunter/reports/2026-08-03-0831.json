@@ -1,0 +1,387 @@
+{
+  "run_id": "2026-08-03-0831",
+  "generated_at": "2026-08-03T08:31:00.861679Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "7395ac9089797712b961a8f05b0003ec",
+      "title": "Software Engineer III - FMX",
+      "company": "Fanaticsfbg",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/software-engineer-iii-fmx-london-402235",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 84.0,
+      "stack": [
+        "gaming - markets (fmx)"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 class=&quot;job-details__description-header text-color-secondary font-family-secondary&quot; data-bind=&quot;i18n: &#39;job-details.employer-description-title&#39;&quot;&gt;About Us&lt;/h2&gt;\n&lt;div class=&quot;job-details__description-content basic-formatter&quot; data-bind=&quot;html: pageData().job.corporateDescription&quot;&gt;\n&lt;div&gt;Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering pr",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b65f51b2c515f9e1b3e749351d4d28b9",
+      "title": "Senior Software Engineer - Fullstack",
+      "company": "Fanaticsfbg",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-software-engineer-fullstack-london-148826",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 76.0,
+      "stack": [
+        "gaming - markets (fmx)"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 class=&quot;job-details__description-header text-color-secondary font-family-secondary&quot; data-bind=&quot;i18n: &#39;job-details.employer-description-title&#39;&quot;&gt;About Us&lt;/h2&gt;\n&lt;div class=&quot;job-details__description-content basic-formatter&quot; data-bind=&quot;html: pageData().job.corporateDescription&quot;&gt;\n&lt;div&gt;Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering pr",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "bd0d71b7015ffe74953a7e1464d0e844",
+      "title": "Founding Engineer",
+      "company": "Furo",
+      "url": "https://www.arbeitnow.com/jobs/companies/furo/founding-engineer-munich-72549",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 71.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>You'll build the core product that controls billions in energy assets:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Backend systems for real-time optimization and forecasting</p></li><li><p style=\"min-height:1.5em\">Frontend for battery operators and industrial customers</p></li><li><p style=\"min-height:1.5em\">Infrastructure to scale across thousands of battery systems</p></li></ul><p style=\"min-height:1.5em\"></p><h2>You Will Have Fun If You Are</h2><p style=\"min-height:1.5em\"><strong>Builder with agency</strong></p><ul style=\"min-",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5cfbe192224f07d7836d559a53ea9adb",
+      "title": "Engineering - ElevenAPI",
+      "company": "ElevenLabs",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/engineering-elevenapi-united-kingdom-53937",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 46.0,
+      "stack": [
+        "engineering & product"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always.<br /><",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7c09f04add465dacfc3b10e02cc7ee4e",
+      "title": "Product Engineer II \u2013 ArcGIS Arcade",
+      "company": "esri",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/esri/product-engineer-ii-arcgis-arcade-cardiff-329582",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 43.5,
+      "stack": [
+        "4316 - esri gbl uk r&d cardiff"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Bring your enthusiasm and knowledge of GIS customization to help build and test advancements to ArcGIS Arcade. Arcade is used by organisations around the world to customize their workflows, QA/QC data input, and create cutting edge visualisations. This is a fantastic opportunity to become part of the product development team and support the delivery of regular, high-quality releases in a fast-paced, dynamic environment.&lt;/p&gt;\n&lt;p&gt;Help us improve our Arcade functional capabilities, test routines, and documentation as par",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a82b7fc9dbfb616ee0a1d8e3fcf4a544",
+      "title": "Senior Software Engineer - Exchange",
+      "company": "Fanaticsfbg",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-software-engineer-exchange-london-323399",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "gaming - markets (fmx)"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 class=&quot;job-details__description-header text-color-secondary font-family-secondary&quot; data-bind=&quot;i18n: &#39;job-details.employer-description-title&#39;&quot;&gt;About Us&lt;/h2&gt;\n&lt;div class=&quot;job-details__description-content basic-formatter&quot; data-bind=&quot;html: pageData().job.corporateDescription&quot;&gt;\n&lt;div&gt;Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering pr",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "24c31c2f20889b646ca3191862541f81",
+      "title": "Director, Software Engineering - FMX",
+      "company": "Fanaticsfbg",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/director-software-engineering-fmx-london-448451",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "gaming - markets (fmx)"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2 class=&quot;job-details__description-header text-color-secondary font-family-secondary&quot; data-bind=&quot;i18n: &#39;job-details.employer-description-title&#39;&quot;&gt;About Us&lt;/h2&gt;\n&lt;div class=&quot;job-details__description-content basic-formatter&quot; data-bind=&quot;html: pageData().job.corporateDescription&quot;&gt;\n&lt;div&gt;Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering pr",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "29c7ed5b2f49fda2fbb2a730df223952",
+      "title": "Customer Support Specialist",
+      "company": "Solveintelligence",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/customer-support-specialist-london-187406",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>Customer Support Specialist</strong></h2><p style=\"min-height:1.5em\">Are you the kind of person who genuinely enjoys solving problems, and wants to do it inside a company that's moving fast? Do you want to shape a function as it's being built, learn how a real AI product works, and be in the room when decisions get made? This is your chance to join a rocket ship. \ud83d\ude80</p><h2><strong>\ud83c\udfd7\ufe0f About the role</strong></h2><p style=\"min-height:1.5em\">We are looking for sharp, high-agency people to be the first line of support for our customers. You'll be joining the most lean, talent-dense, and",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "be275327caa103d54e2633f92ae78499",
+      "title": "Financial Operations Lead",
+      "company": "Solveintelligence",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/financial-operations-lead-london-340222",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">At Solve Intelligence, we're building something people actually want - and we have the revenue and traction to prove it.</p><p style=\"min-height:1.5em\"></p><h2>\ud83c\udfd7\ufe0f The Role: Financial Operations Lead</h2><p style=\"min-height:1.5em\">Less than 24 months since launch, we are adding 7 figures of ARR per month, we have raised ~$60M USD, and we are quadrupling headcount this year. We've built a world-class team of AI PhDs, engineers, and patent attorneys. Now, we need a high-energy, ambitious Financial Operations Lead to help us scale to $1B+ ARR.</p><p style=\"min-height:1",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "517a25e852e8954b5ef0a612bae5340a",
+      "title": "Full Stack (Back-End Leaning)",
+      "company": "Solveintelligence",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/full-stack-back-end-leaning-london-88540",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">At <strong>Solve Intelligence</strong>, we aren\u2019t just \"using\" AI - we are building the proprietary algorithms that define the future of Intellectual Property. We have real paying users, massive traction, and a mission to build a billion-dollar company.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">\ud83c\udfd7\ufe0f The Role: Full Stack Engineer. (Back-End Leaning)</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are looking for a super-talented engineer to help us build state-of-the-art AI products <strong>extremely fast</strong>. You will lead t",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "0e80a50a7b1e542d8c04da939ee0fae3",
+      "title": "Events Lead",
+      "company": "Solveintelligence",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/events-lead-london-285815",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "sales"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">At Solve Intelligence, events aren't a marketing side-quest. They're our #1 growth channel.</p><p style=\"min-height:1.5em\">We're doing 70+ conferences this year, we just hosted 100 of Silicon Valley's biggest tech companies in one room, and we're ready to invest serious capital to go much bigger. Now we need someone to own the whole machine.</p><p style=\"min-height:1.5em\"></p><h2>\ud83c\udfd7\ufe0f The Role: Events Lead</h2><p style=\"min-height:1.5em\">Just ~3 years since launch, we are adding 7 figures of ARR per month, we have raised ~$60M USD, and we are quadrupling headcount thi",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "cdba71a812d93512df30029e53eb5ac3",
+      "title": "Account Executive Lead - North America - Mid-Market",
+      "company": "ElevenLabs",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-account-executive-lead-north-america-mid-market-388826",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "revenue"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always.<br /><",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7eca2dc3dcf4e27b3557588e429a0f25",
+      "title": "Research Engineer Intern (Fall 2026)",
+      "company": "Cloudflare",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudflare/research-engineer-intern-fall-2026-in-office-424031",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 36.0,
+      "stack": [
+        "technology research"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "aba33f051de5e20eb1a4509ae0838818",
+      "title": "Executive Assistant to CEO (all genders)",
+      "company": "v\u00e6ridion",
+      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/executive-assistant-to-ceo-all-genders-munich-357816",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "business"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Your Mission:</strong></p><p style=\"min-height:1.5em\">At V\u00c6RIDION, we are pioneering the future of sustainable regional aviation. As we continue to grow, we are looking for an exceptionally organized, proactive, and reliable Executive Assistant (all genders) to support our CEO in all day-to-day matters, from scheduling and coordination to hands-on logistical support. You will be the organizational backbone of the CEO office. You will manage complex calendars, coordinate high-level meetings, and ensure the CEO\u2019s time is used efficiently.</p><div style=\"min-he",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d8867cf912ae45d7ec46ffe4940b8287",
+      "title": "Senior Account Manager, Enterprise",
+      "company": "Stackadapt",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/stackadapt/senior-account-manager-enterprise-72049",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "am - enterprise"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across programmatic advertising and marketing channels.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;section page-centered",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "482bfd6269939e871438748f45764f27",
+      "title": "Senior Customer Support Associate",
+      "company": "Odin",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/senior-customer-support-associate-london-199367",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About Odin</strong></p><p style=\"min-height:1.5em\">Odin is building the investment infrastructure for the future of private markets.<br />We believe capital is one of the most powerful tools for shaping the world - and more people should be putting it to work. Our mission is to make it radically easier to raise and deploy capital, so that anyone, anywhere, can back the companies and ideas they believe in.</p><p style=\"min-height:1.5em\">Our first product is a full-stack platform for launching and running private investment firms - think Shopify for VC and PE.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5320cba8c10a6f3d57e6958cdc9950e8",
+      "title": "Customer Success - UK/I",
+      "company": "ElevenLabs",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/customer-success-uk-i-united-kingdom-216297",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "revenue"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always.<br /><",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "34691ada2ac0eb3f504be5f154f8923f",
+      "title": "Senior Revenue Enablement Manager",
+      "company": "Cribl",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cribl/senior-revenue-enablement-manager-244329",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Join the company that\u2019s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world\u2019s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what\u2019s next.&lt;/p&gt;\n&lt;p&gt;We\u2019re one of the fastest\u2011growing private companies and a leading player in a m",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "0dcd479dc16213836ffbccba085ab612",
+      "title": "Senior Applied AI Engineer (m/f/d)",
+      "company": "RobCo",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/remote-senior-applied-ai-engineer-463352",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 33.5,
+      "stack": [
+        "solutions"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About the Role at RobCo</strong></p><p style=\"min-height:1.5em\">RobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees humans to do the extraordinary, and we're building the end-to-end robotics infrastructure to make that possible - hardware, software, and AI in one stack that just works. </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">As our Senior Applied AI Engineer (m/f/d), you'll build the agentic workflows that run our solu",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "ee92019a8bbf1c67416d5d6f45fd30a2",
+      "title": "Senior Internal Tooling Engineer",
+      "company": "YAZIO",
+      "url": "https://www.arbeitnow.com/jobs/companies/yazio/senior-internal-tooling-engineer-berlin-409072",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 32.0,
+      "stack": [
+        "development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>HEY THERE</strong></p><p style=\"min-height:1.5em\">What if the tools you build didn't just help one team, but unlocked the potential of an entire company?</p><p style=\"min-height:1.5em\">At Yazio, we're looking for a <strong>Senior Internal Tooling Engineer </strong>to turn repetitive work into intelligent systems. You'll help shape how AI is used across the business, building production-ready tools that empower teams to move faster, eliminate manual work and focus on what matters most.</p><p style=\"min-height:1.5em\">If you're excited by solving real problems,",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
