@@ -1,0 +1,394 @@
+{
+  "run_id": "2026-08-03-0316",
+  "generated_at": "2026-08-03T03:16:48.700096Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "9437172e3247be581b119e7012cab366",
+      "title": "Full Stack Engineer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-germany-297289",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 60.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more f",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "cf1de06c42a6dd0a66e09dedccb43037",
+      "title": "Fullstack Engineer (Backend leaning)",
+      "company": "Ben",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/fullstack-engineer-backend-leaning-london-91177",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 51.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1><strong>Our Mission</strong></h1><p style=\"min-height:1.5em\">We're not your average benefits platform; we're the unordinary force that uplifts people's lives. Our technology is the link that connects the entire benefits ecosystem, creating better outcomes for employers, employees, brokers, and providers.</p><p style=\"min-height:1.5em\">Our mission is clear: we're here to create a world where everything operates at its very best, ensuring that every employee receives the support they need to live life to the fullest, both at work and beyond.</p><h1><strong><br />Your Mission</strong></h1><p ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7ceb5c77402c879a52ca9a01f77bd3b9",
+      "title": "Full Stack Software Engineer - AI Finance Agent",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-software-engineer-ai-finance-agent-germany-490999",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 49.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About BJAK</strong></p><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes spending, saving, investing, exchanging, travelling, and more. Our mission is",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "3ff205e47ba7c1246041db2cc05d2f3a",
+      "title": "Sr Staff ML Forward Deployed Engineer, Enterprise GenAI",
+      "company": "Scaleai",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/sr-staff-ml-forward-deployed-engineer-enterprise-genai-london-204715",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 48.5,
+      "stack": [
+        "enterprise engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;Scale GP (Scale Generative AI Platform) is an enterprise-grade Generative AI platform that provides APIs for knowledge retrieval, inference, evaluation, and more. We are looking for a strong engineer to join our team and help us build and scale our product in a fast-paced environment. The ideal candidate will have a strong understanding of software engineering principles and practices, as well as experience with large-scale distributed systems. You will be responsible for owning large new areas within our product, working across backend, frontend, and interacting with LLMs and ML mode",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f10989f5c0e6443c699d7f5991166c77",
+      "title": "Applied AI Engineer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/applied-ai-engineer-germany-249120",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 42.5,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more f",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "387c1e83242359344f9056bfcbd74ac2",
+      "title": "Product Designer (UI/UX)",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-designer-ui-ux-germany-145444",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 39.0,
+      "stack": [
+        "creative"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1><strong>About BJAK</strong></h1><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more f",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "ce514b444d8578e1af937c5de2b8e0c8",
+      "title": "Senior Product Engineer",
+      "company": "Alecto",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alecto/senior-product-engineer-london-239395",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1><strong>Who we are</strong></h1><p style=\"min-height:1.5em\">Alecto is the UK's first AI-native law firm.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">Our mission is to <strong>make the law accessible to everyone on the planet</strong>. We believe that the quality of service currently offered by the legal profession is woefully inadequate. It delivers bad value for money, frustrates the people it exists to serve, and lacks basic accountability.</p><p style=\"min-height:1.5em\">We believe that a law firm should:</p><ul style=\"min-height:1.5em",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c0ae4066c5c900e74d5605dd5933dc69",
+      "title": "Solutions Engineer, Central & Eastern Europe - Hebrew Speaking",
+      "company": "cloudflare",
+      "url": "https://www.arbeitnow.com/jobs/companies/cloudflare/solutions-engineer-central-eastern-europe-hebrew-speaking-hybrid-213941",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 36.0,
+      "stack": [
+        "solution engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/div&gt;\n&lt;div&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a70554c592392d365786d3c6235865bb",
+      "title": "Backend Engineer, AI (Agent Systems)",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-engineer-ai-agent-systems-germany-348184",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "a1 engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3><strong>About A1</strong></h3><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks that are not AI-native. Our mission is to build a proactive smart assistant for everyday users to bring intelligence to conversations, errands, organising and workflows, with minimal prompting.</p><p style=\"min-height:1.5em\">Our product focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. The system must handle multi-step reasoning, interact with external tools, and remain reliable d",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "60519383927f6d814971498e8b8ca080",
+      "title": "Backend Developer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-developer-germany-449547",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more f",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "0b9fe3f289f71ae6496f25b41ba00291",
+      "title": "SMB Marketing Manager",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/Notion/34a5e41b-1457-46ca-8e35-5cfc4ad81b3f",
+      "source": "ats_ashby_notion",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-03T01:49:46.921000+00:00",
+      "description": "Who We Are  Notion is the collaborative AI workspace where teams and agents  think together . We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.    Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn\u2019t to ship the next feature. Each and every team of Notinos is work",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e832b0ba814faa582fd0f49fb71e1cbe",
+      "title": "Junior Designer",
+      "company": "Haystack",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-haystack-1135900",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 34.3,
+      "stack": [
+        "design",
+        "amazon",
+        "designer",
+        "customer support",
+        "video",
+        "exec",
+        "junior",
+        "marketing",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-02T01:55:47+00:00",
+      "description": "We're hiring on behalf of a Haystack partner!<br><br>The Role<br><br><ul><li> Design and execute platform-specific digital assets across key retailers and channels (e.g., Amazon, Walmart, Target, retail media, paid social, owned platforms)</li><li> Interpret brand strategy, campaigns, innovation launches, and portfolio priorities into clear digital design execution</li><li> Produce best-in-class static assets, modular components, and basic motion/animation (GIFs, short video)</li><li> Adapt and extend digital-first creative systems while maintaining brand consistency and equity</li><li> Suppor",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "95499f0e9b827b532b90391596c879ab",
+      "title": "Mobile Application Developer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-application-developer-germany-43763",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more f",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "752c65d6c35a7738e76cfd1f311a097c",
+      "title": "Android Software Engineer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-germany-464481",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more f",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "81c34e0bf52aec2a8093b1811073f38c",
+      "title": "Android Developer - AI Finance Agent",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-developer-ai-finance-agent-germany-416436",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About KIRA</strong></h2><p style=\"min-height:1.5em\">Our mission is to make money smart, reliable and within reach for everyone.</p><p style=\"min-height:1.5em\">In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.</p><p style=\"min-height:1.5em\">Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools that will help people get more from their",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "de3a7cf422e39ee6b22b4b43d197bfff",
+      "title": "Mobile Application Developer - AI Neobank App",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-application-developer-ai-neobank-app-germany-359708",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About KIRA</strong></h2><p style=\"min-height:1.5em\">Our mission is to make money smart, reliable and within reach for everyone.  In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Today, it's the leading insurance platform in Southeast Asia.  Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools that will help people get more from t",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "724d7a5077022cdfa01af0d0d165be0c",
+      "title": "Mobile Application Developer - AI Finance Agent",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-application-developer-ai-finance-agent-germany-319823",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more f",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "64e9e68a7cf72882662f28f91d6b2348",
+      "title": "Android Software Engineer - AI Finance Agent",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-finance-agent-germany-350475",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About BJAK</strong></h2><p style=\"min-height:1.5em\">The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.<br /><br />Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia.<br /><br />Today, we are expanding ways to help people in the region \u2014 this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more f",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d0fd24ace60dcac5caa59efbe487c1cd",
+      "title": "Android Software Engineer - AI Neobank App",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-neobank-app-germany-277563",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 34.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About KIRA</strong></h2><p style=\"min-height:1.5em\">Our mission is to make money smart, reliable and within reach for everyone.  In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. </p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">Today, it's the leading insurance platform in Southeast Asia.  Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools tha",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a3a8e355caead5d5cfe91ea27d43f643",
+      "title": "Full Stack Engineer, AI systems",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-ai-systems-germany-290837",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 33.5,
+      "stack": [
+        "a1 engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3><strong>About A1</strong></h3><p style=\"min-height:1.5em\">There are over 5 billion users using basic applications today such email, notes, tasks that are not AI-native. Our mission is to build a proactive smart assistant for everyday users to bring intelligence to conversations, errands, organising and workflows, with minimal prompting.</p><p style=\"min-height:1.5em\">Our product focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. The system must handle multi-step reasoning, interact with external tools, and remain reliable d",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
