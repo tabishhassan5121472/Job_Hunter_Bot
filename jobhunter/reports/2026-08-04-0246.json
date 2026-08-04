@@ -1,0 +1,387 @@
+{
+  "run_id": "2026-08-04-0246",
+  "generated_at": "2026-08-04T02:46:06.671108Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "2f21be9d101f3c98a48c0f7389f85c52",
+      "title": "Staff Engineer, FE - Account Experience",
+      "company": "Primer.io",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/staff-engineer-fe-account-experience-united-kingdom-251363",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 72.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>An Introduction to Primer</strong></p><p style=\"min-height:1.5em\">Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.<br /><br />Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"h",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "839e051b9876ec69846242447e899ed0",
+      "title": "Senior Full-Stack Engineer - Platform team",
+      "company": "Taktile",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-full-stack-engineer-platform-team-berlin-279811",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 60.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Taktile empowers financial institutions to transform into truly AI-native organizations. We\u2019re growing rapidly with enterprise customers across banks and insurance companies, and we\u2019re looking for a Senior Full-Stack Engineer to join our Platform team.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the role</strong></p><p style=\"min-height:1.5em\">Our Engineering and Product Design teams are building multiple verticals on our platform at high speed, leveraging AI and building agentic functionality into the platform itself. As we scale in",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "462811d324f7df4329ddf2d33bc7e8ec",
+      "title": "Solution Architect",
+      "company": "Taktile",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/solution-architect-berlin-281359",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 52.0,
+      "stack": [
+        "value delivery"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About The Role</strong></p><p style=\"min-height:1.5em\">Taktile empowers financial institutions to transform into truly AI-native organizations. As we grow with enterprise customers across banks and insurance companies, their architecture questions get harder: How does Taktile fit into an existing, complex and some-times decades-old core banking system landscape? How do we design for their security, availability, compliance, and integration requirements? Who speaks the language of their enterprise architects?</p><p style=\"min-height:1.5em\">That's this role. A",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "cf1aff0fd1e1ccea0de9a8a60fd323f9",
+      "title": "Engineering Manager - Orchestration",
+      "company": "Primer.io",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/engineering-manager-orchestration-united-kingdom-96544",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 52.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>An Introduction to Primer</strong></p><p style=\"min-height:1.5em\">Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.<br /><br />Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"h",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9b1cefdd70e62037fff12ded3da69c2d",
+      "title": "Forward Deployed Engineer - Berlin",
+      "company": "Uplane",
+      "url": "https://www.arbeitnow.com/jobs/companies/uplane/forward-deployed-engineer-berlin-262638",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 50.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About Uplane (YC F25)</strong></p><p style=\"min-height:1.5em\">Companies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving AI system. It creates ads, builds matching landing pages, allocates budgets across different channels, and more. We are building the AI engine that will manage and spend the world's marketing budget.<br /></p><p style=\"min-height:1.5em\"><strong>About The Role</strong></p><p style=\"min-height:1.5em\">",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a02c23121f7e8953517d6ce18f634cc4",
+      "title": "Founding Head of Engineering - Healf Zone",
+      "company": "Healf",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/healf/founding-head-of-engineering-healf-zone-london-490637",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 48.5,
+      "stack": [
+        "engineering & data"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1>Healf is Europe's fastest-growing company.</h1><p style=\"min-height:1.5em\">Number one on the FT1000, number one on the Sifted 100. From \u00a31m to over \u00a3100m in under three years, with a small, talent-dense team and an electric culture with day one founder intensity. Now we're aiming for \u00a31bn in the next three.</p><p style=\"min-height:1.5em\">We curate the world's best wellbeing brands across The Four Pillars\u2122: EAT, MOVE, MIND, SLEEP. That's the first chapter.</p><p style=\"min-height:1.5em\"></p><h1>The next chapter is harder and more interesting.</h1><p style=\"min-height:1.5em\">We are moving fr",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6976462e6c4e7bd324486a445c7b16fa",
+      "title": "Senior Technical Recruiter",
+      "company": "Taktile",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-technical-recruiter-berlin-339549",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "people"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3>About the role</h3><p style=\"min-height:1.5em\">Taktile empowers financial institutions to transform into truly AI-native organizations. We\u2019re growing rapidly with enterprise customers across banks and insurance companies, and we\u2019re looking for a <strong>Senior Technical Recruiter</strong> to help build the teams shaping the future of our product.</p><p style=\"min-height:1.5em\">Joining us, you\u2019ll be the face of Taktile for Engineering, Product, and Design candidates, owning end-to-end hiring while partnering closely with leaders to attract exceptional talent in one of the most competitive m",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "2197c1c09aa9563625fba9fe26da5d61",
+      "title": "AI Enablement Engineer",
+      "company": "Taktile",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/ai-enablement-engineer-berlin-235516",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3><strong>About the Role</strong></h3><p style=\"min-height:1.5em\">Taktile empowers financial institutions to transform into truly AI-native organizations. We\u2019re growing rapidly with enterprise customers across banks and insurance companies, and we\u2019re looking for an AI Enablement Engineer to join our team.</p><p style=\"min-height:1.5em\">As our first dedicated AI Enablement Engineer, you will build the internal tools, agents, and integrations that help every team work faster and better. You will own these projects end-to-end\u2014partnering directly with leads across Engineering, GTM, and Ops to id",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "40f82bea3fa253203861d7f574c4a64b",
+      "title": "Senior Product Manager - Decision Engine",
+      "company": "Taktile",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/senior-product-manager-decision-engine-berlin-486957",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "product & design"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Taktile empowers financial institutions to transform into truly AI-native organizations. We\u2019re growing rapidly with enterprise customers across banks and insurance companies, and we\u2019re looking for a Senior Product Manager.</p><p style=\"min-height:1.5em\">We are building the world's leading Agentic Decisioning Platform for Financial Services. Our customers use our product to automate millions of critical decisions across lending, anti money laundering, fraud prevention, and many other use cases.</p><p style=\"min-height:1.5em\">At the core of many",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "77f193ffe3c64739c7d58ac787facc92",
+      "title": "Product Designer",
+      "company": "Primer.io",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/product-designer-united-kingdom-257117",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "product"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>An Introduction to Primer</strong></p><p style=\"min-height:1.5em\">Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.<br /><br />Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"h",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "3a7e25de4784e08f616d5331a44fa71f",
+      "title": "Senior DevEx Engineer - Infrastructure",
+      "company": "Primer.io",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/senior-devex-engineer-infrastructure-united-kingdom-82361",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>An Introduction to Primer</strong></p><p style=\"min-height:1.5em\">Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.<br /><br />Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"h",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a6460eae8e6fc74c12d1f1b8b359e684",
+      "title": "Software Engineer (Backend)",
+      "company": "NetBird",
+      "url": "https://www.arbeitnow.com/jobs/companies/netbird/remote-software-engineer-backend-51510",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 40.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">As a Senior Software Engineer Backend at NetBird, you will play a key role in building and scaling the backend of our open-source, peer-to-peer networking platform. You'll work on high-throughput distributed systems that power secure connectivity for users and organizations around the world.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This role sits at the core of our engineering team. You'll collaborate closely with other engineers to design robust backend services, optimize data systems, and shape the reliability and scalability of NetBird's pla",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5763888a382031db633e9d90a5d86f29",
+      "title": "Senior Video Producer",
+      "company": "Platform Engineering Masters",
+      "url": "https://www.arbeitnow.com/jobs/companies/platform-engineering-masters/senior-video-producer-berlin-257091",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 40.0,
+      "stack": [
+        "content"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About Platform Engineering</h2><p style=\"min-height:1.5em\">Platform Engineering (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://platformengineering.org\">platformengineering.org</a>) is home to the world's largest community of platform engineers. Through <strong>PlatformCon</strong>, one of the world's largest conferences dedicated to platform engineering, we bring together more than 50,000 engineers, technology leaders, and decision-makers every year to share ideas, showcase innovation, and shape the future of internal developer platforms.</p><p style=\"min-height:1.5em\"",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "04b31effa3ef0a0839f693ab66ce76e7",
+      "title": "GRC Engineer - Platform Team",
+      "company": "Taktile",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/grc-engineer-platform-team-berlin-161302",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">Taktile empowers financial institutions to transform into truly AI-native organizations. We\u2019re growing rapidly with enterprise customers across banks and insurance companies, and we\u2019re looking for a <strong>GRC Engineer.</strong></p><p style=\"min-height:1.5em\">Operating in highly regulated markets means trust isn't a feature for us, it's the foundation of every customer relationship. As we scale into larger enterprise and fintech accounts, a strong, demonstrable security and compliance posture is what lets us win and keep that",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "eea83a6f83e3cc1a373dc94f23b9f8f5",
+      "title": "Security Lead",
+      "company": "Taktile",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/security-lead-berlin-444564",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3><strong>About the Role</strong></h3><p style=\"min-height:1.5em\">Taktile helps financial institutions make smarter, safer decisions with the power of AI.</p><p style=\"min-height:1.5em\">We're looking for a Security Lead to set the technical direction for security across our Platform Team while staying hands-on. This is a high-leverage role with roughly a 50/50 IC-to-management split: you'll own our security architecture and roadmap, drive residual risk down, and lead a team of security engineers, GRC engineers.</p><p style=\"min-height:1.5em\">You'll be the security partner for Engineering and",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "668d55c4cc66ad1c4fe8c58019f83222",
+      "title": "HR Intern",
+      "company": "Taktile",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/hr-intern-berlin-434618",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "people"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About The Role</strong></p><p style=\"min-height:1.5em\">Taktile empowers financial institutions to transform into truly AI-native organizations. We're growing rapidly with enterprise customers across banks and insurance companies, and we're looking for an <strong>HR Intern</strong> to be Taktile's ambassador to our future employees.</p><p style=\"min-height:1.5em\">You will collaborate closely with our People team to ensure the efficient management of the employee lifecycle, from onboarding to ongoing feedback and support. You will play a crucial role in mainta",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7791bae003dac5ed7e062ac740dcbba2",
+      "title": "Technical Program Manager",
+      "company": "Taktile",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/technical-program-manager-berlin-237847",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">The Platform team builds the foundations the rest of Taktile depends onreliability, security, developer experience, and the infrastructure that makes us enterprise-ready. As our Technical Program Manager, you'll be the connective tissue across these efforts: taking our most complex, cross-functional initiaties and turning them into sequenced plans with clear owners, dates, and measurable outcomes.</p><p style=\"min-height:1.5em\">You'll work shoulder-to-shoulder with engineers, EMs, Product, Security, Sales, and Legal driving En",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6f2c20ac715067c40a0757d81bab567f",
+      "title": "Account Executive - Finance Suite",
+      "company": "Primer.io",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/account-executive-finance-suite-united-kingdom-499082",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "gtm"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>An Introduction to Primer</strong></p><p style=\"min-height:1.5em\">Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.<br /><br />Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"h",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "3d9074b8ce8d9d0373d75640b6da582e",
+      "title": "Business Intelligence & GTM AI Associate",
+      "company": "Primer.io",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/business-intelligence-gtm-ai-associate-united-kingdom-497428",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "gtm"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>An Introduction to Primer</strong></p><p style=\"min-height:1.5em\">Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.<br /><br />Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"h",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "89b19331692f0a9c2d38728ee3dc819e",
+      "title": "Product Sales Specialist - Finance Suite",
+      "company": "Primer.io",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/product-sales-specialist-finance-suite-united-kingdom-315022",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "gtm"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>An Introduction to Primer</strong></p><p style=\"min-height:1.5em\">Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.<br /><br />Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"h",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
