@@ -1,0 +1,383 @@
+{
+  "run_id": "2026-08-04-2114",
+  "generated_at": "2026-08-04T21:14:24.395388Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "49d5cce8b5ee1b6ae1595d3a63369e5b",
+      "title": "Senior Design Engineer",
+      "company": "Attio",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/attio/remote-senior-design-engineer-2843",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 64.5,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Attio is the CRM built for the AI era.</strong> Designed for the most ambitious go-to-market teams, it gives companies the power to understand every customer, automate at scale, and build their go-to-market motion exactly as they need. We've raised $116M from some of the world's best investors: GV (Google Ventures), Redpoint, Balderton, Point Nine, and 01A.</p><p style=\"min-height:1.5em\">We hire builders who thrive on complex technical challenges, hold themselves to a high bar, and genuinely care about delighting the people who use what they build. The team ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "cda3e500d68ccc268980fa75f6cb7216",
+      "title": "Senior Software Engineer",
+      "company": "Aveni",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aveni/senior-software-engineer-united-kingdom-401816",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 60.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Aveni is redefining how financial institutions use AI. We build real, production-ready agentic systems that reshape how banks, advisers and financial services firms operate, replacing fragmented processes with intelligent, end-to-end workflows.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We have been recognised as Fintech of the Year for two consecutive years and awarded Best Specialist Technology Service at the Professional Adviser Awards 2025. Backed by leading investors including Puma Private Equity, and commer",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7af29384702c2a06a4866be3320ca80f",
+      "title": "QA Engineer",
+      "company": "Foundation Health",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/foundation-health/qa-engineer-manchester-191324",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 47.5,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About Foundation Health</strong></p><p style=\"min-height:1.5em\">Foundation Health is transforming healthcare through an AI-powered digital pharmacy platform that seamlessly connects operational infrastructure with high quality patient experiences. Our mission is to transform patient centric care by connecting fragmented infrastructure, optimizing care coordination, and removing friction from the patient journey. We refuse to adhere to the status quo; instead, we actively pioneer solutions that will shape the healthcare practices of tomorrow.</p><p style=\"min",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "efecc2362f9668c7ecd49a141573dd53",
+      "title": "Staff Product Engineer",
+      "company": "Dex",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dex/staff-product-engineer-london-465729",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 47.0,
+      "stack": [
+        "dex"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Our Mission</strong><br />Human time and effort is the rarest thing in the universe. The fact that so many people hate what they do for work is a disaster on so many levels. How many people live quiet lives of misery? How many generational talents do we miss due to circumstance?</p><p style=\"min-height:1.5em\">Dex\u2019s mission is to close the gap between Talent &amp; Opportunity, we believe that work, and being productive, is part of the human condition, that regardless of AI, human passion, ingenuity and a desire to do things means that work will always exist.<",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7d1b989bcb0d4d42c4309c3b53d8a7fc",
+      "title": "Account Executive",
+      "company": "blackforestlabs",
+      "url": "https://www.arbeitnow.com/jobs/companies/blackforestlabs/account-executive-86560",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "gtm"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;h2&gt;&lt;strong&gt;About Black Forest Labs&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We\u2019re the team behind Latent Diffusion, Stable Diffusion, and FLUX\u2014foundational technologies that changed how the world creates images and video. We\u2019re creating the generative models that power how people make images and video\u2014tools used by millions of creators, developers, and businesses worldwide. Our FLUX models are among the most advanced in the world, and we\u2019re just getting started.&lt;/p&gt;\n&lt;p&gt;Headquartered in Freiburg, Germany with a growing presence in San Francisco, we\u2019re scaling fast while stayi",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9cdd60c5c647dc4f4c3990280fb729f8",
+      "title": "Software Engineer, iOS Core Product - Hamburg, Germany",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-hamburg-germany-2202",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 peo",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "dd635a6be727c36f56e234efeb5302b3",
+      "title": "Software Engineer, iOS Core Product - D\u00fcsseldorf, Germany",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-dusseldorf-germany-371420",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 peo",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "348ff4604dea06a8ceaa391b9ee41bae",
+      "title": "Software Engineer, iOS Core Product - Berlin, Germany",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-berlin-germany-498402",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 peo",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "60dfcd564d7b1f71d07a9789ae07d373",
+      "title": "Organic Growth Content Marketer",
+      "company": "Almedia",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/organic-growth-content-marketer-berlin-422821",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 39.0,
+      "stack": [
+        "growth"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">This isn\u2019t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We\u2019re aiming to become Germany\u2019s second bootstrapped unicorn. Almedia is already Europe\u2019s #3 fastest-growing company in 2025 (FT1000).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are building the future of marketing by rewarding our community of over 70 million users for engaging with our advertisers\u2019 products. We are offering a new way to acquire users for the biggest companies in the world.<br /></p><p st",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "542070c5ceb8e39e09aa08a0c1392cb0",
+      "title": "[Hiring] $100 - Need a photo and video editor",
+      "company": "EddzGamez",
+      "url": "https://www.reddit.com/r/forhire/comments/1vfg8vh/hiring_100_need_a_photo_and_video_editor/",
+      "source": "reddit_r_forhire",
+      "channel": "C",
+      "score": 36.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-04T17:02:37+00:00",
+      "description": "[Hiring] $100 - Need a photo and video editor\n\nI recently went on a trip, and took photos and videos of it. There are about 364 videos and photos in total, and many of them are duplicates. I need someone to do the following: Remove duplicates &amp; weak images. Organize the photos into folders. Create separate collections, such as &quot;Six Flags, &quot;Golden Gate Bridge,&quot; &quot;San Francisco,&quot; etc. Select key photos to print in a photo album. Select a few select key frames from videos to print in a photo album. Create versions optimized for social media. Create 4x one-minute highli",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "98726c827bf574c563dc275b3e2edeb2",
+      "title": "Finance Manager",
+      "company": "Almedia",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/finance-manager-berlin-200726",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">This isn\u2019t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We\u2019re aiming to become Germany\u2019s second bootstrapped unicorn. Almedia is already Europe\u2019s #3 fastest-growing company in 2025 (FT1000).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are building the future of marketing by rewarding our community of over 70 million users for engaging with our advertisers\u2019 products. We are offering a new way to acquire users for the biggest companies in the world.<br /></p><p st",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d30146313ed8ad905c5039af7b2458f6",
+      "title": "Founding GTM Account Executive",
+      "company": "Dandy",
+      "url": "https://www.arbeitnow.com/jobs/companies/dandy/founding-gtm-account-executive-berlin-318460",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "commercial"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Dandy is transforming the massive and antiquated dental industry\u2014an industry worth over $400B. Backed by some of the world\u2019s leading venture capital firms, we\u2019re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices around the world\u2014empowering clinicians and their teams with technology, innovation, and world-class support to achieve more for their practices, their people, and their patients.</p><p style=\"min-height:1.5em\">D",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c41f1025efa35860ff07dba08af94fd0",
+      "title": "Lead Software Engineer",
+      "company": "Aveni",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aveni/lead-software-engineer-united-kingdom-425100",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 33.5,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Aveni is redefining how financial institutions use AI. We build real, production-ready agentic systems that reshape how banks, advisers and financial services firms operate, replacing fragmented processes with intelligent, end-to-end workflows.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We have been recognised as Fintech of the Year for two consecutive years and awarded Best Specialist Technology Service at the Professional Adviser Awards 2025. Backed by leading investors including Puma Private Equity, and commer",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "4af8846c6f0030f4eff238b5b22e8db6",
+      "title": "Senior Software Engineer (Python)",
+      "company": "Aveni",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aveni/senior-software-engineer-python-united-kingdom-212465",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 33.5,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Aveni is redefining how financial institutions use AI. We build real, production-ready agentic systems that reshape how banks, advisers and financial services firms operate, replacing fragmented processes with intelligent, end-to-end workflows.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We have been recognised as Fintech of the Year for two consecutive years and awarded Best Specialist Technology Service at the Professional Adviser Awards 2025. Backed by leading investors including Puma Private Equity, and commer",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "65eca4af34a9487a0a6954a352751f99",
+      "title": "Venture Manager",
+      "company": "Almedia",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/venture-manager-berlin-456438",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 31.0,
+      "stack": [
+        "growth"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">This isn\u2019t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We\u2019re aiming to become Germany\u2019s second bootstrapped unicorn. Almedia is already Europe\u2019s #3 fastest-growing company in 2025 (FT1000).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are building the future of marketing by rewarding our community of over 70 million users for engaging with our advertisers\u2019 products. We are offering a new way to acquire users for the biggest companies in the world.<br /></p><p st",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "5d9c580139bca7d0cdbef4c6989c74ec",
+      "title": "ServiceNow AI Control Tower Consultant",
+      "company": "Clera",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-servicenow-ai-control-tower-consultant-19961",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 31.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We are looking for an experienced <strong>ServiceNow AI Control Tower Consultant</strong> to join an urgent, high-impact engagement focused on enterprise-wide AI governance and lifecycle management. This is a <strong>100% remote, W-2 contract</strong> role open to candidates based in the USA. Interviews and submissions are being processed immediately.</p><p style=\"min-height:1.5em\">You will work directly with a client implementing ServiceNow AI Control Tower, helping establish robust AI governance frameworks, compliance playbooks, and observab",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f94196eb6a9ae960b73675e2ec810835",
+      "title": "Mid-Market Account Executive - UKI (New Business)",
+      "company": "Boomilp",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/boomilp/mid-market-account-executive-uki-new-business-104890",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 31.0,
+      "stack": [
+        "sales"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #072b55;&quot;&gt;About Boomi and What Makes Us Special&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;span style=&quot;color: #072b55;&quot;&gt;Are you ready to work at a fast-growing company where you can make a difference?&amp;nbsp;Boomi, the data activation company for AI, powers the agentic enterprise by bringing data to life across the business. The award-winning&amp;nbsp;Boomi Enterprise Platform is the active data fo",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9ec35a5c5d0b667339a5970580d7dd70",
+      "title": "Sales Development Representative (Supporting APAC Region) ",
+      "company": "Langchain",
+      "url": "https://jobs.ashbyhq.com/langchain/6bcf9d0f-053c-4c07-82dd-e6b3815fb2e0",
+      "source": "ats_ashby_langchain",
+      "channel": "A",
+      "score": 31.0,
+      "stack": [],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-04T20:00:40.086000+00:00",
+      "description": "About Us     At LangChain, our mission is to make intelligent agents ubiquitous. We build the foundation for agent engineering in the real world, helping developers move from prototypes to production-ready AI agents that teams can rely on. We began as widely adopted open-source tools and have grown to also offer a platform for building, evaluating, deploying, and operating agents at scale.  With $125M raised at Series B from IVP, Sequoia, Benchmark, CapitalG, and Sapphire Ventures, we\u2019re at a stage where we\u2019re continuing to develop new products, growth is accelerating, and all team members hav",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "62be296835e23d6218ee4df29fe100b9",
+      "title": "Working Student Product QA - Freecash",
+      "company": "Almedia",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/working-student-product-qa-freecash-berlin-129705",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "product"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">This isn\u2019t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We\u2019re aiming to become Germany\u2019s second bootstrapped unicorn. Almedia is already Europe\u2019s #3 fastest-growing company in 2025 (FT1000).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are building the future of marketing by rewarding our community of over 70 million users for engaging with our advertisers\u2019 products. We are offering a new way to acquire users for the biggest companies in the world.<br /></p><p st",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "fa8dacf9aac43c64bfd8659200f71e61",
+      "title": "Commercial Solutions Engineer - UK",
+      "company": "Dash0",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dash0/commercial-solutions-engineer-uk-london-67319",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "customer solutions"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3><strong>About Dash0</strong></h3><p style=\"min-height:1.5em\">Join Dash0 and help us define the future of observability. We are OpenTelemetry-native, building a delightful, simple, and AI-centric platform that eliminates vendor lock-in and meaningless toil. Shape a product that developers love\u2014all with transparent pricing and cost-control built in.</p><p style=\"min-height:1.5em\"><strong>The Opportunity</strong></p><p style=\"min-height:1.5em\">As a Commercial Solutions Engineer, you will act as a trusted technical advisor to our customers and prospects in the commercial segment. You'll bridge",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
