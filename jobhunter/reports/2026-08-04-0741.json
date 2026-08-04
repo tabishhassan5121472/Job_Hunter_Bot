@@ -1,0 +1,393 @@
+{
+  "run_id": "2026-08-04-0741",
+  "generated_at": "2026-08-04T07:41:56.517297Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "93b23f02c671684dfc89320012ae3ba2",
+      "title": "HN Freelancer Thread: SEEKING WORK | Remote I am a full-stack developer with focus on PERN&#x2F;MERN stack and over 10 yea",
+      "company": "ag_user123",
+      "url": "https://news.ycombinator.com/item?id=49164744",
+      "source": "hn_freelancer",
+      "channel": "C",
+      "score": 86.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-04T05:51:52+00:00",
+      "description": "SEEKING WORK | Remote I am a full-stack developer with focus on PERN&#x2F;MERN stack and over 10 years of experience delivering software. I have a strong background as a software architect and have successfully led teams as a fractional CTO. I have worked with clients from diverse industries worldwide. I have successfully delivered over 20 projects for a range of clients, including early stage startups, growing startups, solo founders, digital agencies, and notable companies like Apple and Binance. Technologies: LLM API Integration, AI Agent Development, Node.js, PostgreSQL, MongoDB, AWS, Hero",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "87a347899d4c4192bae3a06259ae12c7",
+      "title": "Full-Stack Software Engineer, Ruby on Rails (m/f/d) at Solar Startup",
+      "company": "Vrey",
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-software-engineer-ruby-on-rails-at-solar-startup-berlin-490930",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 60.0,
+      "stack": [
+        "product"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About Us</h2><p style=\"min-height:1.5em\">At <strong>VREY</strong>, we're building the <strong>EnergyOS for multi-family buildings</strong>.</p><p style=\"min-height:1.5em\">Germany has over <strong>3.3 million apartment buildings</strong> \u2014 and they are the blind spot of the energy transition. &lt;1% solar penetration. &lt;2% smart metering. Almost no flexibility or intelligent energy management.</p><p style=\"min-height:1.5em\">At the same time, regulation is forcing property owners into major investment: solar is becoming mandatory, smart meters must be rolled out nationwide within five year",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c30848e39c1c00d9cd3c7503b88f7a10",
+      "title": "Full-Stack Product Engineer, Ruby on Rails (m/f/d) at Solar Startup",
+      "company": "Vrey",
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-product-engineer-ruby-on-rails-at-solar-startup-berlin-172192",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 60.0,
+      "stack": [
+        "product"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About Us</h2><p style=\"min-height:1.5em\">At <strong>VREY</strong>, we're building the <strong>EnergyOS for multi-family buildings</strong>.</p><p style=\"min-height:1.5em\">Germany has over <strong>3.3 million apartment buildings</strong> \u2014 and they are the blind spot of the energy transition. &lt;1% solar penetration. &lt;2% smart metering. Almost no flexibility or intelligent energy management.</p><p style=\"min-height:1.5em\">At the same time, regulation is forcing property owners into major investment: solar is becoming mandatory, smart meters must be rolled out nationwide within five year",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "950f770b107b8aae5f7c1de70f0f532b",
+      "title": "HN Freelancer Thread: SEEKING WORK, Location: France Remote: Remote only Willing to relocate: Unlikely Technologies: Main ",
+      "company": "OtmaneBenazzou",
+      "url": "https://news.ycombinator.com/item?id=49164422",
+      "source": "hn_freelancer",
+      "channel": "C",
+      "score": 57.5,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-04T04:41:55+00:00",
+      "description": "SEEKING WORK, Location: France Remote: Remote only Willing to relocate: Unlikely Technologies: Main ones: Node.js, TypeScript, React.js, React Native, mass scraping&#x2F;automation, Puppeteer, Playwright, LLMs, Firebase, MongoDB. Some experience with Python, LangChain, Go, C, PHP, SQL&#x2F;MySQL, DynamoDB, security. R\u00e9sum\u00e9&#x2F;CV:  https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;otmane-b-27506b36b&#x2F;  | reach out for a detailed resume. Email: otmanebenazzou.dev@gmail.com Background: - coding since 2010, 6+ years working for startups &amp; scaleups, generalist engineer with strong fullstack",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "ff02c0f353359245711005cd7681542a",
+      "title": "Product Manager (m/f/d)",
+      "company": "Sereact",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact/product-manager-germany-48000",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 40.0,
+      "stack": [
+        "product & design"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2><strong>Who We Are:</strong></h2><p style=\"min-height:1.5em\">We are a rapidly growing embodied AI company revolutionizing physical labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across warehouses and fulfillment operations worldwide. Our products represent the frontier of what intelligent, dexterous automation can do \u2014 and we are only getting started.<br /></p><h1><strong>Overview:</strong></h1><p style=\"min-height:1.5em\">We are seeking a Product Manager to own the full product lifecycles \u2014",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e869517a312cde68f953976800bb8750",
+      "title": "Senior Solutions Architect - Security Specialist",
+      "company": "Elastic",
+      "url": "https://www.arbeitnow.com/jobs/companies/elastic/senior-solutions-architect-security-specialist-49673",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 39.0,
+      "stack": [
+        "sa - emea - siem"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for s",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "4f1ff529a3b44f5d251bec4e7d553d29",
+      "title": "Growth Associate",
+      "company": "Augustus",
+      "url": "https://www.arbeitnow.com/jobs/companies/augustus/growth-associate-berlin-288981",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "growth"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented.</strong></p><p style=\"min-height:1.5em\"><br />The Dollar is the best product in the history of the world - there is infinite global demand. But International Fintechs and non-US banks are left with two unsatisfying options to access it: Either they build on legacy clearing banks that are slow and unreliable, or they interface with middleware providers that don\u2019t move and hold the dollars directly, but themselves rely on underlying leg",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "326afdba1f77ad5090be2551b155c04c",
+      "title": "Senior/Staff Golang Engineer (EMEA)",
+      "company": "Wundergraph",
+      "url": "https://www.arbeitnow.com/jobs/companies/wundergraph/senior-staff-golang-engineer-emea-frankfurt-237205",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 37.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">WunderGraph is a fast-growing startup, our goal is to bring everybody together to build digital products end-to-end. From interface design to API implementation, we provide the platform to go from sketch to product in a category-defining collaborative experience.  Our North Star is to take the friction out of bringing digital ideas to life, making room for your ideas and productivity.</p><p style=\"min-height:1.5em\">Developers from some of the biggest companies in the world are using WunderGraph to design and streamline their API environments. We raised our Series A ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "8ccb98b43f12eccf4ddd870e2e8718e4",
+      "title": "Infrastructure Engineer",
+      "company": "Tailscale",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tailscale/infrastructure-engineer-140776",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Tailscale&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Tailscale is building the new Internet by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We&#39;re building a future for the Internet that&#39;s easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we&#39;re backed ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "fd35ed9f22b97a65c1da453f4241cdd3",
+      "title": "Infrastructure Engineer",
+      "company": "Tailscale",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tailscale/remote-infrastructure-engineer-26095",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 35.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Tailscale&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Tailscale is building the new Internet by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We&#39;re building a future for the Internet that&#39;s easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we&#39;re backed ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a68eeb6cb2f4696d2e2dc16eced42f7f",
+      "title": "Internship",
+      "company": "Augustus",
+      "url": "https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-270668",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 31.0,
+      "stack": [
+        "company wide"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented.</strong></p><p style=\"min-height:1.5em\"><br />The Dollar is the best product in the history of the world - there is infinite global demand. But International Fintechs and non-US banks are left with two unsatisfying options to access it: Either they build on legacy clearing banks that are slow and unreliable, or they interface with middleware providers that don\u2019t move and hold the dollars directly, but themselves rely on underlying leg",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "84d057d4eb7ee9a57d8132bde24d7727",
+      "title": "Office & Events Working Student",
+      "company": "Augustus",
+      "url": "https://www.arbeitnow.com/jobs/companies/augustus/office-events-working-student-berlin-232608",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 31.0,
+      "stack": [
+        "ceo office"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented.</strong></p><p style=\"min-height:1.5em\"><br />The Dollar is the best product in the history of the world - there is infinite global demand. But International Fintechs and non-US banks are left with two unsatisfying options to access it: Either they build on legacy clearing banks that are slow and unreliable, or they interface with middleware providers that don\u2019t move and hold the dollars directly, but themselves rely on underlying leg",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6bd61e62ccc69a6779029cfa1a8bb591",
+      "title": "Applied Machine Learning Scientist",
+      "company": "Stackadapt",
+      "url": "https://www.arbeitnow.com/jobs/companies/stackadapt/applied-machine-learning-scientist-188372",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 31.0,
+      "stack": [
+        "data science"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across programmatic advertising and marketing channels.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;section page-centered",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c3fd09f39491171af0c12c858ff44e09",
+      "title": "Backend Engineer (m/f/x)",
+      "company": "GRID eSports GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/grid-esports-gmbh/remote-backend-engineer-berlin-296634",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "engineering",
+        "remote"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<ul><li><p>Are you passionate about building event-driven systems?</p></li><li><p>Do you have a strong grasp of Kotlin or Go?</p></li><li><p>Do you enjoy finding solutions for significantly impactful challenges?</p></li></ul><p style=\"min-height: 1.7em;\"></p><p>If the answers to the above questions are yes, then this role could be ideal for you!</p> <br> <h4>What you will do&nbsp;</h4><ul class=\"ak-ul\"><li><p>Build greenfield mission-critical services and expand the reliability of existing ones</p></li><li><p>Help to shape GRID's technological landscape together with experienced colleagues</p>",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "bce86f1097ba4f275640ad1f4097c441",
+      "title": "Senior Financial Crime Investigator - Merchant Acquiring",
+      "company": "Monzoreferrals",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-financial-crime-investigator-merchant-acquiring-262985",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "customer operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;\ud83d\udccdRemote in the UK \ud83c\uddec\ud83c\udde7 | \u00a331,100 - \u00a339,350 + Incentive Awards tied to your performance +&amp;nbsp;&lt;a href=&quot;https://monzo.com/careers/&quot;&gt;Benefits&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Start date:&lt;/strong&gt; Monday 9th November 2026&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Shifts: &lt;/strong&gt;You&#39;ll work 37.5 hours per week. This means you&#39;ll work Monday to Friday, from 9AM to 5:30PM. You&#39;ll also work one full weekend (Saturday and Sunday), once every 4 weeks with 2 set days in lieu when working the weekend. (*For the first few months thi",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "26966673fa4089a4330640f62e2b7a07",
+      "title": "Senior Financial Crime Investigator - Business Banking",
+      "company": "Monzoreferrals",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-financial-crime-investigator-business-banking-149997",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "customer operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;UK Remote | \ud83d\udcb0 \u00a331,100 - \u00a339,350 + Incentive Awards tied to your performance +&lt;em&gt; &lt;/em&gt;&lt;a href=&quot;https://monzo.com/careers/&quot;&gt;Benefits&lt;/a&gt; | &lt;a href=&quot;https://www.youtube.com/watch?v=U62l09nB0M4&quot;&gt;Hear from the team &lt;/a&gt;\u2728&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Start Date:&lt;/strong&gt; We have start dates for Tuesday 1st September, Monday 12th October &amp;amp; Monday 9th November&lt;br&gt;(We will focus on filling the September start dates first, then move on to October, and finally November as each intake fills up).&amp;nbsp;&lt;/p&gt;\n",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "aca5e16779b0c16bca3472e4d153586a",
+      "title": "Customer Reliability Engineer",
+      "company": "Tailscale",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tailscale/customer-reliability-engineer-428307",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 29.0,
+      "stack": [
+        "customer support"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Tailscale&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Tailscale is building the new Internet by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We&#39;re building a future for the Internet that&#39;s easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we&#39;re backed ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "4103cb1f9226336a30dd83bb33592d16",
+      "title": "Senior Compliance Analyst",
+      "company": "Lithic",
+      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-compliance-analyst",
+      "source": "weworkremotely",
+      "channel": "A",
+      "score": 29.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-04T07:30:56",
+      "description": "Headquarters:  Remote \n \n\n  Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. \n Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years. \n We're building a future where access to better financial pro",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "09ac157d60955af1c456588b20bcb584",
+      "title": "Calling Specialist",
+      "company": "KSNL Consulting LLC",
+      "url": "https://remoteOK.com/remote-jobs/remote-calling-specialist-ksnl-consulting-llc-1136074",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 28.6,
+      "stack": [
+        "sys admin",
+        "dev",
+        "design",
+        "technical",
+        "customer support",
+        "education",
+        "exec",
+        "engineer",
+        "digital nomad",
+        "vfx",
+        "ops",
+        "stats"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-02T02:03:36+00:00",
+      "description": "<p><strong><em><u>JOB DESCRIPTION&nbsp;</u></em></strong></p><p><br></p><p>Thank you for showing interest in Outreach Specialist role at KSNL Consulting LLC! Before we move forward, we want to make sure you have a full picture of what we do and what this job actually looks like day to day.</p><p><strong>Who we are</strong>: KSNL Consulting is a project consulting firm. Every day, thousands of commercial projects hits the portal we work from \u00e2\u0080\u0094 Nature of the projects can be any project from changing a bulb to providing aircraft maintenance project.         Our company stick to the practical, e",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "1ca3b1a4fd2218769f30980235b0c240",
+      "title": "Backend Engineer III",
+      "company": "Monzoreferrals",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-iii-cardiff-112283",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 27.5,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\ud83d\udccdLondon or UK Remote | \ud83d\udcb0 &lt;a href=&quot;https://monzo.com/documents/engineering-progression-framework-v4-1.pdf&quot;&gt;Engineer III&lt;/a&gt; &lt;br&gt;&lt;br&gt;Compensation: \u00a385,000 - \u00a3110,000 +&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Incentive Awards tied to your performance + &lt;/span&gt;&lt;a href=&quot;https://monzo.com/careers/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benefits&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; | &lt;/span&gt;&lt;a href=&quot;https://monzo.com/blog/technology&q",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
