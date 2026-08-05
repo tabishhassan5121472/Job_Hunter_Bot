@@ -1,0 +1,394 @@
+{
+  "run_id": "2026-08-05-0741",
+  "generated_at": "2026-08-05T07:41:52.187469Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "61ece27310003fdc6df07d797955207e",
+      "title": "Software Engineer (f/m/d)",
+      "company": "Manex AI GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/software-engineer-munich-178683",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 60.0,
+      "stack": [
+        "tech"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1>Who we are</h1><p style=\"min-height:1.5em\">Manufacturing runs on fragmented data: machines, sensors, and decade-old systems that don't speak to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can not unfold its potential in point solutions that don\u2019t deliver. At Manex AI, we build that missing layer with our platform: It handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it.</p><p style=\"min-height:1.5em\">We're a small team in Munich, backed by Lightspeed and BlueYard, with engin",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b9fe76be0a4b06558c68149f8cb78701",
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "company": "Yooli",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+      "source": "weworkremotely",
+      "channel": "A",
+      "score": 55.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-05T05:52:46",
+      "description": "Headquarters:  Australia\n      URL:   http://yooli.co \n \n\n  Job description  \n \n We are seeking a highly skilled  Senior Software Engineer  to join our team and contribute to the transformative tech evolution in healthcare.&nbsp; \n This critical role involves developing, integrating, and optimising our backend and database systems.&nbsp; \n You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation. \n \n &nbsp; \n  Your Role:  \n \n Develop and maintain robust backend services using  NestJS  and  Node.js ,",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "ba92700fbf46878c0df7338a8bfd504a",
+      "title": "Web Developer (Volunteer / Portfolio Credit)",
+      "company": "David Hooper Home Limited",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/david-hooper-home-limited/web-developer-volunteer-portfolio-credit-pontypridd-454167",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 52.5,
+      "stack": [
+        "remote",
+        "web development"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>DH Home Networking &#x26; Websites is a new UK-based digital services startup building modern websites and systems for small businesses.</p>\n<p>We\u2019re looking for a motivated Web Developer to help us deliver real client projects while building your own portfolio, experience, and references. This role is fully remote, flexible, and ideal for students, career-changers, or self-taught developers looking for hands-on experience.</p>\n<p>This role is unpaid.</p>\n<h2>Tasks</h2>\n<p>Build and deploy websites based on real client needs</p>\n<p>\u2022 Work on small to medium web projects (business websites, ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "54a715c7541ec3ee203ce6dce185a36d",
+      "title": "Founding Engineer",
+      "company": "LYON INCORPORATED LTD",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lyon-incorporated-ltd/founding-engineer-liverpool-449064",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "remote",
+        "it"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Founding Engineers Wanted \u2013 Build LYON INC From the Ground Up</p>\n<p>LYON INC is an early-stage UK-registered technology startup building a next-generation digital management platform that integrates:</p>\n<p>* Social Media Management</p>\n<p>* Automation Tools</p>\n<p>* AI-Driven Analytics</p>\n<p>* Website &#x26; Brand Integration</p>\n<p>We are currently in active prototype development and preparing for structured fundraising.</p>\n<p>This is NOT a traditional salaried job.</p>\n<p>We are looking for committed builders who want to join at the foundation level and grow with the company.</p>\n<p>\u2e3b",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6b0da83895efb3cf438526b432d4d8b8",
+      "title": "Senior Software Engineer - Backend",
+      "company": "databricks",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/senior-software-engineer-backend-berlin-267668",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 40.0,
+      "stack": [
+        "engineering - pipeline"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;P-1327&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about helping data teams solve the world&#39;s toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business.&lt;/p&gt;\n&lt;p&gt;Founded by engineers, Databricks has started a multi-year journey to build the best Lakehouse Platform. For this we are building on top of a great foundation but our goal ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c67c1a3f8ee503c81afe6de998ef3bb3",
+      "title": "Senior UX/UI Designer",
+      "company": "Tangible",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tangible/senior-ux-ui-designer-london-237023",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 39.0,
+      "stack": [
+        "remote",
+        "graphic arts and communication design"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Tangible is a fintech platform providing liquidity in private markets, including private equity and real estate. We operate a digital auction platform and build tailored marketplaces for financial institutions. We move fast, care about craft, and believe great design is a core driver of our product.</p>\n<p>We are looking for a <strong>Senior UX/UI Designer</strong> to join our product team full-time. You will own the end-to-end design of our financial products \u2014 from user research and customer journeys through to pixel-perfect interfaces \u2014 and work closely with our product, engineering, and",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f33447108e6fb5ba03cd7b7c8bc5916b",
+      "title": "Junior National Account Manager (Beauty Retail)",
+      "company": "Sand & Sky",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sand-sky/junior-national-account-manager-beauty-retail-london-166120",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 36.0,
+      "stack": [
+        "management",
+        "team leader"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>At Sand &#x26; Sky, we are committed to uncomplicated skincare, reinventing and elevating regimes with effective formulas and fuss-free routines. We\u2019re on a mission to redefine beauty standards and share the transformative power of our products.</p>\n<p>We are looking for a Junior Account Manager to support and grow our retail partnerships in the UK. Reporting to the Global Head of Sales, this role will play a key part in managing UK retailer relationships, driving sales performance, and ensuring best-in-class execution across retail partners. This is a fantastic opportunity for someone with",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "1d0315c7d4bfa404289d7caf6d7335c6",
+      "title": "Account Executive | UK Market (m/f/d)",
+      "company": "Superchat",
+      "url": "https://www.arbeitnow.com/jobs/companies/superchat/account-executive-uk-market-berlin-berlin-128016",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 32.0,
+      "stack": [
+        "sales"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;At Superchat, we&#39;re rebuilding how businesses talk to their customers. The phone call, the contact form, the support ticket: all of it is being replaced by messaging and AI. We&#39;re building the platform that runs underneath.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Founded in 2020, Superchat has become the platform of choice for &lt;strong&gt;10,000+ businesses worldwide&lt;/strong&gt;, from globally recognized brands like Allianz, Auto1, Enpal, Danone, and GASAG to the small businesses, dental practices, and one-person startups that need to look bigger than they are. To",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6d2769e1652ef057b755435312b2685e",
+      "title": "Business Development Representative (SaaS Enterprise)",
+      "company": "Sherpany by Datasite",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sherpany-by-datasite/business-development-representative-saas-enterprise-london-76280",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 32.0,
+      "stack": [
+        "business development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Sherpany is the leading solution for managing board and executive meetings. We support 20,000+ global leaders and executives in streamlining and optimising the entire meeting lifecycle\u2014from preparation and collaboration to follow-up\u2014and deliver AI-powered insights to turn focussed discussions into powerful outcomes.</p>\n<p>Since 2024 Sherpany has been part of the Datasite Group, the global leaders in secure transaction technology. Together we\u2019re making high-impact decision making the standard for businesses across the globe.</p>\n<p><strong>Ready to kick-off your Sales Career?</strong></p>\n<",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "111921607215810bdff472177493927a",
+      "title": "SALES BRANCH MANAGER (M/F/D)",
+      "company": "sera Gruppe",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sera-gruppe/sales-branch-manager-burton-upon-trent-489405",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 32.0,
+      "stack": [
+        "sales engineer"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>We inspire our customers worldwide with our innovative products and services and create added value for people and environment. As a traditional medium-sized group of companies with over 300 colleagues at 6 locations in Germany and abroad, we are pushing our international growth and our transformation into a modern, value-oriented and people-oriented company with a flat hierarchy and culture of trust and short decision-making processes.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Take responsibility for the UK sales team after onboarding and training</li>\n<li>Introduce sera and its dosing pump products to ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "dd490109f2643739aa2481226f15588f",
+      "title": "US Key Account Manager (Toys & Games)",
+      "company": "Jumbo Group",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jumbo-group/us-key-account-manager-toys-games-manchester-227755",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 32.0,
+      "stack": [
+        "remote",
+        "management",
+        "team leader"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p>Do you want to have an excellent experience as an employee in one of the most pioneering <strong>toy companies</strong> in the market? Are you passionate about games and driven to provide exceptional products and services to customers worldwide?</p>\n<p>This is the company you are looking for!</p>\n<p>At Jumbo Group we want people to learn, have fun and be happy thanks to our amazing toys and games. We are currently seeking a highly motivated <strong>US Key Account Manager for Toys &#x26; Games</strong> to join our dynamic team and make dreams come true!</p>\n<p>This home-based role requires a",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a0a90092c19c27db5b81f0795b5fc8fb",
+      "title": "Senior Applications Engineer",
+      "company": "Rhoda Ai",
+      "url": "https://www.arbeitnow.com/jobs/companies/rhoda-ai/senior-applications-engineer-munich-germany-151084",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 31.0,
+      "stack": [
+        "applications engineering- applied ai"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">At Rhoda AI, we\u2019re building the next generation of generalist intelligent robots. We own the full robotics stack from high-performance hardware and robot systems to the infrastructure and state-of-the-art foundation world models that control our robots. Our robots are designed to be generalists capable of operating in complex, real-world environments and handling long-tail edge cases, made possible by our cutting edge research and end-to-end system design. We've raised over $450M and are investing aggressively in model research, infrastructure, hardware development,",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9c31b70c8b1f29f9174fda3e98e55841",
+      "title": "Senior Data Analyst (Engineer) (f/m/d)",
+      "company": "adjoe",
+      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-data-analyst-engineer-hamburg-319052",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "adjoe"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">adjoe builds the technologies behind mobile apps growth and monetization. <strong>adjoe Ads</strong> is our programmatic in-app advertising platform that seamlessly connects advertisers and publishers through direct integration of our Android and iOS SDKs. Every ad decision happens in under 200ms across 10 million daily users, powered by real-time bidding algorithms and user quality prediction models that match the right ad to the right user at the right moment.</p><p style=\"min-height:1.5em\"><strong>50 Billion Daily Bid Predictions<br /></strong><br />The User Expe",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a21ebd3b414ccccefbf751d5c3d8466f",
+      "title": "Product Manager",
+      "company": "Tangible",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tangible/product-manager-london-139754",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 30.0,
+      "stack": [
+        "remote",
+        "project management"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p><strong>Location</strong>: Fully Remote (preferance for candidates in <strong>Europe</strong>)</p>\n<p><strong>Coordination time</strong>: UK/European business hours</p>\n<p><strong>Team</strong>: Product Team</p>\n<p><strong>Employment Type</strong>: Contract</p>\n<p><strong>Company Description</strong></p>\n<p>Tangible is a fast-growing, tech-driven platform providing liquidity solutions to LPs and GPs in the private-markets secondaries space. By combining deep sector expertise with modern infrastructure, we unlock liquidity across private equity, private credit, and real assets, transforming ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "de84155a4a3ea22c689ef8511ecb49cf",
+      "title": "AI Software Engineer - Internship (f/m/d)",
+      "company": "Manex AI GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/ai-software-engineer-internship-munich-325907",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 28.5,
+      "stack": [
+        "tech"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1>AI Software Engineer - Internship (f/m/d)</h1><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\"><strong>About Us</strong><br />Manex AI is on a mission to enable autonomy for the world's leading organizations, currently building the production system for the era of autonomous manufacturing. With our Seed Round raised from Lightspeed and BlueYard and leading manufacturing enterprises relying on our systems, we are now scaling fast. For our world-class team, we are looking for exceptionally driven students who want real ownership early.</p><p style",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "117dd91ae3e7d4be1611f855ebfb9a7a",
+      "title": "Forward Deployed Engineer - Internship (f/m/d)",
+      "company": "Manex AI GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/forward-deployed-engineer-internship-munich-333665",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 28.5,
+      "stack": [
+        "operations"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>Forward Deployed Engineer - Internship (f/m/d)</h2><p style=\"min-height:1.5em\"><strong>About Us</strong></p><p style=\"min-height:1.5em\">Manex AI is on a mission to enable autonomy for the world's leading organizations, currently building the production system for the era of autonomous manufacturing. With our Seed Round raised from Lightspeed and BlueYard and leading manufacturing enterprises relying on our systems, we are now focused on scaling operations across all departments. For our world-class team, we are looking for experts and talent that is ambitious enough to tackle some of the w",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "b2bcb48b82d2645baf033dcd9b6154e8",
+      "title": "AI Agent Engineer (f/m/d)",
+      "company": "Manex AI GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/ai-agent-engineer-munich-193615",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 28.5,
+      "stack": [
+        "tech"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1><strong>AI Agent Engineer (f/m/d)</strong></h1><p style=\"min-height:1.5em\"></p><h1>Who we are</h1><p style=\"min-height:1.5em\">Manufacturing runs on fragmented data: machines, sensors, and decade-old systems that don't speak to each other. Data sits in departmental silos, knowledge lives in people's heads, and AI can not unfold its potential in point solutions that don\u2019t deliver. At Manex AI, we build that missing layer with our platform: It handles manufacturing data at scale, models the factory ontology and builds agentic applications that reason and act across it.</p><p style=\"min-height",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "a7355e98894621ba803fae233eeb304c",
+      "title": "Senior Domain Engineering Specialist",
+      "company": "Veeamsoftware",
+      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-domain-engineering-specialist-86830",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 27.0,
+      "stack": [
+        "ww center of expertise 1009367"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;elementToProof&quot;&gt;\n&lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their bus",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "fe7e4515ac034b67869eee3064bd7a23",
+      "title": "Partnership Development Manager UK&I (London based)",
+      "company": "Factorial",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/factorial/partnership-development-manager-uki-london-based-108495",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [
+        "business development"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p><strong>Hello!</strong></p>\n<p>At Factorial, we believe our growth is powered by the strength of our partner ecosystem. Our mission is to help companies automate and simplify HR processes so they can focus on what matters most: their people. As we continue to scale globally, we\u2019re looking for a <strong>Partnerships Development Manager</strong> for the <strong>UK&#x26;I region</strong> to help expand, strengthen, and accelerate our partner network.</p>\n<p>You\u2019ll play a key role in expanding Factorial through partnerships, working closely with local partners who sell, implement, and support o",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d63a763760095ea2fd418ca6777fd482",
+      "title": "Outbound Operations Manager (Spanish required)",
+      "company": "Velo Solutions",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/velo-solutions/outbound-operations-manager-spanish-required-london-258526",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 26.0,
+      "stack": [
+        "remote",
+        "management",
+        "team leader"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p><strong>Manage end-to-end B2B cold email &#x26; LinkedIn campaigns, run QA and data workflows, and lead a small ops team to deliver scalable outreach that drives qualified leads.</strong></p>\n<p>Our client is a fast-growing Spanish B2B outbound agency that helps companies generate qualified sales opportunities through highly targeted cold email and LinkedIn campaigns. Using advanced outbound systems, automation tools, and data-driven workflows, they build and manage scalable outreach campaigns for clients across multiple industries.</p>\n<p>They are now looking for an Outbound Operations Man",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
