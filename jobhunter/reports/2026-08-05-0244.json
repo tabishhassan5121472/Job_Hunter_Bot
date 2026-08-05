@@ -1,0 +1,384 @@
+{
+  "run_id": "2026-08-05-0244",
+  "generated_at": "2026-08-05T02:44:10.416792Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "8e13d417a73ee2d702c22297893917bb",
+      "title": "Senior Software Engineer (m/f/d)",
+      "company": "Cello",
+      "url": "https://www.arbeitnow.com/jobs/companies/cello/senior-software-engineer-germany-2669",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 78.5,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1><strong>\ud83d\ude80 Why join</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">AI-powered infrastructure company with <strong>$10.3M in funding</strong> from top-tier investors.</p></li><li><p style=\"min-height:1.5em\">Exciting product: APIs, attribution models, MCP integration, AI-based recommendation engines, and assistants - not your typical CRUD app.</p></li><li><p style=\"min-height:1.5em\">Real traction: <strong>30+ new customers every month</strong>, <strong>10M+ end users monthly</strong>.</p></li><li><p style=\"min-height:1.5em\">Small team, so you'll genuinely shape how ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7f256841ddd91dd4936e296cb91e1701",
+      "title": "Frontend Developer",
+      "company": "Gismart",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-frontend-developer-196917",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 63.5,
+      "stack": [
+        "web engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>About us:</strong><br />Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a dynamic global company with a reach extending across Europe and far beyond. Our determined team comprises over 350 individuals who bring diversity, creativity, innovation, and relentless ",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6141e9202ff56b6c784f7e352780585b",
+      "title": "AI-Assisted Software Engineer, Web Applications",
+      "company": "LMG Staffing Solutions",
+      "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+      "source": "weworkremotely",
+      "channel": "A",
+      "score": 62.5,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-04T22:12:17",
+      "description": "Headquarters:  Medell\u00edn, Medellin, Colombia\n      URL:   http://logicalmediagroup.com \n \n\n Description     Overview We are looking for a software engineer to build and scale our internal web applications. Your mission is to deliver high-quality, maintainable solutions using a Next.js front end and a Django back end, while actively using AI tools and Model Context Protocols (MCPs) to accelerate development and enforce clean architecture.    What Success Looks Like     Seamless integration between the Next.js front end and Django back end, maintaining high performance and security.  Proactive us",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9926dcf2f08f9761e269c4c1365db897",
+      "title": "Full-Stack Software Engineer, Ruby on Rails (m/f/d) at Solar Startup",
+      "company": "VREY",
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-software-engineer-ruby-on-rails-at-solar-startup-berlin-173940",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 60.0,
+      "stack": [
+        "product"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About Us</h2><p style=\"min-height:1.5em\">At <strong>VREY</strong>, we're building the <strong>EnergyOS for multi-family buildings</strong>.</p><p style=\"min-height:1.5em\">Germany has over <strong>3.3 million apartment buildings</strong> \u2014 and they are the blind spot of the energy transition. &lt;1% solar penetration. &lt;2% smart metering. Almost no flexibility or intelligent energy management.</p><p style=\"min-height:1.5em\">At the same time, regulation is forcing property owners into major investment: solar is becoming mandatory, smart meters must be rolled out nationwide within five year",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "da3cd97c376daf282fb6ff1190fcf1f4",
+      "title": "Full-Stack Product Engineer, Ruby on Rails (m/f/d) at Solar Startup",
+      "company": "VREY",
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-product-engineer-ruby-on-rails-at-solar-startup-berlin-397612",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 60.0,
+      "stack": [
+        "product"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h2>About Us</h2><p style=\"min-height:1.5em\">At <strong>VREY</strong>, we're building the <strong>EnergyOS for multi-family buildings</strong>.</p><p style=\"min-height:1.5em\">Germany has over <strong>3.3 million apartment buildings</strong> \u2014 and they are the blind spot of the energy transition. &lt;1% solar penetration. &lt;2% smart metering. Almost no flexibility or intelligent energy management.</p><p style=\"min-height:1.5em\">At the same time, regulation is forcing property owners into major investment: solar is becoming mandatory, smart meters must be rolled out nationwide within five year",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "83c2d99d1a3b3368bfd49b6bc0cfb6a7",
+      "title": "Software Engineer (m/f/d)",
+      "company": "Cello",
+      "url": "https://www.arbeitnow.com/jobs/companies/cello/software-engineer-germany-414073",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 56.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Cello</strong> is the Revenue Growth Infrastructure for modern digital businesses \u2014 turning word-of-mouth into a systematic, measurable growth channel for the AI era. Category leaders like Typeform, Miro, and Veed use Cello to accelerate their growth flywheel.</p><p style=\"min-height:1.5em\"></p><h1><strong>TL;DR</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Seed, GrowthTech</p></li><li><p style=\"min-height:1.5em\">Remote-first, Europe-based (must be within CET +/-3 hours)</p></li><li><p style=\"min-height:1.5em\">Competitive salary +",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "133b061863e57a9a8747ce5f188bdecf",
+      "title": "Python Developer - Remote in Germany",
+      "company": "Anyone Ai",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/python-developer-remote-in-germany-berlin-319060",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 55.0,
+      "stack": [
+        "software engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled Python Developers to work on a project with a leading AI lab. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-height:",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "8d039fa9e84dc75fed4faedc01ec6e34",
+      "title": "Full-Stack Developer - AI Trainer (Germany)",
+      "company": "Anyone Ai",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-278001",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 55.0,
+      "stack": [
+        "software engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled Full-Stack Developers to work on a project with a leading AI lab. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-hei",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "8659091a0cead3b007c4b46387ccf6cf",
+      "title": "Backend Developer - AI Trainer (Germany)",
+      "company": "Anyone Ai",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/backend-developer-ai-trainer-germany-berlin-112597",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 55.0,
+      "stack": [
+        "software engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled Backend Developers to work on a project with a leading AI lab. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-height",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6c7f52ca07a77c6c18c52b07af132b8e",
+      "title": "Software Engineering AI Trainer (Germany)",
+      "company": "Anyone Ai",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/software-engineering-ai-trainer-germany-berlin-428271",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 55.0,
+      "stack": [
+        "software engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled software engineers to work on a project with a leading AI lab. </p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-height:1.5em\">Backend or full\u2011stack de",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "c4eb62d24c6e137682f42dd29b17a49a",
+      "title": "Full-Stack Developer (Germany)",
+      "company": "Anyone Ai",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-germany-berlin-455281",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 55.0,
+      "stack": [
+        "software engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled software engineers who also speak German, to work on a project with a leading AI Lab. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7e8c86499426f4693fc0c123379d1974",
+      "title": "Software Engineer (All Levels), United Kingdom",
+      "company": "Koboldmetals",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-386233",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 53.5,
+      "stack": [
+        "software engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;We are open to hiring at multiple levels for this role, depending on experience, impact, and demonstrated ownership. While this role is level-agnostic, it is best suited for engineers with experience owning production systems and working in highly ambiguous problem spaces.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the company:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mining industry has steadily become worse at finding new ore deposits, requiring &amp;gt;10",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "2718ae2f885e495cb8421a6620b37333",
+      "title": "Senior Frontend Engineer (Kotlin) - Frontend Core",
+      "company": "Trading212",
+      "url": "https://www.arbeitnow.com/jobs/companies/trading212/senior-frontend-engineer-kotlin-frontend-core-berlin-422627",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 48.5,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><em><strong>Our mission is to enable everyone to build wealth</strong></em></p><p style=\"min-height:1.5em\"><em>We reinvent how trading and investing work by creating exceptional products people love.</em></p><p style=\"min-height:1.5em\"><em>Fostering a culture of excellence and high velocity is the key to our success.</em></p><p style=\"min-height:1.5em\"><em>Today, we serve over 5 million clients, with more than \u20ac30 billion in assets under management - a testament to the scale and trust we\u2019ve built in just a few years.</em></p><h2></h2>",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "da36441e020603c7af1e4c2d346b0597",
+      "title": "Web Developer",
+      "company": "Charles Technology Africa",
+      "url": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
+      "source": "weworkremotely",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-04T22:13:00",
+      "description": "Headquarters:  Accra, Remote, Ghana\n      URL:   http://meisterpiece.com \n \n\n  JOB DESCRIPTION   Charles Technology Africa seeks to hire a Web Developer to independently design, develop, and maintain both external and internal Websites and applications that leverage the WordPress Content management system.  &nbsp;   Minimum Qualifications Required:   Strong HTML, CSS, PHP and Java Script skills  Expert level Wordpress experience and capabilities  Ability to integrate WP websites with other applications  Experience with Cpanel or other managed hosting platforms  Proficiency with client-side scr",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "14b5f4fc509771626d32cef76857ec09",
+      "title": "Technical Leader - Latin America",
+      "company": "Azumo",
+      "url": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america",
+      "source": "weworkremotely",
+      "channel": "A",
+      "score": 42.0,
+      "stack": [],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-04T22:12:17",
+      "description": "Headquarters:  Buenos Aires, Argentina\n      URL:   http://azumo.com \n \n\n Description      Azumo is looking for a highly motivated Technical Leader to develop and enhance high-performing and scalable software solutions in Python, .NET, Machine Learning Engineering, Data Science, Data Engineering, JavaScript, and Java, among other technological challenges.   We will only be considering candidates based in Latin America, as most of our engineers are based there.  This position will give you the opportunity to collaborate with a growing team and bright engineering minds in software development, d",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e80301da98a119939f8689bacc1ae24d",
+      "title": "Senior Growth Manager",
+      "company": "Cello",
+      "url": "https://www.arbeitnow.com/jobs/companies/cello/senior-growth-manager-germany-57165",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "marketing"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1><strong>TL;DR</strong></h1><p style=\"min-height:1.5em\">\ud83c\udf0e Remote-first, Europe-based (must be within CET +/-3 hours)</p><p style=\"min-height:1.5em\">\ud83c\udf70 Competitive salary + eVSOPS</p><p style=\"min-height:1.5em\">\ud83c\udf31 Backed by leading VCs like HV Capital, byFounders, Notion Capital\u2026</p><p style=\"min-height:1.5em\">\ud83c\udfe6 Trusted by category leaders like Bolt, Typeform, Miro, Veed and more</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>\ud83d\ude80 Why join</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Scale-up with <strong>$10.3M in funding</strong> from top-tier",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "e30945b8a0c28a87d5bf15048e03757b",
+      "title": "DevOps Engineer",
+      "company": "Sardine",
+      "url": "https://www.arbeitnow.com/jobs/companies/sardine/devops-engineer-germany-224339",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Who we are:</strong></p><p style=\"min-height:1.5em\">Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine\u2019s platform is strengthened by one of the fastest-growing fraud consortiums in the market, spanning more than 6 billion profiled devices, 800 million consumers, and 3 million businesses worldwide. Leading companies including FIS, GoDaddy, Intuit, Edward Jones, Z",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "6664b7ec4f2fe5bdb28205e96ab0f9fe",
+      "title": "DevOps Engineer",
+      "company": "Sardine",
+      "url": "https://www.arbeitnow.com/jobs/companies/sardine/devops-engineer-germany-228395",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 41.0,
+      "stack": [
+        "engineering"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<p style=\"min-height:1.5em\"><strong>Who we are:</strong></p><p style=\"min-height:1.5em\">Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine\u2019s platform is strengthened by one of the fastest-growing fraud consortiums in the market, spanning more than 6 billion profiled devices, 800 million consumers, and 3 million businesses worldwide. Leading companies including FIS, GoDaddy, Intuit, Edward Jones, Z",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "07af0530ddb0443f27c2e111329831b6",
+      "title": "Close satellite support",
+      "company": "BRAVO1ALPHA BV",
+      "url": "https://remoteOK.com/remote-jobs/remote-close-satellite-support-bravo1alpha-bv-1136076",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 39.3,
+      "stack": [
+        "customer support",
+        "css",
+        "ops",
+        "non tech"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-04T01:48:10+00:00",
+      "description": "CSS delivers near real-time IMINT and GEOINT products directly to operational and tactical users, compressing the sensor-to-effector cycle to under 90 minutes.<br/><br/>Please mention the word **UNWAVERING** and tag RMTMuODMuMjMzLjk3 when applying to show you read the job post completely (#RMTMuODMuMjMzLjk3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "253b06caf4f324339a6bbf79f3546bc0",
+      "title": "Implementation Enginner",
+      "company": "Engflow",
+      "url": "https://www.arbeitnow.com/jobs/companies/engflow/implementation-enginner-germany-427373",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 39.0,
+      "stack": [
+        "customer success"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h1>About EngFlow</h1><p style=\"min-height:1.5em\">At <strong>EngFlow</strong>, we help developers save time by accelerating software builds and tests. Our cloud-based, distributed service optimizes developer workflows through remote execution and caching, improving efficiency, productivity, and product quality.</p><p style=\"min-height:1.5em\">Backed by top investors, EngFlow is redefining how companies build software and ship well-tested products. Our solutions speed up builds by a factor of 10 or more, while our observability platform provides actionable insights for optimization. Founded by k",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
