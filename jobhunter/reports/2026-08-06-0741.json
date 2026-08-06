@@ -1,0 +1,411 @@
+{
+  "run_id": "2026-08-06-0741",
+  "generated_at": "2026-08-06T07:41:53.148168Z",
+  "total": 20,
+  "opportunities": [
+    {
+      "id": "531abdc04d417f28f7974b1b1b18db55",
+      "title": "Senior Software Engineer",
+      "company": "Workmotion",
+      "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-software-engineer-germany-225652",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 63.5,
+      "stack": [
+        "internet",
+        "workmotion",
+        "remote"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "<h3>Senior Software Engineer</h3><p><strong>Location:</strong> Remote (Within +/- 2 hours of CET)<br><strong>Contract Type:</strong> Full-time<br><strong>Starting Salary: \u20ac70K per year gross subjected to Skills and Experience</strong>&nbsp;</p><h3><br>Not Your Typical Workplace\u2026</h3><p>Tired of the 9-to-5 grind? Imagine a world without borders, where opportunities are endless. That's the future of work, and what we're building at WorkMotion.</p><p>Our remote-first team spans the globe, helping companies hire, onboard, and manage talent internationally through smart, flexible workforce solution",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7f02c2449702fdbe93156b63ce15ed1f",
+      "title": "Software Engineer, Platform - Manchester, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-manchester-united-kingdom-88157",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 52.5,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d471425fa11e600a515044562181178d",
+      "title": "Software Engineer, Platform - Leeds, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-leeds-united-kingdom-235717",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 52.5,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d2b16ee4d3c68e5f3d1d26d2da2fb9cd",
+      "title": "Software Engineer, Platform - Edinburgh, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-platform-edinburgh-united-kingdom-95176",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 52.5,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&amp;nbsp;&amp;",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "006ffdd1d557a8fde4731b98b16bcad1",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Leeds, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-leeds-united-kingdom-471308",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 46.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Mission&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac Ap",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "4bf9729c117ea8cacc5f839c3f5419ca",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Edinburgh, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-edinburgh-united-kingdom-49740",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 46.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Mission&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac Ap",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "9fb6d5d3220f1d0423f92d1ab158f071",
+      "title": "Senior Software Engineer, Windows/Desktop Applications - Cardiff, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-cardiff-united-kingdom-182028",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 46.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Mission&lt;/strong&gt;&lt;/div&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt;\n&lt;p&gt;Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac Ap",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "2ffa377a2834c410b0f55cfb5962c087",
+      "title": "Go-to-Market - Reading, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-reading-united-kingdom-415535",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "dc97ba8986885ee146b2680c50bdb360",
+      "title": "Go-to-Market - Oxford, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-oxford-united-kingdom-277046",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "af5928005213a1aabf53380bd69c0dc4",
+      "title": "Go-to-Market - Newcastle, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-newcastle-united-kingdom-93632",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "28680c53193927b3e5830a8c7b9906ea",
+      "title": "Go-to-Market - Manchester, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-manchester-united-kingdom-201728",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "1e9c800cd27445560d0903c8538f5596",
+      "title": "Go-to-Market - London, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-london-united-kingdom-235985",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "fbdac316aef63ab0b9b7dfc91852006c",
+      "title": "Go-to-Market - Leeds, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-leeds-united-kingdom-360643",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "7c087150d1405b8cde78108a50e71299",
+      "title": "Go-to-Market - Glasgow, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-glasgow-united-kingdom-143100",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "87ef6343a27ab09e3dc2dce7a1f991e5",
+      "title": "Go-to-Market - Cardiff, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-cardiff-united-kingdom-125344",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "f8c5a868f229cef29ef8a689db97e663",
+      "title": "Go-to-Market - Bristol, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-bristol-united-kingdom-222337",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "2e58c1f4f75416da9e31f9e7c62867b4",
+      "title": "Go-to-Market - Brighton, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-brighton-united-kingdom-146172",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "d05ed47c1450a6460b4fb1e13afc454e",
+      "title": "Go-to-Market - Birmingham, United Kingdom",
+      "company": "speechify",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/go-to-market-birmingham-united-kingdom-58592",
+      "source": "arbeitnow",
+      "channel": "A",
+      "score": 45.0,
+      "stack": [
+        "global"
+      ],
+      "is_remote": false,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": null,
+      "description": "&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning. Over 50 million people use Speechify&#39;s text-to-speech products to turn whatever they&#39;re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&lt;/p&gt;\n&lt;p&gt;Today, nearly 200 people around the globe work on Speechify in a 100",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "cece12032901ae2ca12c4085cd60f676",
+      "title": "Go Ahead London",
+      "company": "Kent Country",
+      "url": "https://remoteOK.com/remote-jobs/remote-go-ahead-london-kent-country-1136204",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 44.3,
+      "stack": [
+        "education",
+        "non tech",
+        "finance",
+        "exec",
+        "saas",
+        "sys admin",
+        "vfx",
+        "c",
+        "embedded",
+        "infosec",
+        "technical",
+        "customer support"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-05T04:08:49+00:00",
+      "description": "<ul><li>Consent</li><li>Details</li><li>[#IABV2SETTINGS#]</li><li>About<br><br></li></ul>Cookie Preferences<br><br>We use cookies to help us to improve your journey, how you book tickets and enhance your overall website experience. You can choose one of the options below. Get more information by clicking on \"Details\".<br><br>[#GPC_BANNER_ICON#]<br><br>[#GPC_TOAST_TEXT#]<br><br>Consent Selection<br><br><strong>Necessary<br><br></strong><strong>Preferences<br><br></strong><strong>Statistics<br><br></strong><strong>Marketing<br><br></strong><strong>About Our Cookies<br><br></strong>Details<br><br",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    },
+    {
+      "id": "94b9ed6f5f8b98a5ec5b0f8dac2a389c",
+      "title": "Go South Coast",
+      "company": "Kent Country",
+      "url": "https://remoteOK.com/remote-jobs/remote-go-south-coast-kent-country-1136227",
+      "source": "remoteok",
+      "channel": "A",
+      "score": 43.3,
+      "stack": [
+        "testing",
+        "marketing",
+        "sales",
+        "ecommerce",
+        "shopify",
+        "non tech",
+        "embedded",
+        "infosec",
+        "travel",
+        "finance",
+        "video",
+        "laravel"
+      ],
+      "is_remote": true,
+      "seniority": "",
+      "budget": null,
+      "currency": "USD",
+      "posted_at": "2026-08-05T04:08:28+00:00",
+      "description": "<ul><li>Consent</li><li>Details</li><li>[#IABV2SETTINGS#]</li><li>About<br><br></li></ul>Cookie Preferences<br><br>We use cookies to help us to improve your journey, how you book tickets and enhance your overall website experience. You can choose one of the options below. Get more information by clicking on \"Details\".<br><br>[#GPC_BANNER_ICON#]<br><br>[#GPC_TOAST_TEXT#]<br><br>Consent Selection<br><br><strong>Necessary<br><br></strong><strong>Preferences<br><br></strong><strong>Statistics<br><br></strong><strong>Marketing<br><br></strong><strong>About Our Cookies<br><br></strong>Details<br><br",
+      "llm_fit_note": "[llm error (cerebras): Error code: 404 - {'message': 'Model does not exist or you do not have access to it.', 'type': 'not_found_error', 'param': 'model', 'code': 'model_not_found'}]"
+    }
+  ]
+}
